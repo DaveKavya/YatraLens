@@ -1,0 +1,115 @@
+{% extends "base.html" %}
+{% block title %}Destinations{% endblock %}
+{% block page_title %}Destinations{% endblock %}
+{% block page_sub %}Visitor statistics by destination — click column headers to sort{% endblock %}
+
+{% block content %}
+
+<!-- Filter Bar -->
+<form id="filter-form" method="get" action="{{ url_for('destinations') }}">
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label>State</label>
+      <select name="state">
+        {% for s in options.states %}
+        <option value="{{ s }}" {% if filters.state == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Destination</label>
+      <select name="destination">
+        {% for d in options.destinations %}
+        <option value="{{ d }}" {% if filters.destination == d %}selected{% endif %}>{{ d }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Month</label>
+      <select name="month">
+        {% for m in options.months %}
+        <option value="{{ m }}" {% if filters.month == m %}selected{% endif %}>{{ m }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Season</label>
+      <select name="season">
+        {% for s in options.seasons %}
+        <option value="{{ s }}" {% if filters.season == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-actions">
+      <a href="{{ url_for('destinations') }}" class="btn btn-outline btn-sm">Reset</a>
+    </div>
+  </div>
+</form>
+
+<!-- Destinations Table -->
+<div class="table-panel">
+  <div class="table-panel-header">
+    <h3>All Destinations ({{ table_data | length }} records)</h3>
+    <span style="font-size:0.8rem;color:var(--text-muted);">
+      <span style="background:var(--primary-light);color:var(--primary);padding:2px 8px;border-radius:3px;font-size:0.72rem;font-weight:700;">TOP TIER</span>
+      = destinations with ≥ 60% of max footfall
+    </span>
+  </div>
+  <div class="table-wrap">
+    {% if table_data %}
+    <table class="data-table sortable">
+      <thead>
+        <tr>
+          <th data-sort="destination" data-type="str">#&ensp;Destination <span class="sort-arrow">↕</span></th>
+          <th data-sort="state" data-type="str">State <span class="sort-arrow">↕</span></th>
+          <th data-sort="domestic" data-type="num" class="text-right">Domestic Visitors <span class="sort-arrow">↕</span></th>
+          <th data-sort="foreign" data-type="num" class="text-right">Foreign Visitors <span class="sort-arrow">↕</span></th>
+          <th data-sort="total" data-type="num" class="text-right">Total Visitors <span class="sort-arrow">↕</span></th>
+          <th data-sort="occ" data-type="num">Hotel Occupancy <span class="sort-arrow">↕</span></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in table_data %}
+        <tr>
+          <td data-col="destination" data-val="{{ row.Destination }}">
+            <span class="dest-name">{{ row.Destination }}</span>
+            {% if row.IsTopTier %}
+            <span class="top-tier-badge">Top Tier</span>
+            {% endif %}
+          </td>
+          <td data-col="state" data-val="{{ row.State }}">{{ row.State }}</td>
+          <td data-col="domestic" data-val="{{ row.DomesticVisitors }}" class="text-right num">
+            {{ "{:,}".format(row.DomesticVisitors | int) }}
+          </td>
+          <td data-col="foreign" data-val="{{ row.ForeignVisitors }}" class="text-right num">
+            {{ "{:,}".format(row.ForeignVisitors | int) }}
+          </td>
+          <td data-col="total" data-val="{{ row.TotalVisitors }}" class="text-right num">
+            <strong>{{ "{:,}".format(row.TotalVisitors | int) }}</strong>
+          </td>
+          <td data-col="occ" data-val="{{ row.HotelOccupancyPct }}">
+            <div class="occ-bar">
+              <div class="occ-track">
+                <div class="occ-fill" style="width:{{ row.HotelOccupancyPct }}%;"></div>
+              </div>
+              <span class="occ-val">{{ row.HotelOccupancyPct }}%</span>
+            </div>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% else %}
+    <div style="padding:40px;text-align:center;color:var(--text-muted);">
+      No data found for the selected filters.
+    </div>
+    {% endif %}
+  </div>
+</div>
+
+<!-- Legend note -->
+<div style="font-size:0.78rem;color:var(--text-muted);margin-top:8px;">
+  ℹ Visitor counts are aggregated totals across the selected data period. Occupancy % is the average across all months.
+</div>
+
+{% endblock %}

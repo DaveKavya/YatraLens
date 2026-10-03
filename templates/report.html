@@ -1,0 +1,188 @@
+{% extends "base.html" %}
+{% block title %}Analytics Report{% endblock %}
+{% block page_title %}Analytics Report{% endblock %}
+{% block page_sub %}Printable tourism data analytics summary{% endblock %}
+
+{% block content %}
+
+<div class="report-actions">
+  <button id="btn-print-report" class="btn btn-primary">⎙ Print / Save as PDF</button>
+  <a href="{{ url_for('insights') }}" class="btn btn-outline">View Insights</a>
+  <a href="{{ url_for('analytics') }}" class="btn btn-outline">View Charts</a>
+</div>
+
+<div class="report-container">
+
+  <!-- Report Header -->
+  <div class="report-header-bar">
+    <h1>YatraLens — Tourism Data Analytics Report</h1>
+    <div class="report-meta">
+      Generated from {{ 'Demo Dataset' if is_demo else 'Uploaded Dataset' }} &nbsp;·&nbsp;
+      Data Period: {{ report.summary.data_period }} &nbsp;·&nbsp;
+      PBL Academic Report
+    </div>
+  </div>
+
+  <div class="report-body">
+
+    <!-- 1. Dataset Summary -->
+    <div class="report-section">
+      <h2>1. Dataset Summary</h2>
+      <div class="report-kpi-row">
+        <div class="report-kpi-item">
+          <div class="label">Destinations</div>
+          <div class="value">{{ report.summary.num_destinations }}</div>
+        </div>
+        <div class="report-kpi-item">
+          <div class="label">States</div>
+          <div class="value">{{ report.summary.num_states }}</div>
+        </div>
+        <div class="report-kpi-item">
+          <div class="label">Data Period</div>
+          <div class="value" style="font-size:0.9rem;">{{ report.summary.data_period }}</div>
+        </div>
+        <div class="report-kpi-item">
+          <div class="label">Top Destination</div>
+          <div class="value" style="font-size:0.9rem;">{{ report.summary.top_destination }}</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2. Visitor Statistics -->
+    <div class="report-section">
+      <h2>2. Total Visitor Statistics</h2>
+      <div class="report-kpi-row">
+        <div class="report-kpi-item">
+          <div class="label">Total Visitors</div>
+          <div class="value">{{ "{:,}".format(report.summary.total_visitors) }}</div>
+        </div>
+        <div class="report-kpi-item">
+          <div class="label">Domestic Visitors</div>
+          <div class="value">{{ "{:,}".format(report.summary.domestic_visitors) }}</div>
+        </div>
+        <div class="report-kpi-item">
+          <div class="label">Foreign Visitors</div>
+          <div class="value">{{ "{:,}".format(report.summary.foreign_visitors) }}</div>
+        </div>
+        <div class="report-kpi-item">
+          <div class="label">Avg Hotel Occupancy</div>
+          <div class="value">{{ report.summary.avg_occupancy }}%</div>
+        </div>
+      </div>
+
+      <!-- Charts in report -->
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-top:16px;">
+        <div>
+          <div style="font-size:0.75rem;color:var(--text-muted);margin-bottom:8px;font-weight:600;text-transform:uppercase;">Monthly Trend</div>
+          <div id="r-trend" style="min-height:240px;"></div>
+        </div>
+        <div>
+          <div style="font-size:0.75rem;color:var(--text-muted);margin-bottom:8px;font-weight:600;text-transform:uppercase;">Visitor Composition</div>
+          <div id="r-pie" style="min-height:240px;"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3. Top Destinations -->
+    <div class="report-section">
+      <h2>3. Top Destinations by Total Visitors</h2>
+      <div id="r-topdest" style="min-height:240px;margin-bottom:16px;"></div>
+      <div class="report-table">
+        <table>
+          <thead>
+            <tr>
+              <th>Rank</th>
+              <th>Destination</th>
+              <th style="text-align:right;">Total Visitors</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for dest in report.top5_destinations %}
+            <tr>
+              <td>{{ loop.index }}</td>
+              <td>{{ dest.Destination }}</td>
+              <td style="text-align:right;" class="num">{{ "{:,}".format(dest.TotalVisitors) }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 4. Seasonal Analysis -->
+    <div class="report-section">
+      <h2>4. Seasonal Footfall Analysis</h2>
+      <div id="r-seasonal" style="min-height:240px;margin-bottom:16px;"></div>
+      <div class="report-table">
+        <table>
+          <thead>
+            <tr>
+              <th>Season</th>
+              <th style="text-align:right;">Domestic</th>
+              <th style="text-align:right;">Foreign</th>
+              <th style="text-align:right;">Total</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for row in report.seasonal_summary %}
+            <tr>
+              <td>{{ row.Season }}</td>
+              <td style="text-align:right;" class="num">{{ "{:,}".format(row.DomesticVisitors | int) }}</td>
+              <td style="text-align:right;" class="num">{{ "{:,}".format(row.ForeignVisitors | int) }}</td>
+              <td style="text-align:right;" class="num"><strong>{{ "{:,}".format(row.TotalVisitors | int) }}</strong></td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- 5. Key Insights -->
+    <div class="report-section">
+      <h2>5. Key Insights</h2>
+      <ul class="report-insight-list">
+        {% for ins in report.insights %}
+        <li>{{ ins.detail | safe }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- 6. Recommendations -->
+    <div class="report-section">
+      <h2>6. Data-Driven Recommendations</h2>
+      <p style="font-size:0.8rem;color:var(--text-muted);margin-bottom:12px;">
+        These recommendations are derived from the analytical findings above and are intended as
+        academic planning suggestions — not official government policy.
+      </p>
+      <ul class="report-rec-list">
+        {% for rec in report.recommendations %}
+        <li>
+          <strong>{{ rec.area }}</strong>
+          {{ rec.recommendation | safe }}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- Footer note -->
+    <div style="font-size:0.75rem;color:var(--text-muted);text-align:center;padding-top:8px;">
+      YatraLens — Tourism Data Analytics &nbsp;·&nbsp; PBL Academic Project &nbsp;·&nbsp;
+      Data shown is {% if is_demo %}sample/demo data for illustration purposes{% else %}user-uploaded data{% endif %}.
+    </div>
+
+  </div><!-- /.report-body -->
+</div><!-- /.report-container -->
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+  const rCharts = {{ charts | tojson | safe }};
+  document.addEventListener("DOMContentLoaded", function () {
+    renderChart("r-trend",    rCharts.monthly_trend);
+    renderChart("r-pie",      rCharts.foreign_pie);
+    renderChart("r-topdest",  rCharts.top_destinations);
+    renderChart("r-seasonal", rCharts.seasonal);
+  });
+</script>
+{% endblock %}

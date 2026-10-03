@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}YatraLens{% endblock %} — Tourism Data Analytics</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <!-- Plotly CDN (offline-capable with CDN fallback) -->
+  <script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+  {% block extra_head %}{% endblock %}
+</head>
+<body>
+
+<!-- ── Sidebar ─────────────────────────────────────────── -->
+<aside class="sidebar">
+  <div class="sidebar-brand">
+    <div class="brand-name">
+      <span class="brand-dot"></span>YatraLens
+    </div>
+    <div class="brand-tagline">Tourism Data Analytics</div>
+  </div>
+
+  <nav class="sidebar-nav">
+    <div class="nav-section-label">Main</div>
+    <a href="{{ url_for('dashboard') }}"
+       class="nav-link {% if active_page == 'dashboard' %}active{% endif %}">
+      <span class="nav-icon">▦</span> Dashboard
+    </a>
+    <a href="{{ url_for('analytics') }}"
+       class="nav-link {% if active_page == 'analytics' %}active{% endif %}">
+      <span class="nav-icon">↗</span> Analytics
+    </a>
+    <a href="{{ url_for('destinations') }}"
+       class="nav-link {% if active_page == 'destinations' %}active{% endif %}">
+      <span class="nav-icon">◎</span> Destinations
+    </a>
+
+    <div class="nav-section-label" style="margin-top:8px;">Outputs</div>
+    <a href="{{ url_for('insights') }}"
+       class="nav-link {% if active_page == 'insights' %}active{% endif %}">
+      <span class="nav-icon">✦</span> Insights & Recs
+    </a>
+    <a href="{{ url_for('report') }}"
+       class="nav-link {% if active_page == 'report' %}active{% endif %}">
+      <span class="nav-icon">☰</span> Report
+    </a>
+
+    <div class="nav-section-label" style="margin-top:8px;">Data</div>
+    <a href="{{ url_for('upload') }}"
+       class="nav-link {% if active_page == 'upload' %}active{% endif %}">
+      <span class="nav-icon">↑</span> Dataset / Upload
+    </a>
+    {% if not is_demo %}
+    <a href="{{ url_for('use_demo') }}" class="nav-link">
+      <span class="nav-icon">↺</span> Use Demo Data
+    </a>
+    {% endif %}
+  </nav>
+
+  <div class="sidebar-footer">
+    YatraLens v1.0 · PBL Project<br>
+    Academic use only
+  </div>
+</aside>
+
+<!-- ── Main Content ────────────────────────────────────── -->
+<div class="main-content">
+  <header class="page-header">
+    <div>
+      <h1>{% block page_title %}YatraLens{% endblock %}</h1>
+      <div class="header-sub">{% block page_sub %}Tourism Data Analytics & Insights{% endblock %}</div>
+    </div>
+    <div style="display:flex;gap:10px;align-items:center;">
+      {% if not is_demo %}
+      <span class="info-chip">
+        <span style="color:var(--secondary);">●</span>
+        Custom Dataset Active
+      </span>
+      {% endif %}
+      <a href="{{ url_for('upload') }}" class="btn btn-outline btn-sm">Upload CSV</a>
+    </div>
+  </header>
+
+  <main class="page-body">
+    <!-- Flash messages -->
+    {% with messages = get_flashed_messages(with_categories=True) %}
+      {% for category, message in messages %}
+        <div class="alert alert-{{ category }}">
+          {% if category == 'success' %}✓{% else %}⚠{% endif %}
+          {{ message }}
+        </div>
+      {% endfor %}
+    {% endwith %}
+
+    {% if is_demo %}
+    <div class="demo-banner">
+      <span>📊</span>
+      <span>
+        <strong>Demo Dataset Active.</strong>
+        Showing sample data for demonstration purposes — not official government statistics.
+        <a href="{{ url_for('upload') }}">Upload your own CSV →</a>
+      </span>
+    </div>
+    {% endif %}
+
+    {% block content %}{% endblock %}
+  </main>
+</div>
+
+<script src="{{ url_for('static', filename='js/app.js') }}"></script>
+{% block extra_scripts %}{% endblock %}
+</body>
+</html>

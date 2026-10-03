@@ -1,0 +1,75 @@
+{% extends "base.html" %}
+{% block title %}Dataset / Upload{% endblock %}
+{% block page_title %}Dataset / Upload{% endblock %}
+{% block page_sub %}Upload a custom CSV or use the built-in demo dataset{% endblock %}
+
+{% block content %}
+<div class="upload-container">
+
+  <!-- Current Dataset Status -->
+  <div class="kpi-card kpi-primary" style="margin-bottom:24px;">
+    <div class="kpi-label">Currently Active Dataset</div>
+    <div class="kpi-value" style="font-size:1.1rem;margin-top:4px;">{{ active_file }}</div>
+    <div class="kpi-sub">
+      {% if is_demo %}
+        This is the built-in demo dataset (sample data — not official statistics).
+      {% else %}
+        This is your uploaded dataset.
+        <a href="{{ url_for('use_demo') }}" style="color:var(--primary);font-weight:600;margin-left:8px;">Switch to Demo →</a>
+      {% endif %}
+    </div>
+  </div>
+
+  <!-- Required columns info -->
+  <div class="upload-note">
+    <strong>Required CSV Columns</strong>
+    Your CSV file must contain all of the following column headers (case-sensitive):
+    <ul class="col-list">
+      <li><code>DestinationID</code></li>
+      <li><code>Destination</code></li>
+      <li><code>State</code></li>
+      <li><code>Month</code></li>
+      <li><code>DomesticVisitors</code></li>
+      <li><code>ForeignVisitors</code></li>
+      <li><code>HotelOccupancyPct</code></li>
+    </ul>
+    <div style="margin-top:10px;font-size:0.8rem;">
+      <strong>Month format:</strong> <code>YYYY-MM</code> (e.g., <code>2025-01</code> for January 2025)
+    </div>
+  </div>
+
+  <!-- Upload Form -->
+  <form method="POST" enctype="multipart/form-data" action="{{ url_for('upload') }}">
+    <div class="upload-dropzone" id="upload-dropzone">
+      <div class="upload-icon">⬆</div>
+      <h3>Drag & drop your CSV file here</h3>
+      <p>or click to select a file from your computer</p>
+      <span id="file-label" style="font-size:0.82rem;color:var(--text-muted);">No file selected</span>
+      <input type="file" id="csv-file-input" name="csv_file" accept=".csv"
+             style="display:none;">
+    </div>
+    <button type="submit" class="btn btn-primary" style="width:100%;justify-content:center;padding:11px;">
+      Upload and Analyse
+    </button>
+  </form>
+
+  <!-- Example CSV section -->
+  <div class="upload-note" style="margin-top:20px;">
+    <strong>Example CSV Format</strong>
+    <pre style="font-size:0.75rem;overflow-x:auto;margin-top:8px;background:#f3f4f6;padding:10px;border-radius:4px;line-height:1.6;">DestinationID,Destination,State,Month,DomesticVisitors,ForeignVisitors,HotelOccupancyPct
+TOU-101,Statue of Unity,Gujarat,2025-01,145000,11500,84.5
+TOU-102,Goa Beaches,Goa,2025-01,215000,43000,91.5
+TOU-103,Jaipur Forts,Rajasthan,2025-01,175000,27500,87.5</pre>
+  </div>
+
+  <!-- Use demo button -->
+  {% if not is_demo %}
+  <div style="text-align:center;margin-top:16px;">
+    <a href="{{ url_for('use_demo') }}" class="btn btn-outline">
+      ↺ Switch back to Demo Dataset
+    </a>
+  </div>
+  {% endif %}
+
+</div>
+{% endblock %}

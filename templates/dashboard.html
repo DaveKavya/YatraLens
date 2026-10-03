@@ -1,0 +1,174 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block page_title %}Dashboard{% endblock %}
+{% block page_sub %}Overview of tourism statistics across all destinations{% endblock %}
+
+{% block content %}
+
+<!-- Filter Bar -->
+<form id="filter-form" method="get" action="{{ url_for('dashboard') }}">
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label for="f-state">State</label>
+      <select id="f-state" name="state">
+        {% for s in options.states %}
+        <option value="{{ s }}" {% if filters.state == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="f-dest">Destination</label>
+      <select id="f-dest" name="destination">
+        {% for d in options.destinations %}
+        <option value="{{ d }}" {% if filters.destination == d %}selected{% endif %}>{{ d }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="f-month">Month</label>
+      <select id="f-month" name="month">
+        {% for m in options.months %}
+        <option value="{{ m }}" {% if filters.month == m %}selected{% endif %}>{{ m }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label for="f-season">Season</label>
+      <select id="f-season" name="season">
+        {% for s in options.seasons %}
+        <option value="{{ s }}" {% if filters.season == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-actions">
+      <a href="{{ url_for('dashboard') }}" class="btn btn-outline btn-sm">Reset</a>
+    </div>
+  </div>
+</form>
+
+<!-- Active Filters / Info Row -->
+<div class="info-row">
+  <div class="info-chip">📅 Period: <strong>{{ summary.data_period }}</strong></div>
+  <div class="info-chip">◎ Destinations: <strong>{{ summary.num_destinations }}</strong></div>
+  <div class="info-chip">🗺 States: <strong>{{ summary.num_states }}</strong></div>
+  {% if filters.state != 'All' %}
+  <div class="info-chip">Filter: State = <strong>{{ filters.state }}</strong></div>
+  {% endif %}
+  {% if filters.destination != 'All' %}
+  <div class="info-chip">Filter: Destination = <strong>{{ filters.destination }}</strong></div>
+  {% endif %}
+  {% if filters.season != 'All' %}
+  <div class="info-chip">Filter: Season = <strong>{{ filters.season }}</strong></div>
+  {% endif %}
+  {% if filters.month != 'All' %}
+  <div class="info-chip">Filter: Month = <strong>{{ filters.month }}</strong></div>
+  {% endif %}
+</div>
+
+<!-- KPI Cards -->
+<div class="kpi-grid">
+  <div class="kpi-card kpi-primary">
+    <div class="kpi-label">Total Visitors</div>
+    <div class="kpi-value num"
+         data-count="{{ summary.total_visitors }}">
+      {{ "{:,}".format(summary.total_visitors) }}
+    </div>
+    <div class="kpi-sub">Domestic + Foreign combined</div>
+  </div>
+  <div class="kpi-card kpi-secondary">
+    <div class="kpi-label">Domestic Visitors</div>
+    <div class="kpi-value num">{{ "{:,}".format(summary.domestic_visitors) }}</div>
+    <div class="kpi-sub">
+      {{ "%.1f"|format(summary.domestic_visitors / summary.total_visitors * 100 if summary.total_visitors else 0) }}% of total
+    </div>
+  </div>
+  <div class="kpi-card kpi-accent">
+    <div class="kpi-label">Foreign Visitors</div>
+    <div class="kpi-value num">{{ "{:,}".format(summary.foreign_visitors) }}</div>
+    <div class="kpi-sub">
+      {{ "%.1f"|format(summary.foreign_visitors / summary.total_visitors * 100 if summary.total_visitors else 0) }}% of total
+    </div>
+  </div>
+  <div class="kpi-card kpi-muted">
+    <div class="kpi-label">Avg Hotel Occupancy</div>
+    <div class="kpi-value">{{ summary.avg_occupancy }}%</div>
+    <div class="kpi-sub">Average across all destinations</div>
+  </div>
+  <div class="kpi-card kpi-primary" style="border-left-color:var(--secondary)">
+    <div class="kpi-label">Top Destination</div>
+    <div class="kpi-value" style="font-size:1.1rem;line-height:1.3;">{{ summary.top_destination }}</div>
+    <div class="kpi-sub">Highest total footfall</div>
+  </div>
+</div>
+
+<!-- Quick Charts Row -->
+<div class="section-heading">Quick Visualisations</div>
+<div class="chart-grid">
+  <div class="chart-panel">
+    <h3>Monthly Visitor Trend</h3>
+    <div id="dash-trend" style="min-height:280px;"></div>
+  </div>
+  <div class="chart-panel">
+    <h3>Seasonal Distribution</h3>
+    <div id="dash-season" style="min-height:280px;"></div>
+  </div>
+  <div class="chart-panel">
+    <h3>Top Destinations</h3>
+    <div id="dash-topdest" style="min-height:280px;"></div>
+  </div>
+  <div class="chart-panel">
+    <h3>Visitor Share</h3>
+    <div id="dash-pie" style="min-height:280px;"></div>
+  </div>
+</div>
+
+<!-- Quick Navigation Cards -->
+<div class="section-heading">Explore Further</div>
+<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:28px;">
+  <a href="{{ url_for('analytics') }}" style="text-decoration:none;">
+    <div class="kpi-card" style="cursor:pointer;transition:box-shadow 0.15s;" onmouseover="this.style.boxShadow='0 4px 16px rgba(37,99,235,0.15)'" onmouseout="this.style.boxShadow=''">
+      <div style="font-size:1.5rem;margin-bottom:8px;">↗</div>
+      <div style="font-weight:700;color:var(--primary);margin-bottom:4px;">Analytics</div>
+      <div style="font-size:0.78rem;color:var(--text-muted);">7 interactive Plotly charts</div>
+    </div>
+  </a>
+  <a href="{{ url_for('destinations') }}" style="text-decoration:none;">
+    <div class="kpi-card" style="cursor:pointer;transition:box-shadow 0.15s;" onmouseover="this.style.boxShadow='0 4px 16px rgba(5,150,105,0.15)'" onmouseout="this.style.boxShadow=''">
+      <div style="font-size:1.5rem;margin-bottom:8px;">◎</div>
+      <div style="font-weight:700;color:var(--secondary);margin-bottom:4px;">Destinations</div>
+      <div style="font-size:0.78rem;color:var(--text-muted);">Sortable data table</div>
+    </div>
+  </a>
+  <a href="{{ url_for('insights') }}" style="text-decoration:none;">
+    <div class="kpi-card" style="cursor:pointer;transition:box-shadow 0.15s;" onmouseover="this.style.boxShadow='0 4px 16px rgba(217,119,6,0.15)'" onmouseout="this.style.boxShadow=''">
+      <div style="font-size:1.5rem;margin-bottom:8px;">✦</div>
+      <div style="font-weight:700;color:var(--accent);margin-bottom:4px;">Insights</div>
+      <div style="font-size:0.78rem;color:var(--text-muted);">Data-driven findings</div>
+    </div>
+  </a>
+  <a href="{{ url_for('report') }}" style="text-decoration:none;">
+    <div class="kpi-card" style="cursor:pointer;transition:box-shadow 0.15s;" onmouseover="this.style.boxShadow='0 4px 16px rgba(0,0,0,0.12)'" onmouseout="this.style.boxShadow=''">
+      <div style="font-size:1.5rem;margin-bottom:8px;">☰</div>
+      <div style="font-weight:700;color:var(--text);margin-bottom:4px;">Report</div>
+      <div style="font-size:0.78rem;color:var(--text-muted);">Printable analytics report</div>
+    </div>
+  </a>
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+  // Chart data passed from Flask via Jinja
+  const chartData = {{ charts | tojson | safe }};
+</script>
+<script>
+  // Render quick-view charts on page load
+  document.addEventListener("DOMContentLoaded", function () {
+    renderChart("dash-trend",   chartData.monthly_trend);
+    renderChart("dash-season",  chartData.seasonal);
+    renderChart("dash-topdest", chartData.top_destinations);
+    renderChart("dash-pie",     chartData.foreign_pie);
+  });
+</script>
+{% endblock %}

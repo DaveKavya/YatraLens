@@ -1,0 +1,107 @@
+{% extends "base.html" %}
+{% block title %}Insights & Recommendations{% endblock %}
+{% block page_title %}Insights & Recommendations{% endblock %}
+{% block page_sub %}Data-driven findings and planning recommendations derived from the dataset{% endblock %}
+
+{% block content %}
+
+<!-- Filter Bar -->
+<form id="filter-form" method="get" action="{{ url_for('insights') }}">
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label>State</label>
+      <select name="state">
+        {% for s in options.states %}
+        <option value="{{ s }}" {% if filters.state == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Destination</label>
+      <select name="destination">
+        {% for d in options.destinations %}
+        <option value="{{ d }}" {% if filters.destination == d %}selected{% endif %}>{{ d }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Month</label>
+      <select name="month">
+        {% for m in options.months %}
+        <option value="{{ m }}" {% if filters.month == m %}selected{% endif %}>{{ m }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Season</label>
+      <select name="season">
+        {% for s in options.seasons %}
+        <option value="{{ s }}" {% if filters.season == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-actions">
+      <a href="{{ url_for('insights') }}" class="btn btn-outline btn-sm">Reset</a>
+    </div>
+  </div>
+</form>
+
+<!-- Section: Insights -->
+<div class="section-heading">Data-Driven Insights</div>
+<p style="font-size:0.83rem;color:var(--text-muted);margin-bottom:16px;margin-top:-8px;">
+  All insights below are automatically calculated from the currently loaded dataset. No values are hard-coded.
+</p>
+
+{% if insights %}
+<div class="insights-grid">
+  {% for item in insights %}
+  <div class="insight-card cat-{{ item.category }}">
+    <div class="insight-header">
+      <div class="insight-cat-dot"></div>
+      <h4>{{ item.title }}</h4>
+    </div>
+    <p>{{ item.detail | safe }}</p>
+  </div>
+  {% endfor %}
+</div>
+{% else %}
+<div style="padding:32px;text-align:center;color:var(--text-muted);background:var(--bg-white);border:1px solid var(--border-light);border-radius:var(--radius-lg);">
+  No insights available. Please load a dataset with sufficient data.
+</div>
+{% endif %}
+
+<!-- Section: Recommendations -->
+<div class="rec-section" style="margin-top:12px;">
+  <h2>Data-Driven Recommendations</h2>
+  <div class="rec-sub">
+    Based on the findings above, the following recommendations are suggested for tourism planning and infrastructure decisions.
+    <strong>These are analytical suggestions, not official government policy.</strong>
+  </div>
+
+  {% if recommendations %}
+  <div class="rec-grid">
+    {% for rec in recommendations %}
+    <div class="rec-card">
+      <div class="rec-icon">{{ rec.icon }}</div>
+      <h4>{{ rec.area }}</h4>
+      <p>{{ rec.recommendation | safe }}</p>
+    </div>
+    {% endfor %}
+  </div>
+  {% else %}
+  <div style="padding:32px;text-align:center;color:var(--text-muted);background:var(--bg-white);border:1px solid var(--border-light);border-radius:var(--radius-lg);">
+    Load a dataset to see recommendations.
+  </div>
+  {% endif %}
+</div>
+
+<!-- Methodology Note -->
+<div class="upload-note" style="margin-top:24px;">
+  <strong>How Insights Are Generated</strong>
+  Each insight is computed using Python (Pandas) groupby and aggregation operations on the filtered dataset.
+  For example, the peak month is identified using <code>df.groupby("MonthLabel")["TotalVisitors"].sum().idxmax()</code>.
+  Recommendations are then derived from the ranked findings (top destination, low-season, occupancy percentiles, etc.)
+  using conditional logic — not static text.
+</div>
+
+{% endblock %}

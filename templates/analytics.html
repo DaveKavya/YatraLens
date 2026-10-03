@@ -1,0 +1,143 @@
+{% extends "base.html" %}
+{% block title %}Analytics{% endblock %}
+{% block page_title %}Analytics{% endblock %}
+{% block page_sub %}Interactive visualisations from the tourism dataset{% endblock %}
+
+{% block content %}
+
+<!-- Filter Bar -->
+<form id="filter-form" method="get" action="{{ url_for('analytics') }}">
+  <div class="filter-bar">
+    <div class="filter-group">
+      <label>State</label>
+      <select name="state">
+        {% for s in options.states %}
+        <option value="{{ s }}" {% if filters.state == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Destination</label>
+      <select name="destination">
+        {% for d in options.destinations %}
+        <option value="{{ d }}" {% if filters.destination == d %}selected{% endif %}>{{ d }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Month</label>
+      <select name="month">
+        {% for m in options.months %}
+        <option value="{{ m }}" {% if filters.month == m %}selected{% endif %}>{{ m }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Season</label>
+      <select name="season">
+        {% for s in options.seasons %}
+        <option value="{{ s }}" {% if filters.season == s %}selected{% endif %}>{{ s }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="filter-actions">
+      <a href="{{ url_for('analytics') }}" class="btn btn-outline btn-sm">Reset</a>
+    </div>
+  </div>
+</form>
+
+<!-- Chart 1: Monthly Trend (full width) -->
+<div class="section-heading">Visitor Footfall Trend</div>
+<div class="chart-grid single">
+  <div class="chart-panel">
+    <h3>Monthly Visitor Footfall (Total / Domestic / Foreign)</h3>
+    <div id="c-trend" style="min-height:320px;"></div>
+  </div>
+</div>
+
+<!-- Chart 2 & 3: Stacked Bar + Top Destinations -->
+<div class="section-heading">Destination Analysis</div>
+<div class="chart-grid">
+  <div class="chart-panel">
+    <h3>Domestic vs Foreign Visitors by Destination</h3>
+    <div id="c-stacked" style="min-height:300px;"></div>
+  </div>
+  <div class="chart-panel">
+    <h3>Top Destinations by Total Visitors</h3>
+    <div id="c-topdest" style="min-height:300px;"></div>
+  </div>
+</div>
+
+<!-- Chart 4 & 5: State + Seasonal -->
+<div class="section-heading">State & Seasonal Patterns</div>
+<div class="chart-grid">
+  <div class="chart-panel">
+    <h3>State-wise Visitor Comparison</h3>
+    <div id="c-state" style="min-height:300px;"></div>
+  </div>
+  <div class="chart-panel">
+    <h3>Visitor Footfall by Season</h3>
+    <div id="c-seasonal" style="min-height:300px;"></div>
+  </div>
+</div>
+
+<!-- Chart 6 & 7: Occupancy + Pie -->
+<div class="section-heading">Hotel Occupancy & Visitor Mix</div>
+<div class="chart-grid">
+  <div class="chart-panel">
+    <h3>Average Hotel Occupancy by Destination</h3>
+    <div id="c-occ" style="min-height:300px;"></div>
+  </div>
+  <div class="chart-panel">
+    <h3>Domestic vs Foreign Visitor Contribution</h3>
+    <div id="c-pie" style="min-height:300px;"></div>
+  </div>
+</div>
+
+<!-- Analysis Notes -->
+<div class="chart-panel" style="margin-bottom:0;">
+  <h3>Analysis Notes</h3>
+  <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px;margin-top:8px;">
+    <div>
+      <div style="font-size:0.78rem;font-weight:700;color:var(--primary);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:6px;">Seasonal Classification</div>
+      <div style="font-size:0.83rem;color:var(--text-mid);line-height:1.6;">
+        <strong>Winter (Nov–Feb)</strong>: Best travel weather, peak season<br>
+        <strong>Summer (Mar–May)</strong>: Warm, transitional period<br>
+        <strong>Monsoon (Jun–Sep)</strong>: Rainy, lower footfall<br>
+        <strong>Autumn (Oct)</strong>: Post-monsoon recovery
+      </div>
+    </div>
+    <div>
+      <div style="font-size:0.78rem;font-weight:700;color:var(--primary);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:6px;">Data Processing</div>
+      <div style="font-size:0.83rem;color:var(--text-mid);line-height:1.6;">
+        TotalVisitors = DomesticVisitors + ForeignVisitors<br>
+        Missing occupancy values are replaced with the dataset median.<br>
+        Month values parsed as YYYY-MM format.
+      </div>
+    </div>
+    <div>
+      <div style="font-size:0.78rem;font-weight:700;color:var(--primary);text-transform:uppercase;letter-spacing:0.06em;margin-bottom:6px;">Chart Library</div>
+      <div style="font-size:0.83rem;color:var(--text-mid);line-height:1.6;">
+        All charts are rendered using <strong>Plotly</strong> (Python + JS).<br>
+        Charts are interactive — hover for values, click legend to toggle series.
+      </div>
+    </div>
+  </div>
+</div>
+
+{% endblock %}
+
+{% block extra_scripts %}
+<script>
+  const charts = {{ charts | tojson | safe }};
+  document.addEventListener("DOMContentLoaded", function () {
+    renderChart("c-trend",   charts.monthly_trend);
+    renderChart("c-stacked", charts.stacked_bar);
+    renderChart("c-topdest", charts.top_destinations);
+    renderChart("c-state",   charts.state_comparison);
+    renderChart("c-seasonal",charts.seasonal);
+    renderChart("c-occ",     charts.occupancy);
+    renderChart("c-pie",     charts.foreign_pie);
+  });
+</script>
+{% endblock %}

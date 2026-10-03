@@ -1,0 +1,181 @@
+DestinationID,Destination,State,Month,DomesticVisitors,ForeignVisitors,HotelOccupancyPct
+TOU-101,Statue of Unity,Gujarat,2025-01,145000,11500,84.5
+TOU-102,Goa Beaches,Goa,2025-01,215000,43000,91.5
+TOU-103,Jaipur Forts,Rajasthan,2025-01,175000,27500,87.5
+TOU-104,Taj Mahal,Uttar Pradesh,2025-01,320000,85000,95.0
+TOU-105,Kerala Backwaters,Kerala,2025-01,160000,32000,88.0
+TOU-106,Hampi Ruins,Karnataka,2025-01,78000,18000,72.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-01,52000,14500,68.5
+TOU-108,Darjeeling,West Bengal,2025-01,95000,9500,79.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-01,210000,38000,83.0
+TOU-110,Ranthambore,Rajasthan,2025-01,42000,12000,76.5
+TOU-111,Ajanta Ellora,Maharashtra,2025-01,88000,22000,74.0
+TOU-112,Mysuru Palace,Karnataka,2025-01,130000,21000,80.5
+TOU-113,Rishikesh,Uttarakhand,2025-01,120000,18500,77.0
+TOU-114,Amritsar,Punjab,2025-01,185000,24000,82.0
+TOU-115,Coorg,Karnataka,2025-01,68000,8500,71.5
+TOU-101,Statue of Unity,Gujarat,2025-02,162000,13200,88.0
+TOU-102,Goa Beaches,Goa,2025-02,238000,51000,93.5
+TOU-103,Jaipur Forts,Rajasthan,2025-02,195000,31000,90.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-02,345000,91000,96.5
+TOU-105,Kerala Backwaters,Kerala,2025-02,178000,36000,90.5
+TOU-106,Hampi Ruins,Karnataka,2025-02,85000,20500,74.5
+TOU-107,Khajuraho,Madhya Pradesh,2025-02,58000,16000,70.5
+TOU-108,Darjeeling,West Bengal,2025-02,102000,10500,81.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-02,228000,41000,85.5
+TOU-110,Ranthambore,Rajasthan,2025-02,48000,13500,78.5
+TOU-111,Ajanta Ellora,Maharashtra,2025-02,95000,24500,76.5
+TOU-112,Mysuru Palace,Karnataka,2025-02,142000,23000,82.5
+TOU-113,Rishikesh,Uttarakhand,2025-02,135000,21000,79.5
+TOU-114,Amritsar,Punjab,2025-02,198000,26500,84.0
+TOU-115,Coorg,Karnataka,2025-02,74000,9500,73.5
+TOU-101,Statue of Unity,Gujarat,2025-03,175000,14800,87.0
+TOU-102,Goa Beaches,Goa,2025-03,252000,55000,92.0
+TOU-103,Jaipur Forts,Rajasthan,2025-03,210000,33500,91.5
+TOU-104,Taj Mahal,Uttar Pradesh,2025-03,370000,98000,97.0
+TOU-105,Kerala Backwaters,Kerala,2025-03,185000,38500,89.5
+TOU-106,Hampi Ruins,Karnataka,2025-03,92000,22000,75.5
+TOU-107,Khajuraho,Madhya Pradesh,2025-03,62000,17500,71.5
+TOU-108,Darjeeling,West Bengal,2025-03,108000,11200,82.5
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-03,241000,44000,87.0
+TOU-110,Ranthambore,Rajasthan,2025-03,55000,14800,79.5
+TOU-111,Ajanta Ellora,Maharashtra,2025-03,102000,26000,77.5
+TOU-112,Mysuru Palace,Karnataka,2025-03,155000,25000,83.5
+TOU-113,Rishikesh,Uttarakhand,2025-03,148000,23500,81.0
+TOU-114,Amritsar,Punjab,2025-03,212000,28000,85.5
+TOU-115,Coorg,Karnataka,2025-03,80000,10500,74.5
+TOU-101,Statue of Unity,Gujarat,2025-04,155000,12000,82.0
+TOU-102,Goa Beaches,Goa,2025-04,195000,38000,85.0
+TOU-103,Jaipur Forts,Rajasthan,2025-04,168000,26000,84.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-04,298000,75000,92.0
+TOU-105,Kerala Backwaters,Kerala,2025-04,172000,34000,86.0
+TOU-106,Hampi Ruins,Karnataka,2025-04,71000,16500,69.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-04,48000,13000,65.5
+TOU-108,Darjeeling,West Bengal,2025-04,115000,13000,84.5
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-04,195000,36000,82.0
+TOU-110,Ranthambore,Rajasthan,2025-04,38000,10500,73.0
+TOU-111,Ajanta Ellora,Maharashtra,2025-04,88000,20500,73.0
+TOU-112,Mysuru Palace,Karnataka,2025-04,128000,20000,79.0
+TOU-113,Rishikesh,Uttarakhand,2025-04,158000,25500,82.5
+TOU-114,Amritsar,Punjab,2025-04,188000,24000,83.0
+TOU-115,Coorg,Karnataka,2025-04,88000,12000,76.5
+TOU-101,Statue of Unity,Gujarat,2025-05,98000,7500,72.0
+TOU-102,Goa Beaches,Goa,2025-05,110000,18000,68.0
+TOU-103,Jaipur Forts,Rajasthan,2025-05,95000,15000,72.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-05,195000,52000,85.0
+TOU-105,Kerala Backwaters,Kerala,2025-05,145000,28000,80.0
+TOU-106,Hampi Ruins,Karnataka,2025-05,48000,11000,62.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-05,32000,8500,58.0
+TOU-108,Darjeeling,West Bengal,2025-05,130000,15500,87.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-05,148000,28000,76.0
+TOU-110,Ranthambore,Rajasthan,2025-05,22000,6500,62.0
+TOU-111,Ajanta Ellora,Maharashtra,2025-05,65000,14500,65.0
+TOU-112,Mysuru Palace,Karnataka,2025-05,98000,15000,72.0
+TOU-113,Rishikesh,Uttarakhand,2025-05,168000,28000,84.0
+TOU-114,Amritsar,Punjab,2025-05,155000,19000,78.0
+TOU-115,Coorg,Karnataka,2025-05,72000,9500,70.0
+TOU-101,Statue of Unity,Gujarat,2025-06,72000,5200,62.0
+TOU-102,Goa Beaches,Goa,2025-06,68000,9500,52.0
+TOU-103,Jaipur Forts,Rajasthan,2025-06,72000,10000,62.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-06,145000,38000,78.0
+TOU-105,Kerala Backwaters,Kerala,2025-06,115000,22000,74.0
+TOU-106,Hampi Ruins,Karnataka,2025-06,35000,7500,55.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-06,22000,5500,50.0
+TOU-108,Darjeeling,West Bengal,2025-06,88000,9500,72.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-06,108000,20000,68.0
+TOU-110,Ranthambore,Rajasthan,2025-06,12000,3500,48.0
+TOU-111,Ajanta Ellora,Maharashtra,2025-06,48000,10500,58.0
+TOU-112,Mysuru Palace,Karnataka,2025-06,72000,10500,64.0
+TOU-113,Rishikesh,Uttarakhand,2025-06,125000,20000,76.0
+TOU-114,Amritsar,Punjab,2025-06,122000,14500,72.0
+TOU-115,Coorg,Karnataka,2025-06,52000,6500,62.0
+TOU-101,Statue of Unity,Gujarat,2025-07,68000,4800,58.0
+TOU-102,Goa Beaches,Goa,2025-07,55000,7500,48.0
+TOU-103,Jaipur Forts,Rajasthan,2025-07,65000,8500,58.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-07,138000,35000,75.0
+TOU-105,Kerala Backwaters,Kerala,2025-07,108000,19000,70.0
+TOU-106,Hampi Ruins,Karnataka,2025-07,30000,6500,52.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-07,18000,4800,46.0
+TOU-108,Darjeeling,West Bengal,2025-07,75000,8000,68.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-07,98000,18000,64.0
+TOU-110,Ranthambore,Rajasthan,2025-07,8000,2500,42.0
+TOU-111,Ajanta Ellora,Maharashtra,2025-07,42000,9000,54.0
+TOU-112,Mysuru Palace,Karnataka,2025-07,65000,9000,60.0
+TOU-113,Rishikesh,Uttarakhand,2025-07,115000,17500,72.0
+TOU-114,Amritsar,Punjab,2025-07,112000,13000,68.0
+TOU-115,Coorg,Karnataka,2025-07,42000,5000,56.0
+TOU-101,Statue of Unity,Gujarat,2025-08,71000,5100,60.0
+TOU-102,Goa Beaches,Goa,2025-08,62000,8200,50.0
+TOU-103,Jaipur Forts,Rajasthan,2025-08,68000,9200,60.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-08,142000,36500,76.5
+TOU-105,Kerala Backwaters,Kerala,2025-08,112000,20000,71.5
+TOU-106,Hampi Ruins,Karnataka,2025-08,32000,6800,53.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-08,19500,5000,47.5
+TOU-108,Darjeeling,West Bengal,2025-08,78000,8300,69.5
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-08,102000,18800,65.5
+TOU-110,Ranthambore,Rajasthan,2025-08,8800,2600,43.5
+TOU-111,Ajanta Ellora,Maharashtra,2025-08,44000,9300,55.5
+TOU-112,Mysuru Palace,Karnataka,2025-08,68000,9400,61.5
+TOU-113,Rishikesh,Uttarakhand,2025-08,118000,18000,73.0
+TOU-114,Amritsar,Punjab,2025-08,115000,13500,69.0
+TOU-115,Coorg,Karnataka,2025-08,44000,5200,57.5
+TOU-101,Statue of Unity,Gujarat,2025-09,118000,9200,76.0
+TOU-102,Goa Beaches,Goa,2025-09,138000,25000,78.0
+TOU-103,Jaipur Forts,Rajasthan,2025-09,142000,21000,80.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-09,248000,62000,89.0
+TOU-105,Kerala Backwaters,Kerala,2025-09,148000,28000,83.0
+TOU-106,Hampi Ruins,Karnataka,2025-09,62000,14000,66.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-09,41000,11000,63.0
+TOU-108,Darjeeling,West Bengal,2025-09,98000,10500,78.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-09,168000,31000,78.0
+TOU-110,Ranthambore,Rajasthan,2025-09,28000,8000,65.0
+TOU-111,Ajanta Ellora,Maharashtra,2025-09,75000,18000,70.0
+TOU-112,Mysuru Palace,Karnataka,2025-09,115000,18000,77.0
+TOU-113,Rishikesh,Uttarakhand,2025-09,138000,21000,79.0
+TOU-114,Amritsar,Punjab,2025-09,162000,20500,80.0
+TOU-115,Coorg,Karnataka,2025-09,62000,8000,68.0
+TOU-101,Statue of Unity,Gujarat,2025-10,148000,12000,85.0
+TOU-102,Goa Beaches,Goa,2025-10,195000,38000,88.5
+TOU-103,Jaipur Forts,Rajasthan,2025-10,178000,28000,88.5
+TOU-104,Taj Mahal,Uttar Pradesh,2025-10,305000,80000,93.5
+TOU-105,Kerala Backwaters,Kerala,2025-10,168000,33000,87.0
+TOU-106,Hampi Ruins,Karnataka,2025-10,78000,18500,73.5
+TOU-107,Khajuraho,Madhya Pradesh,2025-10,52000,14000,68.0
+TOU-108,Darjeeling,West Bengal,2025-10,108000,11500,82.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-10,215000,39000,84.5
+TOU-110,Ranthambore,Rajasthan,2025-10,45000,12500,77.5
+TOU-111,Ajanta Ellora,Maharashtra,2025-10,92000,22500,76.0
+TOU-112,Mysuru Palace,Karnataka,2025-10,135000,21500,81.5
+TOU-113,Rishikesh,Uttarakhand,2025-10,142000,21500,80.5
+TOU-114,Amritsar,Punjab,2025-10,188000,24500,83.5
+TOU-115,Coorg,Karnataka,2025-10,75000,10000,73.0
+TOU-101,Statue of Unity,Gujarat,2025-11,158000,13500,87.5
+TOU-102,Goa Beaches,Goa,2025-11,228000,46500,92.5
+TOU-103,Jaipur Forts,Rajasthan,2025-11,195000,30000,90.5
+TOU-104,Taj Mahal,Uttar Pradesh,2025-11,335000,88000,95.5
+TOU-105,Kerala Backwaters,Kerala,2025-11,175000,35500,89.5
+TOU-106,Hampi Ruins,Karnataka,2025-11,82000,19500,74.0
+TOU-107,Khajuraho,Madhya Pradesh,2025-11,56000,15500,70.0
+TOU-108,Darjeeling,West Bengal,2025-11,105000,11000,83.0
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-11,225000,41500,86.0
+TOU-110,Ranthambore,Rajasthan,2025-11,48000,13000,78.0
+TOU-111,Ajanta Ellora,Maharashtra,2025-11,95000,24000,77.5
+TOU-112,Mysuru Palace,Karnataka,2025-11,142000,22500,82.5
+TOU-113,Rishikesh,Uttarakhand,2025-11,132000,21000,79.5
+TOU-114,Amritsar,Punjab,2025-11,195000,25500,84.5
+TOU-115,Coorg,Karnataka,2025-11,72000,9800,73.5
+TOU-101,Statue of Unity,Gujarat,2025-12,168000,14000,89.0
+TOU-102,Goa Beaches,Goa,2025-12,248000,52000,94.5
+TOU-103,Jaipur Forts,Rajasthan,2025-12,208000,32000,91.0
+TOU-104,Taj Mahal,Uttar Pradesh,2025-12,352000,94000,96.5
+TOU-105,Kerala Backwaters,Kerala,2025-12,185000,38000,91.5
+TOU-106,Hampi Ruins,Karnataka,2025-12,88000,21000,75.5
+TOU-107,Khajuraho,Madhya Pradesh,2025-12,60000,17000,72.5
+TOU-108,Darjeeling,West Bengal,2025-12,112000,11800,84.5
+TOU-109,Varanasi Ghats,Uttar Pradesh,2025-12,238000,44000,87.5
+TOU-110,Ranthambore,Rajasthan,2025-12,52000,14000,80.0
+TOU-111,Ajanta Ellora,Maharashtra,2025-12,100000,25000,78.5
+TOU-112,Mysuru Palace,Karnataka,2025-12,152000,24000,84.0
+TOU-113,Rishikesh,Uttarakhand,2025-12,128000,20000,79.0
+TOU-114,Amritsar,Punjab,2025-12,202000,27000,85.5
+TOU-115,Coorg,Karnataka,2025-12,78000,10500,75.0

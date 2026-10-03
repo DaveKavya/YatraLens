@@ -1,0 +1,2437 @@
+DestinationID,Destination,State,Month,DomesticVisitors,ForeignVisitors,HotelOccupancyPct
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-01,2608086,32593,79.4
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-02,1903522,25145,60.7
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-03,2133506,23487,63.9
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-04,1995037,13286,66.4
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-05,2489126,8710,71.7
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-06,2324221,7965,67.9
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-07,1749298,7937,52.1
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-08,1850530,8372,59.9
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-09,2486570,10680,77.5
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-10,2972934,20857,82.3
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-11,2085240,29540,60.5
+TOU-101,Tirumala Tirupati Balaji Temple,Andhra Pradesh,2025-12,3099531,36198,86.1
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-01,564463,5801,76.8
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-02,511811,5332,74.9
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-03,465105,4701,70.3
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-04,359197,3274,65.7
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-05,299229,2965,59.5
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-06,318416,2931,61.6
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-07,277997,2926,58.3
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-08,321562,3145,61.3
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-09,371178,3540,63.2
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-10,431891,4264,70.5
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-11,504916,5387,75.4
+TOU-102,Visakhapatnam RK Beach,Andhra Pradesh,2025-12,674704,6244,85.0
+TOU-103,Araku Valley,Andhra Pradesh,2025-01,107970,987,70.1
+TOU-103,Araku Valley,Andhra Pradesh,2025-02,107886,1053,72.5
+TOU-103,Araku Valley,Andhra Pradesh,2025-03,116740,1275,76.0
+TOU-103,Araku Valley,Andhra Pradesh,2025-04,151960,1318,82.1
+TOU-103,Araku Valley,Andhra Pradesh,2025-05,155463,1589,88.0
+TOU-103,Araku Valley,Andhra Pradesh,2025-06,99096,1089,70.9
+TOU-103,Araku Valley,Andhra Pradesh,2025-07,77230,680,52.4
+TOU-103,Araku Valley,Andhra Pradesh,2025-08,72823,787,53.3
+TOU-103,Araku Valley,Andhra Pradesh,2025-09,93022,922,61.3
+TOU-103,Araku Valley,Andhra Pradesh,2025-10,120422,1101,71.9
+TOU-103,Araku Valley,Andhra Pradesh,2025-11,96917,943,63.4
+TOU-103,Araku Valley,Andhra Pradesh,2025-12,132510,1255,82.3
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-01,421186,2352,77.9
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-02,398286,2443,72.3
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-03,395029,1645,71.2
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-04,385119,1135,69.7
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-05,332241,820,66.6
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-06,301189,696,54.4
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-07,306031,700,61.4
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-08,360463,752,65.7
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-09,361233,938,69.8
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-10,413213,1609,81.4
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-11,448678,2432,86.6
+TOU-104,Srisailam Mallikarjuna Temple,Andhra Pradesh,2025-12,418304,2605,82.0
+TOU-105,Borra Caves,Andhra Pradesh,2025-01,46725,945,56.6
+TOU-105,Borra Caves,Andhra Pradesh,2025-02,52006,1038,58.4
+TOU-105,Borra Caves,Andhra Pradesh,2025-03,47488,1125,57.3
+TOU-105,Borra Caves,Andhra Pradesh,2025-04,52932,1024,57.2
+TOU-105,Borra Caves,Andhra Pradesh,2025-05,49102,951,60.8
+TOU-105,Borra Caves,Andhra Pradesh,2025-06,76710,1675,76.5
+TOU-105,Borra Caves,Andhra Pradesh,2025-07,125274,2439,89.6
+TOU-105,Borra Caves,Andhra Pradesh,2025-08,124954,2134,91.6
+TOU-105,Borra Caves,Andhra Pradesh,2025-09,91979,1794,81.8
+TOU-105,Borra Caves,Andhra Pradesh,2025-10,68220,1322,67.9
+TOU-105,Borra Caves,Andhra Pradesh,2025-11,57072,1132,63.6
+TOU-105,Borra Caves,Andhra Pradesh,2025-12,59044,1060,64.9
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-01,24924,2188,61.3
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-02,27589,2591,68.0
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-03,38323,3421,72.6
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-04,45723,3530,80.3
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-05,47507,3474,79.5
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-06,27841,2496,65.2
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-07,17915,1616,57.0
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-08,21985,1599,58.2
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-09,30679,2576,66.5
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-10,50711,3655,81.7
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-11,49728,3962,79.7
+TOU-106,Tawang Monastery,Arunachal Pradesh,2025-12,37170,2736,71.9
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-01,14279,909,57.8
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-02,19744,1027,64.4
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-03,26394,1594,72.8
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-04,28581,1898,81.0
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-05,29662,1890,80.3
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-06,18435,1172,61.8
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-07,11412,679,48.7
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-08,12919,773,51.4
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-09,19512,1136,64.8
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-10,29866,1765,85.4
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-11,30445,1734,83.3
+TOU-107,Ziro Valley,Arunachal Pradesh,2025-12,22499,1459,69.2
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-01,15538,1170,87.3
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-02,17444,1078,88.6
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-03,16915,1094,87.0
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-04,11875,752,80.0
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-05,4228,258,65.0
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-06,1631,116,58.8
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-07,1073,73,55.2
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-08,1170,68,57.4
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-09,1815,114,57.4
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-10,5951,375,66.2
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-11,14321,968,83.6
+TOU-108,Namdapha National Park,Arunachal Pradesh,2025-12,16362,1267,90.0
+TOU-109,Bomdila,Arunachal Pradesh,2025-01,12222,530,58.4
+TOU-109,Bomdila,Arunachal Pradesh,2025-02,15466,584,65.1
+TOU-109,Bomdila,Arunachal Pradesh,2025-03,20882,741,75.7
+TOU-109,Bomdila,Arunachal Pradesh,2025-04,26804,1027,86.2
+TOU-109,Bomdila,Arunachal Pradesh,2025-05,23235,1001,84.4
+TOU-109,Bomdila,Arunachal Pradesh,2025-06,15367,564,63.2
+TOU-109,Bomdila,Arunachal Pradesh,2025-07,10103,400,50.2
+TOU-109,Bomdila,Arunachal Pradesh,2025-08,10276,464,54.7
+TOU-109,Bomdila,Arunachal Pradesh,2025-09,14577,580,64.6
+TOU-109,Bomdila,Arunachal Pradesh,2025-10,24074,922,87.0
+TOU-109,Bomdila,Arunachal Pradesh,2025-11,25784,1007,86.3
+TOU-109,Bomdila,Arunachal Pradesh,2025-12,18927,743,72.8
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-01,443868,5930,73.4
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-02,401734,5866,66.1
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-03,407218,4666,66.0
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-04,433333,3389,64.7
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-05,374448,2198,63.2
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-06,368806,2055,52.6
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-07,342145,1954,57.1
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-08,361071,1950,65.6
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-09,431887,2968,67.2
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-10,444541,5019,77.2
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-11,494799,6547,80.5
+TOU-110,Kamakhya Temple Guwahati,Assam,2025-12,445732,7568,78.4
+TOU-111,Kaziranga National Park,Assam,2025-01,100356,12438,80.1
+TOU-111,Kaziranga National Park,Assam,2025-02,105036,12828,83.4
+TOU-111,Kaziranga National Park,Assam,2025-03,117474,13269,82.2
+TOU-111,Kaziranga National Park,Assam,2025-04,73279,8473,73.6
+TOU-111,Kaziranga National Park,Assam,2025-05,27222,3192,58.1
+TOU-111,Kaziranga National Park,Assam,2025-06,11283,1275,48.9
+TOU-111,Kaziranga National Park,Assam,2025-07,7457,845,47.0
+TOU-111,Kaziranga National Park,Assam,2025-08,7312,802,49.2
+TOU-111,Kaziranga National Park,Assam,2025-09,10149,1176,52.6
+TOU-111,Kaziranga National Park,Assam,2025-10,35252,4874,60.0
+TOU-111,Kaziranga National Park,Assam,2025-11,107589,11189,79.0
+TOU-111,Kaziranga National Park,Assam,2025-12,117395,12917,85.8
+TOU-112,Majuli Island,Assam,2025-01,29159,2108,75.7
+TOU-112,Majuli Island,Assam,2025-02,33332,2596,76.1
+TOU-112,Majuli Island,Assam,2025-03,31215,2272,76.2
+TOU-112,Majuli Island,Assam,2025-04,24594,1750,71.9
+TOU-112,Majuli Island,Assam,2025-05,16754,1045,62.4
+TOU-112,Majuli Island,Assam,2025-06,10762,663,56.3
+TOU-112,Majuli Island,Assam,2025-07,11133,767,56.0
+TOU-112,Majuli Island,Assam,2025-08,11933,835,57.8
+TOU-112,Majuli Island,Assam,2025-09,16563,1130,62.6
+TOU-112,Majuli Island,Assam,2025-10,30639,2387,77.0
+TOU-112,Majuli Island,Assam,2025-11,35837,2699,81.3
+TOU-112,Majuli Island,Assam,2025-12,41158,3143,82.9
+TOU-113,Manas National Park,Assam,2025-01,24565,1656,80.9
+TOU-113,Manas National Park,Assam,2025-02,27976,1669,82.2
+TOU-113,Manas National Park,Assam,2025-03,26814,1562,82.3
+TOU-113,Manas National Park,Assam,2025-04,18824,1168,75.0
+TOU-113,Manas National Park,Assam,2025-05,6747,403,61.9
+TOU-113,Manas National Park,Assam,2025-06,2541,192,57.4
+TOU-113,Manas National Park,Assam,2025-07,1698,129,58.8
+TOU-113,Manas National Park,Assam,2025-08,1911,132,58.9
+TOU-113,Manas National Park,Assam,2025-09,2936,178,59.8
+TOU-113,Manas National Park,Assam,2025-10,10002,549,69.0
+TOU-113,Manas National Park,Assam,2025-11,23927,1396,79.8
+TOU-113,Manas National Park,Assam,2025-12,29801,1605,83.7
+TOU-114,Sivasagar Rang Ghar,Assam,2025-01,33692,701,74.2
+TOU-114,Sivasagar Rang Ghar,Assam,2025-02,36447,792,78.2
+TOU-114,Sivasagar Rang Ghar,Assam,2025-03,39720,732,76.2
+TOU-114,Sivasagar Rang Ghar,Assam,2025-04,32019,546,69.7
+TOU-114,Sivasagar Rang Ghar,Assam,2025-05,21366,391,58.7
+TOU-114,Sivasagar Rang Ghar,Assam,2025-06,14070,226,51.1
+TOU-114,Sivasagar Rang Ghar,Assam,2025-07,13016,253,49.2
+TOU-114,Sivasagar Rang Ghar,Assam,2025-08,14927,255,52.6
+TOU-114,Sivasagar Rang Ghar,Assam,2025-09,18934,349,59.2
+TOU-114,Sivasagar Rang Ghar,Assam,2025-10,40653,789,77.0
+TOU-114,Sivasagar Rang Ghar,Assam,2025-11,46451,955,81.3
+TOU-114,Sivasagar Rang Ghar,Assam,2025-12,43594,1007,84.2
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-01,318443,79369,77.4
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-02,338619,85114,71.2
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-03,222246,65975,70.4
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-04,173044,37288,66.3
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-05,232877,29038,71.3
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-06,113058,22719,58.4
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-07,114143,19363,61.0
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-08,124767,25882,63.3
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-09,190109,31869,64.8
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-10,288090,55310,73.7
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-11,388389,84500,80.7
+TOU-115,Mahabodhi Temple Bodh Gaya,Bihar,2025-12,435043,88557,80.8
+TOU-116,Nalanda University Ruins,Bihar,2025-01,199791,21715,82.9
+TOU-116,Nalanda University Ruins,Bihar,2025-02,165252,18134,77.3
+TOU-116,Nalanda University Ruins,Bihar,2025-03,148701,14935,74.2
+TOU-116,Nalanda University Ruins,Bihar,2025-04,89291,8245,60.3
+TOU-116,Nalanda University Ruins,Bihar,2025-05,62969,6290,52.6
+TOU-116,Nalanda University Ruins,Bihar,2025-06,63372,4656,50.3
+TOU-116,Nalanda University Ruins,Bihar,2025-07,71816,4526,50.7
+TOU-116,Nalanda University Ruins,Bihar,2025-08,71622,5552,55.1
+TOU-116,Nalanda University Ruins,Bihar,2025-09,106722,7725,65.5
+TOU-116,Nalanda University Ruins,Bihar,2025-10,163260,15487,75.5
+TOU-116,Nalanda University Ruins,Bihar,2025-11,190379,20726,79.1
+TOU-116,Nalanda University Ruins,Bihar,2025-12,209714,23217,83.3
+TOU-117,Rajgir,Bihar,2025-01,186385,10801,79.1
+TOU-117,Rajgir,Bihar,2025-02,145582,10367,73.0
+TOU-117,Rajgir,Bihar,2025-03,127198,7344,71.2
+TOU-117,Rajgir,Bihar,2025-04,86056,5318,64.2
+TOU-117,Rajgir,Bihar,2025-05,60401,3766,55.4
+TOU-117,Rajgir,Bihar,2025-06,50977,2857,52.3
+TOU-117,Rajgir,Bihar,2025-07,56460,2689,57.9
+TOU-117,Rajgir,Bihar,2025-08,58831,3229,60.3
+TOU-117,Rajgir,Bihar,2025-09,89545,4137,64.6
+TOU-117,Rajgir,Bihar,2025-10,142866,7160,72.7
+TOU-117,Rajgir,Bihar,2025-11,147152,10999,76.7
+TOU-117,Rajgir,Bihar,2025-12,194333,10875,82.3
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-01,200759,3512,71.0
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-02,161413,3414,62.9
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-03,185674,2434,67.9
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-04,246616,1478,79.6
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-05,187728,1016,67.7
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-06,188462,873,68.0
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-07,165669,773,57.7
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-08,163090,997,63.1
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-09,172942,1151,64.9
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-10,255296,2497,75.4
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-11,292931,3210,85.1
+TOU-118,Takht Sri Patna Sahib,Bihar,2025-12,223511,3642,76.6
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-01,70731,613,53.8
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-02,68513,665,52.8
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-03,70188,627,53.2
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-04,69439,723,53.2
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-05,77007,645,52.9
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-06,103068,973,68.6
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-07,137491,1688,84.0
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-08,152314,1643,80.4
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-09,112969,1207,75.9
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-10,91584,818,62.4
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-11,81376,841,59.2
+TOU-119,Chitrakote Falls,Chhattisgarh,2025-12,75491,799,60.3
+TOU-120,Mainpat,Chhattisgarh,2025-01,49227,239,88.4
+TOU-120,Mainpat,Chhattisgarh,2025-02,40354,193,85.8
+TOU-120,Mainpat,Chhattisgarh,2025-03,27967,150,72.6
+TOU-120,Mainpat,Chhattisgarh,2025-04,29807,144,71.3
+TOU-120,Mainpat,Chhattisgarh,2025-05,31831,165,75.0
+TOU-120,Mainpat,Chhattisgarh,2025-06,28571,149,72.0
+TOU-120,Mainpat,Chhattisgarh,2025-07,17702,100,62.8
+TOU-120,Mainpat,Chhattisgarh,2025-08,15201,87,61.1
+TOU-120,Mainpat,Chhattisgarh,2025-09,20639,115,63.0
+TOU-120,Mainpat,Chhattisgarh,2025-10,26874,138,72.9
+TOU-120,Mainpat,Chhattisgarh,2025-11,26725,138,74.5
+TOU-120,Mainpat,Chhattisgarh,2025-12,44920,249,90.4
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-01,38412,449,86.3
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-02,33338,363,79.9
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-03,25171,308,73.5
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-04,19048,188,61.2
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-05,13359,117,53.4
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-06,11778,94,50.3
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-07,11896,95,54.9
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-08,13882,111,57.9
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-09,22089,157,64.6
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-10,32612,305,77.3
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-11,36941,425,82.8
+TOU-121,Sirpur Archaeological Site,Chhattisgarh,2025-12,45678,468,88.1
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-01,25207,260,77.1
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-02,29198,269,78.3
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-03,31565,316,79.2
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-04,31130,312,79.4
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-05,21997,235,74.2
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-06,8863,82,62.1
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-07,3277,30,56.1
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-08,3571,27,57.4
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-09,6705,63,60.2
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-10,21236,218,72.4
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-11,28755,271,77.6
+TOU-122,Kanger Valley National Park,Chhattisgarh,2025-12,33905,298,80.1
+TOU-123,Calangute Beach,Goa,2025-01,1051503,148898,78.4
+TOU-123,Calangute Beach,Goa,2025-02,914147,153855,76.2
+TOU-123,Calangute Beach,Goa,2025-03,690792,117217,72.4
+TOU-123,Calangute Beach,Goa,2025-04,550833,84145,67.5
+TOU-123,Calangute Beach,Goa,2025-05,462466,75107,64.5
+TOU-123,Calangute Beach,Goa,2025-06,237456,45723,61.0
+TOU-123,Calangute Beach,Goa,2025-07,211988,40297,59.8
+TOU-123,Calangute Beach,Goa,2025-08,265218,45423,58.6
+TOU-123,Calangute Beach,Goa,2025-09,391241,66145,62.4
+TOU-123,Calangute Beach,Goa,2025-10,668864,123552,71.2
+TOU-123,Calangute Beach,Goa,2025-11,957872,152150,75.8
+TOU-123,Calangute Beach,Goa,2025-12,1268027,196671,83.3
+TOU-124,Baga Beach,Goa,2025-01,968716,144970,81.8
+TOU-124,Baga Beach,Goa,2025-02,785456,130715,79.9
+TOU-124,Baga Beach,Goa,2025-03,603554,114713,74.0
+TOU-124,Baga Beach,Goa,2025-04,449399,85575,72.1
+TOU-124,Baga Beach,Goa,2025-05,359057,60239,66.1
+TOU-124,Baga Beach,Goa,2025-06,216787,36432,58.9
+TOU-124,Baga Beach,Goa,2025-07,210033,31426,55.3
+TOU-124,Baga Beach,Goa,2025-08,221908,36685,57.9
+TOU-124,Baga Beach,Goa,2025-09,368726,64318,63.0
+TOU-124,Baga Beach,Goa,2025-10,639734,118446,73.5
+TOU-124,Baga Beach,Goa,2025-11,787078,147136,80.9
+TOU-124,Baga Beach,Goa,2025-12,1126813,187402,89.1
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-01,472178,61336,78.4
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-02,410336,53705,74.3
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-03,328005,36938,68.8
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-04,236603,26606,65.0
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-05,183820,22564,60.8
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-06,104966,10773,54.3
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-07,87834,10487,53.2
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-08,111395,12564,55.0
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-09,175410,18199,59.5
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-10,320086,38492,71.5
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-11,452546,57096,74.4
+TOU-125,Basilica of Bom Jesus Old Goa,Goa,2025-12,590203,73778,86.4
+TOU-126,Palolem Beach,Goa,2025-01,341317,86473,75.5
+TOU-126,Palolem Beach,Goa,2025-02,303125,68491,72.5
+TOU-126,Palolem Beach,Goa,2025-03,208211,56517,67.6
+TOU-126,Palolem Beach,Goa,2025-04,147800,42265,63.9
+TOU-126,Palolem Beach,Goa,2025-05,131306,37943,55.5
+TOU-126,Palolem Beach,Goa,2025-06,68490,22332,47.3
+TOU-126,Palolem Beach,Goa,2025-07,56141,17366,49.9
+TOU-126,Palolem Beach,Goa,2025-08,65745,19887,53.6
+TOU-126,Palolem Beach,Goa,2025-09,118814,30345,60.2
+TOU-126,Palolem Beach,Goa,2025-10,224742,58614,64.4
+TOU-126,Palolem Beach,Goa,2025-11,278753,74503,74.9
+TOU-126,Palolem Beach,Goa,2025-12,403575,95001,84.0
+TOU-127,Fort Aguada,Goa,2025-01,437498,42317,76.7
+TOU-127,Fort Aguada,Goa,2025-02,371481,41143,75.8
+TOU-127,Fort Aguada,Goa,2025-03,273851,27013,69.7
+TOU-127,Fort Aguada,Goa,2025-04,212527,20665,64.1
+TOU-127,Fort Aguada,Goa,2025-05,167725,19063,60.6
+TOU-127,Fort Aguada,Goa,2025-06,97450,11275,55.4
+TOU-127,Fort Aguada,Goa,2025-07,76619,8911,55.7
+TOU-127,Fort Aguada,Goa,2025-08,90355,11554,54.7
+TOU-127,Fort Aguada,Goa,2025-09,142749,14693,59.6
+TOU-127,Fort Aguada,Goa,2025-10,299870,31766,67.1
+TOU-127,Fort Aguada,Goa,2025-11,377475,37760,74.3
+TOU-127,Fort Aguada,Goa,2025-12,581857,51049,84.5
+TOU-128,Dudhsagar Falls,Goa,2025-01,108189,5759,54.9
+TOU-128,Dudhsagar Falls,Goa,2025-02,114967,5680,52.8
+TOU-128,Dudhsagar Falls,Goa,2025-03,106504,5386,55.4
+TOU-128,Dudhsagar Falls,Goa,2025-04,111137,5637,53.3
+TOU-128,Dudhsagar Falls,Goa,2025-05,116426,5567,54.5
+TOU-128,Dudhsagar Falls,Goa,2025-06,170512,8300,69.0
+TOU-128,Dudhsagar Falls,Goa,2025-07,254962,11095,82.3
+TOU-128,Dudhsagar Falls,Goa,2025-08,250592,12935,83.6
+TOU-128,Dudhsagar Falls,Goa,2025-09,198499,9941,75.8
+TOU-128,Dudhsagar Falls,Goa,2025-10,136432,7553,63.8
+TOU-128,Dudhsagar Falls,Goa,2025-11,131849,5979,56.6
+TOU-128,Dudhsagar Falls,Goa,2025-12,120919,6388,58.8
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-01,501464,6889,79.6
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-02,535039,7193,78.8
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-03,460191,5026,74.5
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-04,341190,3044,63.0
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-05,247301,2173,53.9
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-06,255534,1575,56.6
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-07,314992,1710,62.0
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-08,357981,1826,64.7
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-09,401445,2611,68.4
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-10,560064,5154,77.8
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-11,569486,6454,82.4
+TOU-129,Statue of Unity Kevadia,Gujarat,2025-12,629748,7651,80.7
+TOU-130,Somnath Temple,Gujarat,2025-01,388813,5956,66.8
+TOU-130,Somnath Temple,Gujarat,2025-02,481529,6044,81.5
+TOU-130,Somnath Temple,Gujarat,2025-03,317253,4957,57.2
+TOU-130,Somnath Temple,Gujarat,2025-04,350058,3212,58.8
+TOU-130,Somnath Temple,Gujarat,2025-05,394170,2380,67.3
+TOU-130,Somnath Temple,Gujarat,2025-06,332577,1821,58.8
+TOU-130,Somnath Temple,Gujarat,2025-07,482752,1824,77.2
+TOU-130,Somnath Temple,Gujarat,2025-08,468350,2256,83.3
+TOU-130,Somnath Temple,Gujarat,2025-09,395420,2978,66.8
+TOU-130,Somnath Temple,Gujarat,2025-10,411171,4503,74.1
+TOU-130,Somnath Temple,Gujarat,2025-11,583773,5920,92.6
+TOU-130,Somnath Temple,Gujarat,2025-12,453945,7270,76.5
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-01,388953,6404,68.9
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-02,345702,5791,50.0
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-03,342811,4779,59.2
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-04,347949,2700,50.2
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-05,395223,1891,68.2
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-06,385348,1577,59.1
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-07,314030,1686,48.3
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-08,508061,1880,88.1
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-09,395014,2681,57.9
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-10,463677,4266,77.8
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-11,494944,6323,81.5
+TOU-131,Dwarkadhish Temple Dwarka,Gujarat,2025-12,417637,7379,72.4
+TOU-132,Gir National Park,Gujarat,2025-01,90600,6210,83.1
+TOU-132,Gir National Park,Gujarat,2025-02,95201,6324,84.1
+TOU-132,Gir National Park,Gujarat,2025-03,94282,7097,86.3
+TOU-132,Gir National Park,Gujarat,2025-04,108962,7270,86.9
+TOU-132,Gir National Park,Gujarat,2025-05,77342,5387,81.0
+TOU-132,Gir National Park,Gujarat,2025-06,35004,1645,61.4
+TOU-132,Gir National Park,Gujarat,2025-07,13534,576,52.2
+TOU-132,Gir National Park,Gujarat,2025-08,14412,558,52.0
+TOU-132,Gir National Park,Gujarat,2025-09,26934,1216,59.5
+TOU-132,Gir National Park,Gujarat,2025-10,79877,4787,78.4
+TOU-132,Gir National Park,Gujarat,2025-11,104840,7280,87.3
+TOU-132,Gir National Park,Gujarat,2025-12,111114,7790,88.3
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-01,344616,20549,75.6
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-02,282970,17128,71.3
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-03,105813,7638,56.2
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-04,34050,2296,49.1
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-05,14491,1288,47.1
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-06,12549,989,47.3
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-07,12889,974,43.3
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-08,16722,1281,45.1
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-09,25455,1756,47.2
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-10,121503,8140,55.8
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-11,343008,19582,77.9
+TOU-133,Rann of Kutch White Desert,Gujarat,2025-12,438173,22495,81.4
+TOU-134,Rani ki Vav Patan,Gujarat,2025-01,55739,7061,87.0
+TOU-134,Rani ki Vav Patan,Gujarat,2025-02,54494,6635,88.5
+TOU-134,Rani ki Vav Patan,Gujarat,2025-03,48095,5664,78.2
+TOU-134,Rani ki Vav Patan,Gujarat,2025-04,33363,2916,67.7
+TOU-134,Rani ki Vav Patan,Gujarat,2025-05,24351,2440,57.2
+TOU-134,Rani ki Vav Patan,Gujarat,2025-06,27711,1857,59.9
+TOU-134,Rani ki Vav Patan,Gujarat,2025-07,35438,1601,68.7
+TOU-134,Rani ki Vav Patan,Gujarat,2025-08,32729,1955,70.3
+TOU-134,Rani ki Vav Patan,Gujarat,2025-09,43681,2826,77.2
+TOU-134,Rani ki Vav Patan,Gujarat,2025-10,52619,5544,86.1
+TOU-134,Rani ki Vav Patan,Gujarat,2025-11,62815,6921,90.6
+TOU-134,Rani ki Vav Patan,Gujarat,2025-12,66017,7625,89.0
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-01,203511,2934,79.5
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-02,184346,2446,72.4
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-03,182933,1965,71.5
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-04,163207,1445,72.2
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-05,164974,897,65.9
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-06,159551,792,51.8
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-07,163889,689,60.0
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-08,160943,876,67.4
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-09,167927,1140,69.8
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-10,215988,1948,85.3
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-11,212225,2838,89.6
+TOU-135,Kurukshetra Brahma Sarovar,Haryana,2025-12,200848,3221,82.5
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-01,149224,3139,78.9
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-02,133994,3419,82.7
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-03,134172,2534,78.0
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-04,84400,1620,68.9
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-05,62978,1216,58.9
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-06,54821,914,57.6
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-07,59738,978,59.0
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-08,69826,1005,61.8
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-09,96758,1348,70.4
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-10,138522,2671,82.0
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-11,158994,3328,85.6
+TOU-136,Surajkund Crafts Mela Ground,Haryana,2025-12,160368,3783,86.9
+TOU-137,Pinjore Gardens,Haryana,2025-01,118298,1330,82.2
+TOU-137,Pinjore Gardens,Haryana,2025-02,127866,1455,80.8
+TOU-137,Pinjore Gardens,Haryana,2025-03,110623,1149,76.9
+TOU-137,Pinjore Gardens,Haryana,2025-04,69126,646,65.4
+TOU-137,Pinjore Gardens,Haryana,2025-05,45594,454,57.0
+TOU-137,Pinjore Gardens,Haryana,2025-06,42004,390,53.8
+TOU-137,Pinjore Gardens,Haryana,2025-07,45577,389,57.4
+TOU-137,Pinjore Gardens,Haryana,2025-08,58563,393,57.2
+TOU-137,Pinjore Gardens,Haryana,2025-09,76693,545,67.9
+TOU-137,Pinjore Gardens,Haryana,2025-10,116973,950,81.9
+TOU-137,Pinjore Gardens,Haryana,2025-11,146969,1550,86.8
+TOU-137,Pinjore Gardens,Haryana,2025-12,133469,1585,87.9
+TOU-138,Sultanpur National Park,Haryana,2025-01,41444,1288,77.7
+TOU-138,Sultanpur National Park,Haryana,2025-02,48906,1524,81.5
+TOU-138,Sultanpur National Park,Haryana,2025-03,50860,1568,83.3
+TOU-138,Sultanpur National Park,Haryana,2025-04,51712,1504,82.5
+TOU-138,Sultanpur National Park,Haryana,2025-05,42790,1249,77.2
+TOU-138,Sultanpur National Park,Haryana,2025-06,12439,364,62.7
+TOU-138,Sultanpur National Park,Haryana,2025-07,4345,127,53.2
+TOU-138,Sultanpur National Park,Haryana,2025-08,4743,127,54.0
+TOU-138,Sultanpur National Park,Haryana,2025-09,10091,278,61.0
+TOU-138,Sultanpur National Park,Haryana,2025-10,39596,1071,75.4
+TOU-138,Sultanpur National Park,Haryana,2025-11,54901,1553,82.6
+TOU-138,Sultanpur National Park,Haryana,2025-12,56911,1725,84.8
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-01,315332,3621,60.8
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-02,275246,4834,53.3
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-03,353368,11484,60.7
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-04,456258,22328,77.4
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-05,644774,20977,86.9
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-06,612402,13916,83.3
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-07,358454,8030,62.6
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-08,293196,9030,56.6
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-09,346302,22987,61.8
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-10,461987,25461,73.0
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-11,399922,14031,67.6
+TOU-139,Shimla Mall Road and Ridge,Himachal Pradesh,2025-12,551975,5568,79.9
+TOU-140,Manali,Himachal Pradesh,2025-01,336026,4790,62.3
+TOU-140,Manali,Himachal Pradesh,2025-02,287759,7118,57.7
+TOU-140,Manali,Himachal Pradesh,2025-03,394233,16104,64.4
+TOU-140,Manali,Himachal Pradesh,2025-04,510589,28770,71.0
+TOU-140,Manali,Himachal Pradesh,2025-05,757188,27788,82.1
+TOU-140,Manali,Himachal Pradesh,2025-06,721795,21096,81.1
+TOU-140,Manali,Himachal Pradesh,2025-07,405033,11196,66.6
+TOU-140,Manali,Himachal Pradesh,2025-08,330963,12164,58.1
+TOU-140,Manali,Himachal Pradesh,2025-09,430601,32113,63.7
+TOU-140,Manali,Himachal Pradesh,2025-10,517394,35063,73.8
+TOU-140,Manali,Himachal Pradesh,2025-11,441781,20431,65.8
+TOU-140,Manali,Himachal Pradesh,2025-12,555805,8936,75.0
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-01,183481,9491,57.0
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-02,172346,11839,50.4
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-03,208021,30087,57.2
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-04,294571,43997,72.1
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-05,362438,42100,83.8
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-06,340434,27859,82.2
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-07,219844,18718,62.4
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-08,178536,22196,55.9
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-09,221711,48803,60.9
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-10,266446,52307,67.9
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-11,211629,30978,61.9
+TOU-141,Dharamshala McLeod Ganj,Himachal Pradesh,2025-12,312243,15602,74.7
+TOU-142,Dalhousie,Himachal Pradesh,2025-01,92963,362,61.6
+TOU-142,Dalhousie,Himachal Pradesh,2025-02,84831,443,56.5
+TOU-142,Dalhousie,Himachal Pradesh,2025-03,93296,1061,64.6
+TOU-142,Dalhousie,Himachal Pradesh,2025-04,134997,1958,70.9
+TOU-142,Dalhousie,Himachal Pradesh,2025-05,177975,1846,83.4
+TOU-142,Dalhousie,Himachal Pradesh,2025-06,175829,1325,80.0
+TOU-142,Dalhousie,Himachal Pradesh,2025-07,96763,776,65.0
+TOU-142,Dalhousie,Himachal Pradesh,2025-08,82730,933,58.9
+TOU-142,Dalhousie,Himachal Pradesh,2025-09,108234,1865,65.4
+TOU-142,Dalhousie,Himachal Pradesh,2025-10,136801,2155,72.0
+TOU-142,Dalhousie,Himachal Pradesh,2025-11,115397,1337,65.0
+TOU-142,Dalhousie,Himachal Pradesh,2025-12,157603,666,72.7
+TOU-143,Kasol,Himachal Pradesh,2025-01,94495,13280,79.0
+TOU-143,Kasol,Himachal Pradesh,2025-02,102887,18029,85.7
+TOU-143,Kasol,Himachal Pradesh,2025-03,126080,21267,93.3
+TOU-143,Kasol,Himachal Pradesh,2025-04,129986,17906,87.8
+TOU-143,Kasol,Himachal Pradesh,2025-05,121160,18506,87.7
+TOU-143,Kasol,Himachal Pradesh,2025-06,80791,11552,73.4
+TOU-143,Kasol,Himachal Pradesh,2025-07,50291,7149,57.6
+TOU-143,Kasol,Himachal Pradesh,2025-08,51130,6896,59.3
+TOU-143,Kasol,Himachal Pradesh,2025-09,65956,8614,70.1
+TOU-143,Kasol,Himachal Pradesh,2025-10,102718,17072,84.3
+TOU-143,Kasol,Himachal Pradesh,2025-11,118214,18755,86.1
+TOU-143,Kasol,Himachal Pradesh,2025-12,105919,16570,82.0
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-01,22639,1630,59.9
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-02,18128,2419,57.6
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-03,25573,5408,61.7
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-04,37099,8821,74.6
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-05,46505,8963,84.0
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-06,42472,5981,82.5
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-07,23789,3287,64.8
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-08,19769,3683,58.3
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-09,26046,9624,64.9
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-10,35210,8899,71.5
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-11,26556,5471,65.0
+TOU-144,Kaza Spiti Valley,Himachal Pradesh,2025-12,40120,2807,75.3
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-01,480789,1940,80.5
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-02,402873,1932,73.8
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-03,437099,1497,74.7
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-04,427987,823,71.9
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-05,386175,630,69.2
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-06,328669,458,57.9
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-07,370172,510,63.0
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-08,366952,575,71.0
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-09,383987,791,74.0
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-10,454989,1484,81.1
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-11,479112,2101,84.5
+TOU-145,Baidyanath Dham Deoghar,Jharkhand,2025-12,485169,2314,81.2
+TOU-146,Netarhat,Jharkhand,2025-01,31015,150,67.5
+TOU-146,Netarhat,Jharkhand,2025-02,38651,192,69.6
+TOU-146,Netarhat,Jharkhand,2025-03,37493,198,76.3
+TOU-146,Netarhat,Jharkhand,2025-04,42115,257,81.4
+TOU-146,Netarhat,Jharkhand,2025-05,50994,233,83.7
+TOU-146,Netarhat,Jharkhand,2025-06,33924,162,68.1
+TOU-146,Netarhat,Jharkhand,2025-07,25741,108,52.3
+TOU-146,Netarhat,Jharkhand,2025-08,25534,110,51.9
+TOU-146,Netarhat,Jharkhand,2025-09,29653,145,61.5
+TOU-146,Netarhat,Jharkhand,2025-10,38156,196,70.6
+TOU-146,Netarhat,Jharkhand,2025-11,29235,153,64.1
+TOU-146,Netarhat,Jharkhand,2025-12,41117,234,80.8
+TOU-147,Hundru Falls,Jharkhand,2025-01,44986,142,55.3
+TOU-147,Hundru Falls,Jharkhand,2025-02,45658,129,55.4
+TOU-147,Hundru Falls,Jharkhand,2025-03,42969,150,53.7
+TOU-147,Hundru Falls,Jharkhand,2025-04,44872,150,54.9
+TOU-147,Hundru Falls,Jharkhand,2025-05,49515,131,55.6
+TOU-147,Hundru Falls,Jharkhand,2025-06,68375,196,69.3
+TOU-147,Hundru Falls,Jharkhand,2025-07,99989,280,84.5
+TOU-147,Hundru Falls,Jharkhand,2025-08,96116,258,85.6
+TOU-147,Hundru Falls,Jharkhand,2025-09,71413,253,75.0
+TOU-147,Hundru Falls,Jharkhand,2025-10,58500,165,61.9
+TOU-147,Hundru Falls,Jharkhand,2025-11,51379,163,59.2
+TOU-147,Hundru Falls,Jharkhand,2025-12,48381,143,60.8
+TOU-148,Betla National Park,Jharkhand,2025-01,30129,291,78.3
+TOU-148,Betla National Park,Jharkhand,2025-02,34399,339,77.2
+TOU-148,Betla National Park,Jharkhand,2025-03,37203,389,80.8
+TOU-148,Betla National Park,Jharkhand,2025-04,35634,381,81.8
+TOU-148,Betla National Park,Jharkhand,2025-05,28068,286,78.9
+TOU-148,Betla National Park,Jharkhand,2025-06,9974,122,64.9
+TOU-148,Betla National Park,Jharkhand,2025-07,3939,47,58.3
+TOU-148,Betla National Park,Jharkhand,2025-08,4050,43,58.3
+TOU-148,Betla National Park,Jharkhand,2025-09,8230,79,62.8
+TOU-148,Betla National Park,Jharkhand,2025-10,24880,258,78.2
+TOU-148,Betla National Park,Jharkhand,2025-11,39880,401,81.4
+TOU-148,Betla National Park,Jharkhand,2025-12,37050,364,83.9
+TOU-149,Mysuru Palace,Karnataka,2025-01,459110,16108,81.3
+TOU-149,Mysuru Palace,Karnataka,2025-02,437875,16798,77.3
+TOU-149,Mysuru Palace,Karnataka,2025-03,369084,13436,70.0
+TOU-149,Mysuru Palace,Karnataka,2025-04,263950,8248,55.3
+TOU-149,Mysuru Palace,Karnataka,2025-05,239476,5614,50.2
+TOU-149,Mysuru Palace,Karnataka,2025-06,243936,4615,47.9
+TOU-149,Mysuru Palace,Karnataka,2025-07,269235,4595,54.1
+TOU-149,Mysuru Palace,Karnataka,2025-08,250975,4631,55.5
+TOU-149,Mysuru Palace,Karnataka,2025-09,320450,7069,61.4
+TOU-149,Mysuru Palace,Karnataka,2025-10,428078,12169,72.1
+TOU-149,Mysuru Palace,Karnataka,2025-11,486971,17950,79.6
+TOU-149,Mysuru Palace,Karnataka,2025-12,547152,20998,82.9
+TOU-150,Hampi,Karnataka,2025-01,230421,50793,79.3
+TOU-150,Hampi,Karnataka,2025-02,210475,45704,77.4
+TOU-150,Hampi,Karnataka,2025-03,162726,42076,72.1
+TOU-150,Hampi,Karnataka,2025-04,109382,23540,59.2
+TOU-150,Hampi,Karnataka,2025-05,90872,17214,57.5
+TOU-150,Hampi,Karnataka,2025-06,85395,16374,58.0
+TOU-150,Hampi,Karnataka,2025-07,99412,15151,61.0
+TOU-150,Hampi,Karnataka,2025-08,96373,16085,61.1
+TOU-150,Hampi,Karnataka,2025-09,129122,22300,64.2
+TOU-150,Hampi,Karnataka,2025-10,185216,35800,70.8
+TOU-150,Hampi,Karnataka,2025-11,193095,47159,75.8
+TOU-150,Hampi,Karnataka,2025-12,235378,61648,79.1
+TOU-151,Coorg Madikeri,Karnataka,2025-01,179107,3675,69.2
+TOU-151,Coorg Madikeri,Karnataka,2025-02,190907,3632,71.5
+TOU-151,Coorg Madikeri,Karnataka,2025-03,199878,4443,73.8
+TOU-151,Coorg Madikeri,Karnataka,2025-04,236246,5443,81.4
+TOU-151,Coorg Madikeri,Karnataka,2025-05,256611,5748,82.2
+TOU-151,Coorg Madikeri,Karnataka,2025-06,186761,3300,69.2
+TOU-151,Coorg Madikeri,Karnataka,2025-07,128976,2466,56.9
+TOU-151,Coorg Madikeri,Karnataka,2025-08,132313,2258,56.1
+TOU-151,Coorg Madikeri,Karnataka,2025-09,147143,3166,65.1
+TOU-151,Coorg Madikeri,Karnataka,2025-10,192532,4123,71.9
+TOU-151,Coorg Madikeri,Karnataka,2025-11,172286,3415,65.8
+TOU-151,Coorg Madikeri,Karnataka,2025-12,232081,4324,80.4
+TOU-152,Gokarna,Karnataka,2025-01,181969,33446,79.0
+TOU-152,Gokarna,Karnataka,2025-02,184468,32978,73.7
+TOU-152,Gokarna,Karnataka,2025-03,144485,24527,69.5
+TOU-152,Gokarna,Karnataka,2025-04,101864,17755,66.8
+TOU-152,Gokarna,Karnataka,2025-05,80435,14807,63.3
+TOU-152,Gokarna,Karnataka,2025-06,47889,8706,57.2
+TOU-152,Gokarna,Karnataka,2025-07,42038,7814,52.8
+TOU-152,Gokarna,Karnataka,2025-08,47607,8244,55.9
+TOU-152,Gokarna,Karnataka,2025-09,74132,12519,61.9
+TOU-152,Gokarna,Karnataka,2025-10,140598,25475,69.2
+TOU-152,Gokarna,Karnataka,2025-11,169802,32911,75.8
+TOU-152,Gokarna,Karnataka,2025-12,230290,42875,84.3
+TOU-153,Badami Cave Temples,Karnataka,2025-01,82495,4436,80.6
+TOU-153,Badami Cave Temples,Karnataka,2025-02,68421,4161,77.8
+TOU-153,Badami Cave Temples,Karnataka,2025-03,54971,3072,70.4
+TOU-153,Badami Cave Temples,Karnataka,2025-04,40731,2154,62.0
+TOU-153,Badami Cave Temples,Karnataka,2025-05,30290,1558,58.8
+TOU-153,Badami Cave Temples,Karnataka,2025-06,34272,1317,59.6
+TOU-153,Badami Cave Temples,Karnataka,2025-07,38718,1144,64.1
+TOU-153,Badami Cave Temples,Karnataka,2025-08,41166,1477,63.4
+TOU-153,Badami Cave Temples,Karnataka,2025-09,44589,1816,67.6
+TOU-153,Badami Cave Temples,Karnataka,2025-10,65045,2962,74.1
+TOU-153,Badami Cave Temples,Karnataka,2025-11,73532,4325,75.0
+TOU-153,Badami Cave Temples,Karnataka,2025-12,84722,4769,81.8
+TOU-154,Jog Falls,Karnataka,2025-01,65121,618,51.8
+TOU-154,Jog Falls,Karnataka,2025-02,58367,602,50.2
+TOU-154,Jog Falls,Karnataka,2025-03,58249,569,53.1
+TOU-154,Jog Falls,Karnataka,2025-04,64498,539,53.6
+TOU-154,Jog Falls,Karnataka,2025-05,60989,595,52.0
+TOU-154,Jog Falls,Karnataka,2025-06,87093,851,67.7
+TOU-154,Jog Falls,Karnataka,2025-07,117234,1265,76.8
+TOU-154,Jog Falls,Karnataka,2025-08,129707,1221,80.2
+TOU-154,Jog Falls,Karnataka,2025-09,111423,1176,72.6
+TOU-154,Jog Falls,Karnataka,2025-10,76141,669,60.5
+TOU-154,Jog Falls,Karnataka,2025-11,64549,590,56.6
+TOU-154,Jog Falls,Karnataka,2025-12,70099,601,55.2
+TOU-155,Bandipur National Park,Karnataka,2025-01,82062,2482,82.7
+TOU-155,Bandipur National Park,Karnataka,2025-02,79838,2669,83.1
+TOU-155,Bandipur National Park,Karnataka,2025-03,89472,2656,87.4
+TOU-155,Bandipur National Park,Karnataka,2025-04,86388,2792,86.2
+TOU-155,Bandipur National Park,Karnataka,2025-05,68399,2245,81.5
+TOU-155,Bandipur National Park,Karnataka,2025-06,23519,661,67.2
+TOU-155,Bandipur National Park,Karnataka,2025-07,8558,246,60.2
+TOU-155,Bandipur National Park,Karnataka,2025-08,8126,261,59.9
+TOU-155,Bandipur National Park,Karnataka,2025-09,16322,567,63.5
+TOU-155,Bandipur National Park,Karnataka,2025-10,65057,1883,77.6
+TOU-155,Bandipur National Park,Karnataka,2025-11,85986,2874,82.5
+TOU-155,Bandipur National Park,Karnataka,2025-12,96651,3173,84.9
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-01,284670,2080,78.8
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-02,248484,2018,68.1
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-03,226971,1460,68.9
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-04,241935,884,70.4
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-05,228788,599,66.0
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-06,217482,516,54.4
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-07,201441,469,60.4
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-08,222554,622,67.2
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-09,234198,783,70.4
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-10,296686,1441,81.7
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-11,274683,2196,86.7
+TOU-156,Udupi Sri Krishna Temple,Karnataka,2025-12,261967,2280,82.4
+TOU-157,Munnar Tea Gardens,Kerala,2025-01,237042,21889,69.8
+TOU-157,Munnar Tea Gardens,Kerala,2025-02,268050,22670,71.0
+TOU-157,Munnar Tea Gardens,Kerala,2025-03,299486,24916,75.7
+TOU-157,Munnar Tea Gardens,Kerala,2025-04,351726,28288,80.0
+TOU-157,Munnar Tea Gardens,Kerala,2025-05,393625,34699,79.1
+TOU-157,Munnar Tea Gardens,Kerala,2025-06,239588,21063,70.9
+TOU-157,Munnar Tea Gardens,Kerala,2025-07,164088,14194,59.1
+TOU-157,Munnar Tea Gardens,Kerala,2025-08,155910,15333,60.5
+TOU-157,Munnar Tea Gardens,Kerala,2025-09,190170,18849,66.3
+TOU-157,Munnar Tea Gardens,Kerala,2025-10,249990,22592,71.6
+TOU-157,Munnar Tea Gardens,Kerala,2025-11,230065,20494,68.5
+TOU-157,Munnar Tea Gardens,Kerala,2025-12,315484,28794,76.3
+TOU-158,Alleppey Backwaters,Kerala,2025-01,349813,57724,81.4
+TOU-158,Alleppey Backwaters,Kerala,2025-02,310113,57352,79.3
+TOU-158,Alleppey Backwaters,Kerala,2025-03,243057,48817,73.4
+TOU-158,Alleppey Backwaters,Kerala,2025-04,210482,33827,69.1
+TOU-158,Alleppey Backwaters,Kerala,2025-05,149201,28130,61.9
+TOU-158,Alleppey Backwaters,Kerala,2025-06,97806,18553,48.7
+TOU-158,Alleppey Backwaters,Kerala,2025-07,94661,17451,49.4
+TOU-158,Alleppey Backwaters,Kerala,2025-08,113187,18945,53.3
+TOU-158,Alleppey Backwaters,Kerala,2025-09,149088,27430,61.6
+TOU-158,Alleppey Backwaters,Kerala,2025-10,217935,40621,69.7
+TOU-158,Alleppey Backwaters,Kerala,2025-11,311957,58134,79.1
+TOU-158,Alleppey Backwaters,Kerala,2025-12,368261,66469,87.0
+TOU-159,Kovalam Beach,Kerala,2025-01,235614,49689,84.5
+TOU-159,Kovalam Beach,Kerala,2025-02,197730,50904,82.0
+TOU-159,Kovalam Beach,Kerala,2025-03,163714,42093,76.1
+TOU-159,Kovalam Beach,Kerala,2025-04,131970,31637,73.8
+TOU-159,Kovalam Beach,Kerala,2025-05,109609,27944,68.8
+TOU-159,Kovalam Beach,Kerala,2025-06,70462,19214,60.4
+TOU-159,Kovalam Beach,Kerala,2025-07,69144,17830,59.1
+TOU-159,Kovalam Beach,Kerala,2025-08,72660,19511,62.9
+TOU-159,Kovalam Beach,Kerala,2025-09,112950,26670,68.2
+TOU-159,Kovalam Beach,Kerala,2025-10,143445,39674,74.9
+TOU-159,Kovalam Beach,Kerala,2025-11,192650,49780,83.8
+TOU-159,Kovalam Beach,Kerala,2025-12,275387,58880,89.0
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-01,142683,9082,82.2
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-02,143398,9930,80.9
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-03,178108,10544,83.3
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-04,171211,12201,85.2
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-05,126807,9427,74.7
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-06,43429,3314,58.7
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-07,13841,1425,49.2
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-08,12441,1541,47.0
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-09,30359,2644,52.8
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-10,115961,9005,73.0
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-11,179981,10897,84.6
+TOU-160,Periyar Tiger Reserve Thekkady,Kerala,2025-12,195254,10928,89.4
+TOU-161,Wayanad,Kerala,2025-01,166594,6706,64.5
+TOU-161,Wayanad,Kerala,2025-02,173564,6995,69.0
+TOU-161,Wayanad,Kerala,2025-03,191444,7717,73.6
+TOU-161,Wayanad,Kerala,2025-04,209055,7965,74.9
+TOU-161,Wayanad,Kerala,2025-05,234767,9220,82.2
+TOU-161,Wayanad,Kerala,2025-06,159638,5987,66.8
+TOU-161,Wayanad,Kerala,2025-07,102669,4829,55.4
+TOU-161,Wayanad,Kerala,2025-08,115801,4485,54.5
+TOU-161,Wayanad,Kerala,2025-09,126063,5502,60.9
+TOU-161,Wayanad,Kerala,2025-10,185799,6359,69.5
+TOU-161,Wayanad,Kerala,2025-11,153312,6011,62.3
+TOU-161,Wayanad,Kerala,2025-12,222213,9150,77.7
+TOU-162,Fort Kochi,Kerala,2025-01,283279,61015,80.7
+TOU-162,Fort Kochi,Kerala,2025-02,264584,55920,79.0
+TOU-162,Fort Kochi,Kerala,2025-03,235247,44027,69.7
+TOU-162,Fort Kochi,Kerala,2025-04,167902,35724,64.0
+TOU-162,Fort Kochi,Kerala,2025-05,144725,25671,57.3
+TOU-162,Fort Kochi,Kerala,2025-06,82116,18564,47.4
+TOU-162,Fort Kochi,Kerala,2025-07,87387,17892,47.4
+TOU-162,Fort Kochi,Kerala,2025-08,90509,21401,48.4
+TOU-162,Fort Kochi,Kerala,2025-09,128225,30844,59.3
+TOU-162,Fort Kochi,Kerala,2025-10,199058,35962,67.0
+TOU-162,Fort Kochi,Kerala,2025-11,254473,55530,77.2
+TOU-162,Fort Kochi,Kerala,2025-12,343187,65512,86.0
+TOU-163,Guruvayur Temple,Kerala,2025-01,452073,1706,78.9
+TOU-163,Guruvayur Temple,Kerala,2025-02,337854,1796,65.5
+TOU-163,Guruvayur Temple,Kerala,2025-03,328950,1263,59.3
+TOU-163,Guruvayur Temple,Kerala,2025-04,366212,720,71.6
+TOU-163,Guruvayur Temple,Kerala,2025-05,292724,552,60.6
+TOU-163,Guruvayur Temple,Kerala,2025-06,285002,448,50.9
+TOU-163,Guruvayur Temple,Kerala,2025-07,275620,456,53.0
+TOU-163,Guruvayur Temple,Kerala,2025-08,334415,448,65.6
+TOU-163,Guruvayur Temple,Kerala,2025-09,336187,641,63.9
+TOU-163,Guruvayur Temple,Kerala,2025-10,407869,1330,71.1
+TOU-163,Guruvayur Temple,Kerala,2025-11,383958,1853,75.3
+TOU-163,Guruvayur Temple,Kerala,2025-12,513354,2149,83.9
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-01,126050,39312,75.2
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-02,113912,36081,75.3
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-03,110080,30112,72.7
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-04,72215,16754,63.8
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-05,44498,12956,57.5
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-06,39702,9727,56.1
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-07,43976,9863,59.1
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-08,54596,10509,60.1
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-09,77762,14630,66.9
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-10,111395,30723,76.3
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-11,144858,40493,79.3
+TOU-164,Khajuraho Temples,Madhya Pradesh,2025-12,141905,47549,80.4
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-01,102210,18542,79.8
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-02,92722,16025,81.0
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-03,87631,13143,75.4
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-04,60190,7575,67.3
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-05,43567,4965,62.3
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-06,39566,4457,56.8
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-07,40672,4679,61.6
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-08,50678,5124,60.3
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-09,61946,6356,67.9
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-10,104831,13303,79.2
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-11,114358,16591,85.9
+TOU-165,Sanchi Stupa,Madhya Pradesh,2025-12,118438,17820,83.7
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-01,46897,5244,80.9
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-02,59264,5002,83.4
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-03,59124,6105,86.6
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-04,54560,5981,86.6
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-05,49425,5032,79.9
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-06,16651,1820,59.4
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-07,6265,738,50.8
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-08,6651,629,52.0
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-09,12353,1216,56.5
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-10,41232,4363,77.2
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-11,56492,5796,86.3
+TOU-166,Bandhavgarh National Park,Madhya Pradesh,2025-12,63929,6589,88.2
+TOU-167,Kanha National Park,Madhya Pradesh,2025-01,59653,6192,76.9
+TOU-167,Kanha National Park,Madhya Pradesh,2025-02,61279,6722,81.4
+TOU-167,Kanha National Park,Madhya Pradesh,2025-03,62172,6980,82.4
+TOU-167,Kanha National Park,Madhya Pradesh,2025-04,65922,6790,82.2
+TOU-167,Kanha National Park,Madhya Pradesh,2025-05,53675,5168,74.9
+TOU-167,Kanha National Park,Madhya Pradesh,2025-06,20192,1787,60.3
+TOU-167,Kanha National Park,Madhya Pradesh,2025-07,6770,804,54.2
+TOU-167,Kanha National Park,Madhya Pradesh,2025-08,6957,697,53.4
+TOU-167,Kanha National Park,Madhya Pradesh,2025-09,13542,1550,56.6
+TOU-167,Kanha National Park,Madhya Pradesh,2025-10,46252,4649,75.2
+TOU-167,Kanha National Park,Madhya Pradesh,2025-11,64995,7249,83.0
+TOU-167,Kanha National Park,Madhya Pradesh,2025-12,69458,6466,84.1
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-01,781092,5105,69.2
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-02,1074975,4785,78.7
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-03,675847,3350,66.1
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-04,617246,2404,59.0
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-05,545020,1577,53.5
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-06,550639,1248,52.6
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-07,1004749,1347,82.9
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-08,951712,1629,78.9
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-09,659830,1983,63.6
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-10,832855,3951,67.3
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-11,903137,4682,72.3
+TOU-168,Mahakaleshwar Temple Ujjain,Madhya Pradesh,2025-12,853729,5478,71.2
+TOU-169,Orchha,Madhya Pradesh,2025-01,66348,8858,81.9
+TOU-169,Orchha,Madhya Pradesh,2025-02,65810,8621,81.3
+TOU-169,Orchha,Madhya Pradesh,2025-03,57716,6427,73.7
+TOU-169,Orchha,Madhya Pradesh,2025-04,44498,3862,65.7
+TOU-169,Orchha,Madhya Pradesh,2025-05,31679,2523,54.0
+TOU-169,Orchha,Madhya Pradesh,2025-06,28181,2144,51.1
+TOU-169,Orchha,Madhya Pradesh,2025-07,32246,1927,55.8
+TOU-169,Orchha,Madhya Pradesh,2025-08,35874,2532,58.9
+TOU-169,Orchha,Madhya Pradesh,2025-09,44363,3223,68.5
+TOU-169,Orchha,Madhya Pradesh,2025-10,66683,6795,80.8
+TOU-169,Orchha,Madhya Pradesh,2025-11,82613,9564,88.3
+TOU-169,Orchha,Madhya Pradesh,2025-12,80163,9686,85.1
+TOU-170,Pachmarhi,Madhya Pradesh,2025-01,73358,784,45.3
+TOU-170,Pachmarhi,Madhya Pradesh,2025-02,70195,728,46.6
+TOU-170,Pachmarhi,Madhya Pradesh,2025-03,82566,867,57.6
+TOU-170,Pachmarhi,Madhya Pradesh,2025-04,91531,827,67.4
+TOU-170,Pachmarhi,Madhya Pradesh,2025-05,90146,843,64.7
+TOU-170,Pachmarhi,Madhya Pradesh,2025-06,87916,880,60.7
+TOU-170,Pachmarhi,Madhya Pradesh,2025-07,121878,1205,87.2
+TOU-170,Pachmarhi,Madhya Pradesh,2025-08,113354,1024,82.5
+TOU-170,Pachmarhi,Madhya Pradesh,2025-09,86213,869,64.9
+TOU-170,Pachmarhi,Madhya Pradesh,2025-10,95101,935,66.8
+TOU-170,Pachmarhi,Madhya Pradesh,2025-11,82015,766,57.6
+TOU-170,Pachmarhi,Madhya Pradesh,2025-12,98779,894,75.2
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-01,850479,148376,80.2
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-02,815095,146372,74.0
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-03,830185,103656,71.8
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-04,762970,66014,64.8
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-05,673257,54037,63.1
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-06,724390,39951,57.0
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-07,592468,38525,51.2
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-08,725056,47711,59.7
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-09,805282,56202,68.4
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-10,895539,114897,83.7
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-11,945545,156953,83.7
+TOU-171,Gateway of India Mumbai,Maharashtra,2025-12,931171,163794,85.2
+TOU-172,Ajanta Caves,Maharashtra,2025-01,92087,26986,82.4
+TOU-172,Ajanta Caves,Maharashtra,2025-02,100280,24082,81.4
+TOU-172,Ajanta Caves,Maharashtra,2025-03,89883,18510,73.9
+TOU-172,Ajanta Caves,Maharashtra,2025-04,59582,12234,64.5
+TOU-172,Ajanta Caves,Maharashtra,2025-05,50628,7615,53.0
+TOU-172,Ajanta Caves,Maharashtra,2025-06,50464,6481,56.0
+TOU-172,Ajanta Caves,Maharashtra,2025-07,58248,5824,60.6
+TOU-172,Ajanta Caves,Maharashtra,2025-08,60151,7155,60.8
+TOU-172,Ajanta Caves,Maharashtra,2025-09,74214,8705,67.0
+TOU-172,Ajanta Caves,Maharashtra,2025-10,93144,18198,78.6
+TOU-172,Ajanta Caves,Maharashtra,2025-11,110750,25510,84.3
+TOU-172,Ajanta Caves,Maharashtra,2025-12,109333,28336,83.8
+TOU-173,Ellora Caves,Maharashtra,2025-01,151252,24929,82.1
+TOU-173,Ellora Caves,Maharashtra,2025-02,131321,24904,80.7
+TOU-173,Ellora Caves,Maharashtra,2025-03,111005,18518,72.9
+TOU-173,Ellora Caves,Maharashtra,2025-04,78182,11656,61.0
+TOU-173,Ellora Caves,Maharashtra,2025-05,57358,7809,52.5
+TOU-173,Ellora Caves,Maharashtra,2025-06,69462,5510,56.9
+TOU-173,Ellora Caves,Maharashtra,2025-07,76002,6253,59.7
+TOU-173,Ellora Caves,Maharashtra,2025-08,81873,7555,62.5
+TOU-173,Ellora Caves,Maharashtra,2025-09,100888,10474,69.3
+TOU-173,Ellora Caves,Maharashtra,2025-10,137344,18245,79.1
+TOU-173,Ellora Caves,Maharashtra,2025-11,162440,25219,85.1
+TOU-173,Ellora Caves,Maharashtra,2025-12,151818,32585,83.8
+TOU-174,Lonavala,Maharashtra,2025-01,372196,3436,53.0
+TOU-174,Lonavala,Maharashtra,2025-02,371979,3445,48.9
+TOU-174,Lonavala,Maharashtra,2025-03,376928,3732,61.4
+TOU-174,Lonavala,Maharashtra,2025-04,422806,4552,70.4
+TOU-174,Lonavala,Maharashtra,2025-05,421700,4596,68.9
+TOU-174,Lonavala,Maharashtra,2025-06,410301,3705,61.4
+TOU-174,Lonavala,Maharashtra,2025-07,528869,5827,87.8
+TOU-174,Lonavala,Maharashtra,2025-08,456058,5332,84.4
+TOU-174,Lonavala,Maharashtra,2025-09,404031,4300,68.4
+TOU-174,Lonavala,Maharashtra,2025-10,450735,4486,69.7
+TOU-174,Lonavala,Maharashtra,2025-11,410533,4123,60.5
+TOU-174,Lonavala,Maharashtra,2025-12,471057,4403,73.9
+TOU-175,Mahabaleshwar,Maharashtra,2025-01,233794,2636,53.3
+TOU-175,Mahabaleshwar,Maharashtra,2025-02,241881,2633,54.8
+TOU-175,Mahabaleshwar,Maharashtra,2025-03,277605,2573,63.7
+TOU-175,Mahabaleshwar,Maharashtra,2025-04,315583,3150,67.4
+TOU-175,Mahabaleshwar,Maharashtra,2025-05,281369,3321,69.5
+TOU-175,Mahabaleshwar,Maharashtra,2025-06,288462,2887,62.0
+TOU-175,Mahabaleshwar,Maharashtra,2025-07,374745,4047,86.3
+TOU-175,Mahabaleshwar,Maharashtra,2025-08,374037,3735,79.7
+TOU-175,Mahabaleshwar,Maharashtra,2025-09,280480,2912,69.0
+TOU-175,Mahabaleshwar,Maharashtra,2025-10,309093,2856,68.8
+TOU-175,Mahabaleshwar,Maharashtra,2025-11,281250,2736,64.3
+TOU-175,Mahabaleshwar,Maharashtra,2025-12,330665,3410,76.7
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-01,1351890,6050,67.3
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-02,1244752,5517,52.7
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-03,1196540,4386,52.0
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-04,1367333,2750,67.6
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-05,1172930,1978,52.3
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-06,1240920,1612,67.0
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-07,1102554,1911,53.3
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-08,1123488,1805,52.1
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-09,1389120,2757,67.2
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-10,1350179,4878,79.9
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-11,1412678,6540,68.9
+TOU-176,Shirdi Sai Baba Temple,Maharashtra,2025-12,1568719,6835,91.9
+TOU-177,Alibaug Beach,Maharashtra,2025-01,241905,5327,76.2
+TOU-177,Alibaug Beach,Maharashtra,2025-02,236243,5052,76.3
+TOU-177,Alibaug Beach,Maharashtra,2025-03,185369,3622,68.4
+TOU-177,Alibaug Beach,Maharashtra,2025-04,144960,2768,64.3
+TOU-177,Alibaug Beach,Maharashtra,2025-05,115549,1956,59.9
+TOU-177,Alibaug Beach,Maharashtra,2025-06,62159,1071,56.0
+TOU-177,Alibaug Beach,Maharashtra,2025-07,58191,914,54.7
+TOU-177,Alibaug Beach,Maharashtra,2025-08,69484,1128,55.2
+TOU-177,Alibaug Beach,Maharashtra,2025-09,103646,1878,60.2
+TOU-177,Alibaug Beach,Maharashtra,2025-10,175963,3265,68.9
+TOU-177,Alibaug Beach,Maharashtra,2025-11,224002,4782,73.9
+TOU-177,Alibaug Beach,Maharashtra,2025-12,297315,6090,81.0
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-01,46520,2392,80.3
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-02,51374,2226,80.0
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-03,56876,2606,84.2
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-04,53028,2431,83.0
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-05,40797,2117,76.1
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-06,12607,768,62.7
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-07,4045,281,55.9
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-08,4365,277,54.1
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-09,9458,614,60.2
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-10,34923,1800,74.6
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-11,53691,2460,84.2
+TOU-178,Tadoba Andhari Tiger Reserve,Maharashtra,2025-12,54519,2514,85.2
+TOU-179,Loktak Lake,Manipur,2025-01,44505,454,78.3
+TOU-179,Loktak Lake,Manipur,2025-02,48548,479,80.6
+TOU-179,Loktak Lake,Manipur,2025-03,42157,441,79.1
+TOU-179,Loktak Lake,Manipur,2025-04,38333,426,74.0
+TOU-179,Loktak Lake,Manipur,2025-05,35266,352,69.3
+TOU-179,Loktak Lake,Manipur,2025-06,25718,270,59.8
+TOU-179,Loktak Lake,Manipur,2025-07,34223,295,67.1
+TOU-179,Loktak Lake,Manipur,2025-08,32427,342,66.5
+TOU-179,Loktak Lake,Manipur,2025-09,35753,378,69.4
+TOU-179,Loktak Lake,Manipur,2025-10,50698,499,82.4
+TOU-179,Loktak Lake,Manipur,2025-11,43954,503,87.1
+TOU-179,Loktak Lake,Manipur,2025-12,48583,453,83.9
+TOU-180,Kangla Fort Imphal,Manipur,2025-01,39456,390,80.4
+TOU-180,Kangla Fort Imphal,Manipur,2025-02,44150,452,82.3
+TOU-180,Kangla Fort Imphal,Manipur,2025-03,46093,409,81.2
+TOU-180,Kangla Fort Imphal,Manipur,2025-04,35990,348,74.6
+TOU-180,Kangla Fort Imphal,Manipur,2025-05,23194,219,66.2
+TOU-180,Kangla Fort Imphal,Manipur,2025-06,17558,147,58.7
+TOU-180,Kangla Fort Imphal,Manipur,2025-07,15897,144,57.8
+TOU-180,Kangla Fort Imphal,Manipur,2025-08,18685,147,63.2
+TOU-180,Kangla Fort Imphal,Manipur,2025-09,25333,230,67.6
+TOU-180,Kangla Fort Imphal,Manipur,2025-10,47572,516,83.4
+TOU-180,Kangla Fort Imphal,Manipur,2025-11,56583,525,84.8
+TOU-180,Kangla Fort Imphal,Manipur,2025-12,56738,542,84.8
+TOU-181,Keibul Lamjao National Park,Manipur,2025-01,13257,385,82.0
+TOU-181,Keibul Lamjao National Park,Manipur,2025-02,14086,450,86.2
+TOU-181,Keibul Lamjao National Park,Manipur,2025-03,14380,422,82.6
+TOU-181,Keibul Lamjao National Park,Manipur,2025-04,11124,323,75.2
+TOU-181,Keibul Lamjao National Park,Manipur,2025-05,4024,99,57.2
+TOU-181,Keibul Lamjao National Park,Manipur,2025-06,1566,47,50.1
+TOU-181,Keibul Lamjao National Park,Manipur,2025-07,1192,31,49.3
+TOU-181,Keibul Lamjao National Park,Manipur,2025-08,1074,27,49.4
+TOU-181,Keibul Lamjao National Park,Manipur,2025-09,1705,49,50.7
+TOU-181,Keibul Lamjao National Park,Manipur,2025-10,4947,155,62.9
+TOU-181,Keibul Lamjao National Park,Manipur,2025-11,13068,440,83.6
+TOU-181,Keibul Lamjao National Park,Manipur,2025-12,14200,455,86.1
+TOU-182,Ima Keithel Market,Manipur,2025-01,55652,571,72.7
+TOU-182,Ima Keithel Market,Manipur,2025-02,58071,609,76.2
+TOU-182,Ima Keithel Market,Manipur,2025-03,53619,594,75.5
+TOU-182,Ima Keithel Market,Manipur,2025-04,42079,412,67.4
+TOU-182,Ima Keithel Market,Manipur,2025-05,28295,298,57.3
+TOU-182,Ima Keithel Market,Manipur,2025-06,16936,215,48.0
+TOU-182,Ima Keithel Market,Manipur,2025-07,17149,218,47.9
+TOU-182,Ima Keithel Market,Manipur,2025-08,21993,240,50.3
+TOU-182,Ima Keithel Market,Manipur,2025-09,30322,295,54.8
+TOU-182,Ima Keithel Market,Manipur,2025-10,63796,594,74.5
+TOU-182,Ima Keithel Market,Manipur,2025-11,74611,680,78.8
+TOU-182,Ima Keithel Market,Manipur,2025-12,70145,653,81.1
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-01,63085,2246,50.2
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-02,69426,2039,50.2
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-03,70692,2078,53.7
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-04,67721,2369,52.0
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-05,67471,2197,51.8
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-06,115364,3432,70.3
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-07,164130,4411,88.6
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-08,164591,4435,86.5
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-09,131399,3382,76.2
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-10,86416,2569,62.9
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-11,77967,2381,58.0
+TOU-183,Cherrapunji Sohra,Meghalaya,2025-12,80799,2452,55.8
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-01,104987,3350,61.5
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-02,115501,3624,66.3
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-03,161938,5342,75.5
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-04,228255,6512,85.2
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-05,217877,5771,81.0
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-06,117599,3848,66.5
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-07,76632,2499,53.4
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-08,86805,2742,56.3
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-09,125842,3821,67.2
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-10,217259,6601,85.4
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-11,212161,6436,82.3
+TOU-184,Shillong Umiam Lake,Meghalaya,2025-12,156762,4866,70.7
+TOU-185,Dawki Umngot River,Meghalaya,2025-01,46912,2042,59.7
+TOU-185,Dawki Umngot River,Meghalaya,2025-02,57868,2333,65.2
+TOU-185,Dawki Umngot River,Meghalaya,2025-03,73575,2888,77.5
+TOU-185,Dawki Umngot River,Meghalaya,2025-04,102902,4377,84.4
+TOU-185,Dawki Umngot River,Meghalaya,2025-05,89223,3896,82.7
+TOU-185,Dawki Umngot River,Meghalaya,2025-06,53937,2379,66.9
+TOU-185,Dawki Umngot River,Meghalaya,2025-07,39488,1557,53.1
+TOU-185,Dawki Umngot River,Meghalaya,2025-08,44517,1605,55.4
+TOU-185,Dawki Umngot River,Meghalaya,2025-09,57706,2518,67.0
+TOU-185,Dawki Umngot River,Meghalaya,2025-10,99156,4220,88.1
+TOU-185,Dawki Umngot River,Meghalaya,2025-11,92928,4152,84.8
+TOU-185,Dawki Umngot River,Meghalaya,2025-12,73125,2801,72.6
+TOU-186,Mawlynnong Village,Meghalaya,2025-01,28651,1784,59.4
+TOU-186,Mawlynnong Village,Meghalaya,2025-02,38762,2123,66.3
+TOU-186,Mawlynnong Village,Meghalaya,2025-03,49302,2656,77.5
+TOU-186,Mawlynnong Village,Meghalaya,2025-04,65428,2882,83.4
+TOU-186,Mawlynnong Village,Meghalaya,2025-05,56632,3081,81.5
+TOU-186,Mawlynnong Village,Meghalaya,2025-06,37242,1867,65.2
+TOU-186,Mawlynnong Village,Meghalaya,2025-07,25245,1259,54.4
+TOU-186,Mawlynnong Village,Meghalaya,2025-08,25056,1361,55.2
+TOU-186,Mawlynnong Village,Meghalaya,2025-09,38805,1790,67.6
+TOU-186,Mawlynnong Village,Meghalaya,2025-10,61948,2871,84.0
+TOU-186,Mawlynnong Village,Meghalaya,2025-11,58420,3295,84.2
+TOU-186,Mawlynnong Village,Meghalaya,2025-12,43854,2399,71.8
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-01,41311,2158,75.2
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-02,43588,2873,80.4
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-03,53739,3044,86.2
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-04,53509,2963,85.8
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-05,47450,3124,82.7
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-06,30170,1976,68.8
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-07,19921,1044,57.1
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-08,21227,1136,58.1
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-09,29477,1607,63.9
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-10,44469,2753,80.7
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-11,46347,2917,84.1
+TOU-187,Double Decker Living Root Bridge,Meghalaya,2025-12,45193,2676,77.9
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-01,13264,160,56.3
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-02,17765,162,66.6
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-03,22538,211,75.1
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-04,26667,242,85.2
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-05,24599,235,82.3
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-06,15266,162,61.6
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-07,11351,112,48.6
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-08,10895,119,52.0
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-09,15953,184,63.4
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-10,27110,305,85.3
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-11,28422,270,83.8
+TOU-188,Aizawl Reiek Heritage Village,Mizoram,2025-12,19222,185,71.3
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-01,5664,115,61.2
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-02,6881,143,67.7
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-03,9228,195,78.6
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-04,10796,237,86.5
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-05,10789,198,86.4
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-06,6091,137,63.5
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-07,4179,83,48.5
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-08,4761,94,53.4
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-09,6622,142,66.8
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-10,11340,210,90.8
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-11,11419,234,87.9
+TOU-189,Phawngpui Blue Mountain,Mizoram,2025-12,8044,172,74.8
+TOU-190,Vantawng Falls,Mizoram,2025-01,7312,37,52.3
+TOU-190,Vantawng Falls,Mizoram,2025-02,7361,38,55.7
+TOU-190,Vantawng Falls,Mizoram,2025-03,7967,34,53.2
+TOU-190,Vantawng Falls,Mizoram,2025-04,7801,36,55.4
+TOU-190,Vantawng Falls,Mizoram,2025-05,7287,38,53.5
+TOU-190,Vantawng Falls,Mizoram,2025-06,11703,61,73.0
+TOU-190,Vantawng Falls,Mizoram,2025-07,16320,85,90.6
+TOU-190,Vantawng Falls,Mizoram,2025-08,15318,83,89.9
+TOU-190,Vantawng Falls,Mizoram,2025-09,13370,69,81.2
+TOU-190,Vantawng Falls,Mizoram,2025-10,9474,43,64.8
+TOU-190,Vantawng Falls,Mizoram,2025-11,8126,45,62.0
+TOU-190,Vantawng Falls,Mizoram,2025-12,8385,39,58.6
+TOU-191,Murlen National Park,Mizoram,2025-01,9814,97,87.4
+TOU-191,Murlen National Park,Mizoram,2025-02,10488,110,88.3
+TOU-191,Murlen National Park,Mizoram,2025-03,11410,101,87.0
+TOU-191,Murlen National Park,Mizoram,2025-04,7760,80,79.3
+TOU-191,Murlen National Park,Mizoram,2025-05,2910,30,60.1
+TOU-191,Murlen National Park,Mizoram,2025-06,1251,11,52.7
+TOU-191,Murlen National Park,Mizoram,2025-07,776,8,48.9
+TOU-191,Murlen National Park,Mizoram,2025-08,853,8,50.5
+TOU-191,Murlen National Park,Mizoram,2025-09,1223,12,51.8
+TOU-191,Murlen National Park,Mizoram,2025-10,4143,42,64.4
+TOU-191,Murlen National Park,Mizoram,2025-11,9595,104,85.4
+TOU-191,Murlen National Park,Mizoram,2025-12,12053,109,90.5
+TOU-192,Kohima War Cemetery,Nagaland,2025-01,21645,1354,64.6
+TOU-192,Kohima War Cemetery,Nagaland,2025-02,24131,1584,68.9
+TOU-192,Kohima War Cemetery,Nagaland,2025-03,32339,1961,74.0
+TOU-192,Kohima War Cemetery,Nagaland,2025-04,40030,2392,79.3
+TOU-192,Kohima War Cemetery,Nagaland,2025-05,43644,2434,80.8
+TOU-192,Kohima War Cemetery,Nagaland,2025-06,24126,1561,68.0
+TOU-192,Kohima War Cemetery,Nagaland,2025-07,16677,987,58.0
+TOU-192,Kohima War Cemetery,Nagaland,2025-08,17376,1090,61.4
+TOU-192,Kohima War Cemetery,Nagaland,2025-09,23262,1459,69.1
+TOU-192,Kohima War Cemetery,Nagaland,2025-10,41561,2708,80.3
+TOU-192,Kohima War Cemetery,Nagaland,2025-11,43111,2337,78.2
+TOU-192,Kohima War Cemetery,Nagaland,2025-12,32008,1834,73.7
+TOU-193,Dzukou Valley,Nagaland,2025-01,10495,313,63.3
+TOU-193,Dzukou Valley,Nagaland,2025-02,12015,326,68.9
+TOU-193,Dzukou Valley,Nagaland,2025-03,15550,489,77.9
+TOU-193,Dzukou Valley,Nagaland,2025-04,18416,596,86.9
+TOU-193,Dzukou Valley,Nagaland,2025-05,17840,581,82.0
+TOU-193,Dzukou Valley,Nagaland,2025-06,10830,348,68.3
+TOU-193,Dzukou Valley,Nagaland,2025-07,8626,257,55.7
+TOU-193,Dzukou Valley,Nagaland,2025-08,8164,252,60.2
+TOU-193,Dzukou Valley,Nagaland,2025-09,11664,396,71.1
+TOU-193,Dzukou Valley,Nagaland,2025-10,20199,625,85.7
+TOU-193,Dzukou Valley,Nagaland,2025-11,19916,529,84.2
+TOU-193,Dzukou Valley,Nagaland,2025-12,14941,454,75.2
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-01,13982,1229,52.9
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-02,13974,1291,52.3
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-03,13653,1411,53.1
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-04,16240,1715,53.2
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-05,13104,1298,53.0
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-06,13224,1322,51.3
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-07,14410,1327,52.6
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-08,13065,1201,53.5
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-09,16302,1815,51.5
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-10,27783,2763,59.1
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-11,25846,2467,58.8
+TOU-194,Hornbill Festival Kisama,Nagaland,2025-12,123707,12300,84.8
+TOU-195,Khonoma Green Village,Nagaland,2025-01,5924,237,63.8
+TOU-195,Khonoma Green Village,Nagaland,2025-02,6613,302,68.4
+TOU-195,Khonoma Green Village,Nagaland,2025-03,9302,323,79.7
+TOU-195,Khonoma Green Village,Nagaland,2025-04,10706,416,86.8
+TOU-195,Khonoma Green Village,Nagaland,2025-05,10767,424,85.1
+TOU-195,Khonoma Green Village,Nagaland,2025-06,6700,286,66.7
+TOU-195,Khonoma Green Village,Nagaland,2025-07,4154,193,52.3
+TOU-195,Khonoma Green Village,Nagaland,2025-08,5185,177,58.5
+TOU-195,Khonoma Green Village,Nagaland,2025-09,6465,255,68.9
+TOU-195,Khonoma Green Village,Nagaland,2025-10,11028,449,91.2
+TOU-195,Khonoma Green Village,Nagaland,2025-11,11072,415,90.0
+TOU-195,Khonoma Green Village,Nagaland,2025-12,7975,307,75.0
+TOU-196,Jagannath Temple Puri,Odisha,2025-01,1367310,11402,63.2
+TOU-196,Jagannath Temple Puri,Odisha,2025-02,1129523,11464,51.0
+TOU-196,Jagannath Temple Puri,Odisha,2025-03,1141774,7460,54.5
+TOU-196,Jagannath Temple Puri,Odisha,2025-04,1206799,5478,54.9
+TOU-196,Jagannath Temple Puri,Odisha,2025-05,1289618,3185,57.1
+TOU-196,Jagannath Temple Puri,Odisha,2025-06,2204357,2695,81.1
+TOU-196,Jagannath Temple Puri,Odisha,2025-07,1827231,2691,73.6
+TOU-196,Jagannath Temple Puri,Odisha,2025-08,1203201,3250,56.3
+TOU-196,Jagannath Temple Puri,Odisha,2025-09,1291937,3848,55.8
+TOU-196,Jagannath Temple Puri,Odisha,2025-10,1293399,8806,61.8
+TOU-196,Jagannath Temple Puri,Odisha,2025-11,1481201,10376,66.5
+TOU-196,Jagannath Temple Puri,Odisha,2025-12,1691365,12463,70.3
+TOU-197,Konark Sun Temple,Odisha,2025-01,324255,15020,84.1
+TOU-197,Konark Sun Temple,Odisha,2025-02,317559,15343,79.0
+TOU-197,Konark Sun Temple,Odisha,2025-03,232810,11243,75.0
+TOU-197,Konark Sun Temple,Odisha,2025-04,186004,6429,68.0
+TOU-197,Konark Sun Temple,Odisha,2025-05,130673,4751,61.4
+TOU-197,Konark Sun Temple,Odisha,2025-06,118585,3709,58.1
+TOU-197,Konark Sun Temple,Odisha,2025-07,135706,3633,58.9
+TOU-197,Konark Sun Temple,Odisha,2025-08,131931,4324,62.1
+TOU-197,Konark Sun Temple,Odisha,2025-09,204552,5142,69.5
+TOU-197,Konark Sun Temple,Odisha,2025-10,292001,11370,74.7
+TOU-197,Konark Sun Temple,Odisha,2025-11,319165,13846,79.7
+TOU-197,Konark Sun Temple,Odisha,2025-12,356203,19011,86.1
+TOU-198,Puri Beach,Odisha,2025-01,563377,9315,64.4
+TOU-198,Puri Beach,Odisha,2025-02,464807,8579,53.3
+TOU-198,Puri Beach,Odisha,2025-03,535208,6835,61.7
+TOU-198,Puri Beach,Odisha,2025-04,540406,4490,62.0
+TOU-198,Puri Beach,Odisha,2025-05,545933,3295,65.8
+TOU-198,Puri Beach,Odisha,2025-06,891802,2621,80.7
+TOU-198,Puri Beach,Odisha,2025-07,802760,2567,77.4
+TOU-198,Puri Beach,Odisha,2025-08,526907,3018,59.8
+TOU-198,Puri Beach,Odisha,2025-09,553889,3646,64.4
+TOU-198,Puri Beach,Odisha,2025-10,620792,7377,68.1
+TOU-198,Puri Beach,Odisha,2025-11,653108,9785,67.9
+TOU-198,Puri Beach,Odisha,2025-12,751916,10016,73.1
+TOU-199,Chilika Lake,Odisha,2025-01,143281,2857,81.2
+TOU-199,Chilika Lake,Odisha,2025-02,150177,2582,82.9
+TOU-199,Chilika Lake,Odisha,2025-03,140742,2859,84.2
+TOU-199,Chilika Lake,Odisha,2025-04,116370,2307,79.6
+TOU-199,Chilika Lake,Odisha,2025-05,111821,1948,72.2
+TOU-199,Chilika Lake,Odisha,2025-06,78649,1573,58.7
+TOU-199,Chilika Lake,Odisha,2025-07,93942,2006,66.5
+TOU-199,Chilika Lake,Odisha,2025-08,95986,1741,65.9
+TOU-199,Chilika Lake,Odisha,2025-09,109267,2220,71.0
+TOU-199,Chilika Lake,Odisha,2025-10,157166,2615,87.1
+TOU-199,Chilika Lake,Odisha,2025-11,139287,3092,87.0
+TOU-199,Chilika Lake,Odisha,2025-12,155320,3142,84.8
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-01,327480,2949,75.9
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-02,283448,2564,69.0
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-03,268081,1806,69.7
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-04,260033,1231,69.0
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-05,269774,876,65.9
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-06,223701,626,59.1
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-07,234769,683,62.9
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-08,238583,831,62.7
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-09,255009,1006,69.0
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-10,321485,1816,77.3
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-11,318963,2695,81.0
+TOU-200,Lingaraj Temple Bhubaneswar,Odisha,2025-12,315923,3024,75.8
+TOU-201,Simlipal National Park,Odisha,2025-01,28024,253,76.0
+TOU-201,Simlipal National Park,Odisha,2025-02,29341,315,78.1
+TOU-201,Simlipal National Park,Odisha,2025-03,32468,333,79.0
+TOU-201,Simlipal National Park,Odisha,2025-04,33372,307,78.7
+TOU-201,Simlipal National Park,Odisha,2025-05,26262,257,74.4
+TOU-201,Simlipal National Park,Odisha,2025-06,8109,102,62.5
+TOU-201,Simlipal National Park,Odisha,2025-07,2598,41,55.8
+TOU-201,Simlipal National Park,Odisha,2025-08,2668,43,57.3
+TOU-201,Simlipal National Park,Odisha,2025-09,6212,72,58.2
+TOU-201,Simlipal National Park,Odisha,2025-10,21411,248,71.1
+TOU-201,Simlipal National Park,Odisha,2025-11,33644,351,76.2
+TOU-201,Simlipal National Park,Odisha,2025-12,35627,329,81.2
+TOU-202,Golden Temple Amritsar,Punjab,2025-01,1650340,72254,73.0
+TOU-202,Golden Temple Amritsar,Punjab,2025-02,1305002,64737,60.9
+TOU-202,Golden Temple Amritsar,Punjab,2025-03,1290961,51328,65.3
+TOU-202,Golden Temple Amritsar,Punjab,2025-04,1777873,30033,81.3
+TOU-202,Golden Temple Amritsar,Punjab,2025-05,1382531,21194,66.3
+TOU-202,Golden Temple Amritsar,Punjab,2025-06,1471501,16930,66.2
+TOU-202,Golden Temple Amritsar,Punjab,2025-07,1109326,19577,54.6
+TOU-202,Golden Temple Amritsar,Punjab,2025-08,1230014,19181,60.7
+TOU-202,Golden Temple Amritsar,Punjab,2025-09,1255565,26269,63.9
+TOU-202,Golden Temple Amritsar,Punjab,2025-10,1765297,57547,74.5
+TOU-202,Golden Temple Amritsar,Punjab,2025-11,2283877,74661,90.4
+TOU-202,Golden Temple Amritsar,Punjab,2025-12,1613167,78987,76.5
+TOU-203,Wagah Border Ceremony,Punjab,2025-01,733623,44370,82.5
+TOU-203,Wagah Border Ceremony,Punjab,2025-02,678640,36609,81.0
+TOU-203,Wagah Border Ceremony,Punjab,2025-03,638190,29240,77.0
+TOU-203,Wagah Border Ceremony,Punjab,2025-04,532835,16343,68.8
+TOU-203,Wagah Border Ceremony,Punjab,2025-05,573467,11154,67.3
+TOU-203,Wagah Border Ceremony,Punjab,2025-06,490731,8980,64.6
+TOU-203,Wagah Border Ceremony,Punjab,2025-07,492523,8735,56.3
+TOU-203,Wagah Border Ceremony,Punjab,2025-08,565223,11489,63.0
+TOU-203,Wagah Border Ceremony,Punjab,2025-09,610843,14254,73.5
+TOU-203,Wagah Border Ceremony,Punjab,2025-10,672520,30662,87.9
+TOU-203,Wagah Border Ceremony,Punjab,2025-11,749099,41479,89.0
+TOU-203,Wagah Border Ceremony,Punjab,2025-12,712621,49811,91.8
+TOU-204,Jallianwala Bagh,Punjab,2025-01,621868,24435,80.5
+TOU-204,Jallianwala Bagh,Punjab,2025-02,630836,21372,83.6
+TOU-204,Jallianwala Bagh,Punjab,2025-03,536549,15738,76.1
+TOU-204,Jallianwala Bagh,Punjab,2025-04,340563,9141,64.0
+TOU-204,Jallianwala Bagh,Punjab,2025-05,262862,6280,57.7
+TOU-204,Jallianwala Bagh,Punjab,2025-06,215050,5635,54.5
+TOU-204,Jallianwala Bagh,Punjab,2025-07,263056,5424,58.1
+TOU-204,Jallianwala Bagh,Punjab,2025-08,282546,6560,58.4
+TOU-204,Jallianwala Bagh,Punjab,2025-09,359888,8356,67.2
+TOU-204,Jallianwala Bagh,Punjab,2025-10,587758,16962,82.6
+TOU-204,Jallianwala Bagh,Punjab,2025-11,757080,23943,90.0
+TOU-204,Jallianwala Bagh,Punjab,2025-12,701425,27313,87.4
+TOU-205,Anandpur Sahib,Punjab,2025-01,326435,2038,69.1
+TOU-205,Anandpur Sahib,Punjab,2025-02,237313,1951,58.3
+TOU-205,Anandpur Sahib,Punjab,2025-03,298140,1436,66.5
+TOU-205,Anandpur Sahib,Punjab,2025-04,375147,799,78.4
+TOU-205,Anandpur Sahib,Punjab,2025-05,299040,546,65.0
+TOU-205,Anandpur Sahib,Punjab,2025-06,265326,490,66.6
+TOU-205,Anandpur Sahib,Punjab,2025-07,232001,476,54.5
+TOU-205,Anandpur Sahib,Punjab,2025-08,261291,485,59.6
+TOU-205,Anandpur Sahib,Punjab,2025-09,236726,658,60.0
+TOU-205,Anandpur Sahib,Punjab,2025-10,321442,1308,74.2
+TOU-205,Anandpur Sahib,Punjab,2025-11,408087,1874,85.5
+TOU-205,Anandpur Sahib,Punjab,2025-12,354178,2185,71.8
+TOU-206,Qila Mubarak Patiala,Punjab,2025-01,76218,1031,82.6
+TOU-206,Qila Mubarak Patiala,Punjab,2025-02,82830,911,83.7
+TOU-206,Qila Mubarak Patiala,Punjab,2025-03,72776,732,77.1
+TOU-206,Qila Mubarak Patiala,Punjab,2025-04,48131,466,68.1
+TOU-206,Qila Mubarak Patiala,Punjab,2025-05,30809,333,59.0
+TOU-206,Qila Mubarak Patiala,Punjab,2025-06,29615,253,56.6
+TOU-206,Qila Mubarak Patiala,Punjab,2025-07,31343,271,59.7
+TOU-206,Qila Mubarak Patiala,Punjab,2025-08,37673,264,61.0
+TOU-206,Qila Mubarak Patiala,Punjab,2025-09,49448,359,68.6
+TOU-206,Qila Mubarak Patiala,Punjab,2025-10,73455,739,82.7
+TOU-206,Qila Mubarak Patiala,Punjab,2025-11,101439,1024,87.9
+TOU-206,Qila Mubarak Patiala,Punjab,2025-12,93100,1037,86.8
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-01,795593,194896,77.0
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-02,704771,192354,78.1
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-03,616421,145009,75.6
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-04,446514,91596,65.0
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-05,313157,65246,58.5
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-06,264145,54428,55.8
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-07,305604,57325,59.8
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-08,328905,63573,61.6
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-09,466582,72080,67.3
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-10,768829,138773,76.5
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-11,835717,204751,83.8
+TOU-207,Amber Fort Jaipur,Rajasthan,2025-12,808244,225767,81.9
+TOU-208,City Palace Udaipur,Rajasthan,2025-01,424791,159921,83.4
+TOU-208,City Palace Udaipur,Rajasthan,2025-02,419620,140802,82.2
+TOU-208,City Palace Udaipur,Rajasthan,2025-03,407106,120689,80.9
+TOU-208,City Palace Udaipur,Rajasthan,2025-04,283453,71352,71.1
+TOU-208,City Palace Udaipur,Rajasthan,2025-05,190718,53771,59.4
+TOU-208,City Palace Udaipur,Rajasthan,2025-06,165915,38183,53.5
+TOU-208,City Palace Udaipur,Rajasthan,2025-07,207358,38435,60.9
+TOU-208,City Palace Udaipur,Rajasthan,2025-08,217961,47950,62.5
+TOU-208,City Palace Udaipur,Rajasthan,2025-09,280582,56732,69.5
+TOU-208,City Palace Udaipur,Rajasthan,2025-10,450712,116179,82.7
+TOU-208,City Palace Udaipur,Rajasthan,2025-11,537632,141259,87.4
+TOU-208,City Palace Udaipur,Rajasthan,2025-12,472738,165611,84.5
+TOU-209,Jaisalmer Fort,Rajasthan,2025-01,286033,66016,79.8
+TOU-209,Jaisalmer Fort,Rajasthan,2025-02,281364,75680,80.2
+TOU-209,Jaisalmer Fort,Rajasthan,2025-03,205705,51255,73.4
+TOU-209,Jaisalmer Fort,Rajasthan,2025-04,139761,28010,61.2
+TOU-209,Jaisalmer Fort,Rajasthan,2025-05,83419,16953,51.6
+TOU-209,Jaisalmer Fort,Rajasthan,2025-06,65454,13573,46.5
+TOU-209,Jaisalmer Fort,Rajasthan,2025-07,63295,15683,50.8
+TOU-209,Jaisalmer Fort,Rajasthan,2025-08,81744,16885,50.7
+TOU-209,Jaisalmer Fort,Rajasthan,2025-09,114339,29042,59.4
+TOU-209,Jaisalmer Fort,Rajasthan,2025-10,224765,60920,76.4
+TOU-209,Jaisalmer Fort,Rajasthan,2025-11,322525,93235,86.9
+TOU-209,Jaisalmer Fort,Rajasthan,2025-12,338454,100529,91.2
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-01,352318,89870,81.0
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-02,358350,84982,82.1
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-03,300774,70194,76.1
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-04,205950,38158,68.2
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-05,163087,32080,59.7
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-06,129909,23059,57.6
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-07,149658,21168,59.5
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-08,165040,27399,62.7
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-09,221523,38013,69.3
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-10,324058,64955,80.3
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-11,417263,88068,85.1
+TOU-210,Mehrangarh Fort Jodhpur,Rajasthan,2025-12,360310,98999,86.0
+TOU-211,Pushkar Lake,Rajasthan,2025-01,230362,34518,65.6
+TOU-211,Pushkar Lake,Rajasthan,2025-02,209930,33295,63.7
+TOU-211,Pushkar Lake,Rajasthan,2025-03,207272,31939,64.1
+TOU-211,Pushkar Lake,Rajasthan,2025-04,139869,21187,58.8
+TOU-211,Pushkar Lake,Rajasthan,2025-05,126340,17349,55.2
+TOU-211,Pushkar Lake,Rajasthan,2025-06,113031,16040,58.4
+TOU-211,Pushkar Lake,Rajasthan,2025-07,120389,17851,58.1
+TOU-211,Pushkar Lake,Rajasthan,2025-08,137506,21556,58.8
+TOU-211,Pushkar Lake,Rajasthan,2025-09,183126,26334,61.7
+TOU-211,Pushkar Lake,Rajasthan,2025-10,318331,48742,68.8
+TOU-211,Pushkar Lake,Rajasthan,2025-11,623638,101942,81.6
+TOU-211,Pushkar Lake,Rajasthan,2025-12,287818,47354,66.3
+TOU-212,Ranthambore National Park,Rajasthan,2025-01,73789,9249,83.1
+TOU-212,Ranthambore National Park,Rajasthan,2025-02,76036,9647,84.1
+TOU-212,Ranthambore National Park,Rajasthan,2025-03,81803,10467,86.7
+TOU-212,Ranthambore National Park,Rajasthan,2025-04,79948,11198,88.5
+TOU-212,Ranthambore National Park,Rajasthan,2025-05,63059,8163,81.7
+TOU-212,Ranthambore National Park,Rajasthan,2025-06,23028,3348,63.8
+TOU-212,Ranthambore National Park,Rajasthan,2025-07,7881,1361,54.5
+TOU-212,Ranthambore National Park,Rajasthan,2025-08,7955,1397,53.8
+TOU-212,Ranthambore National Park,Rajasthan,2025-09,15754,2498,59.0
+TOU-212,Ranthambore National Park,Rajasthan,2025-10,57345,7946,77.2
+TOU-212,Ranthambore National Park,Rajasthan,2025-11,84125,10581,87.0
+TOU-212,Ranthambore National Park,Rajasthan,2025-12,84187,12201,87.3
+TOU-213,Mount Abu,Rajasthan,2025-01,185693,4287,50.9
+TOU-213,Mount Abu,Rajasthan,2025-02,179793,3527,51.1
+TOU-213,Mount Abu,Rajasthan,2025-03,227008,4180,63.6
+TOU-213,Mount Abu,Rajasthan,2025-04,259919,4545,69.8
+TOU-213,Mount Abu,Rajasthan,2025-05,233674,5258,71.6
+TOU-213,Mount Abu,Rajasthan,2025-06,218053,3999,64.1
+TOU-213,Mount Abu,Rajasthan,2025-07,334027,6438,91.1
+TOU-213,Mount Abu,Rajasthan,2025-08,271032,5392,83.0
+TOU-213,Mount Abu,Rajasthan,2025-09,252322,4759,71.5
+TOU-213,Mount Abu,Rajasthan,2025-10,229225,4568,68.5
+TOU-213,Mount Abu,Rajasthan,2025-11,224876,4237,65.1
+TOU-213,Mount Abu,Rajasthan,2025-12,250064,4778,77.3
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-01,136535,12160,80.3
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-02,143323,14516,77.6
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-03,105191,10332,68.8
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-04,61578,5956,59.8
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-05,35197,3504,50.8
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-06,27553,2922,48.6
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-07,29592,2798,49.6
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-08,34106,3839,50.8
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-09,55714,5579,56.8
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-10,116483,10754,74.4
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-11,179863,17181,88.1
+TOU-214,Junagarh Fort Bikaner,Rajasthan,2025-12,168460,18099,89.0
+TOU-215,Chittorgarh Fort,Rajasthan,2025-01,135909,8635,78.2
+TOU-215,Chittorgarh Fort,Rajasthan,2025-02,140951,8150,79.0
+TOU-215,Chittorgarh Fort,Rajasthan,2025-03,119776,6623,72.2
+TOU-215,Chittorgarh Fort,Rajasthan,2025-04,83506,3948,64.3
+TOU-215,Chittorgarh Fort,Rajasthan,2025-05,63681,2831,56.0
+TOU-215,Chittorgarh Fort,Rajasthan,2025-06,51399,2252,54.8
+TOU-215,Chittorgarh Fort,Rajasthan,2025-07,59423,2018,54.1
+TOU-215,Chittorgarh Fort,Rajasthan,2025-08,70586,2486,58.1
+TOU-215,Chittorgarh Fort,Rajasthan,2025-09,93341,3513,66.3
+TOU-215,Chittorgarh Fort,Rajasthan,2025-10,149073,6730,78.0
+TOU-215,Chittorgarh Fort,Rajasthan,2025-11,172542,8531,84.9
+TOU-215,Chittorgarh Fort,Rajasthan,2025-12,161460,10709,84.8
+TOU-216,Gangtok MG Marg,Sikkim,2025-01,80592,3583,63.4
+TOU-216,Gangtok MG Marg,Sikkim,2025-02,97683,3965,67.6
+TOU-216,Gangtok MG Marg,Sikkim,2025-03,144569,4835,76.2
+TOU-216,Gangtok MG Marg,Sikkim,2025-04,157961,6614,78.6
+TOU-216,Gangtok MG Marg,Sikkim,2025-05,158757,6534,80.8
+TOU-216,Gangtok MG Marg,Sikkim,2025-06,95044,3805,63.4
+TOU-216,Gangtok MG Marg,Sikkim,2025-07,68977,2804,53.8
+TOU-216,Gangtok MG Marg,Sikkim,2025-08,70150,3230,58.2
+TOU-216,Gangtok MG Marg,Sikkim,2025-09,101371,4075,66.6
+TOU-216,Gangtok MG Marg,Sikkim,2025-10,165051,6411,83.0
+TOU-216,Gangtok MG Marg,Sikkim,2025-11,161563,6969,80.4
+TOU-216,Gangtok MG Marg,Sikkim,2025-12,116726,5040,72.4
+TOU-217,Tsomgo Lake,Sikkim,2025-01,106821,2273,81.8
+TOU-217,Tsomgo Lake,Sikkim,2025-02,98113,2056,80.5
+TOU-217,Tsomgo Lake,Sikkim,2025-03,62012,1183,67.9
+TOU-217,Tsomgo Lake,Sikkim,2025-04,68278,1308,70.1
+TOU-217,Tsomgo Lake,Sikkim,2025-05,69419,1408,72.0
+TOU-217,Tsomgo Lake,Sikkim,2025-06,68803,1266,69.0
+TOU-217,Tsomgo Lake,Sikkim,2025-07,42777,832,60.8
+TOU-217,Tsomgo Lake,Sikkim,2025-08,38654,719,57.9
+TOU-217,Tsomgo Lake,Sikkim,2025-09,51247,1066,62.6
+TOU-217,Tsomgo Lake,Sikkim,2025-10,59835,1336,66.5
+TOU-217,Tsomgo Lake,Sikkim,2025-11,64206,1294,69.3
+TOU-217,Tsomgo Lake,Sikkim,2025-12,114804,2073,81.5
+TOU-218,Pelling,Sikkim,2025-01,33483,1507,60.0
+TOU-218,Pelling,Sikkim,2025-02,44564,1659,66.9
+TOU-218,Pelling,Sikkim,2025-03,58610,2187,78.0
+TOU-218,Pelling,Sikkim,2025-04,69657,2603,84.6
+TOU-218,Pelling,Sikkim,2025-05,63465,2636,83.8
+TOU-218,Pelling,Sikkim,2025-06,38504,1730,67.8
+TOU-218,Pelling,Sikkim,2025-07,24815,1071,53.9
+TOU-218,Pelling,Sikkim,2025-08,27110,1201,57.9
+TOU-218,Pelling,Sikkim,2025-09,39197,1614,69.7
+TOU-218,Pelling,Sikkim,2025-10,68938,2503,84.6
+TOU-218,Pelling,Sikkim,2025-11,68875,2484,85.1
+TOU-218,Pelling,Sikkim,2025-12,53149,2053,73.0
+TOU-219,Nathula Pass,Sikkim,2025-01,12714,7,61.8
+TOU-219,Nathula Pass,Sikkim,2025-02,17353,8,69.3
+TOU-219,Nathula Pass,Sikkim,2025-03,23141,12,79.6
+TOU-219,Nathula Pass,Sikkim,2025-04,29459,12,88.0
+TOU-219,Nathula Pass,Sikkim,2025-05,28665,13,87.7
+TOU-219,Nathula Pass,Sikkim,2025-06,15765,8,67.9
+TOU-219,Nathula Pass,Sikkim,2025-07,10076,6,54.9
+TOU-219,Nathula Pass,Sikkim,2025-08,10656,6,58.0
+TOU-219,Nathula Pass,Sikkim,2025-09,15947,9,68.8
+TOU-219,Nathula Pass,Sikkim,2025-10,31249,13,90.4
+TOU-219,Nathula Pass,Sikkim,2025-11,27954,13,89.7
+TOU-219,Nathula Pass,Sikkim,2025-12,21186,10,75.6
+TOU-220,Yumthang Valley,Sikkim,2025-01,10924,245,65.4
+TOU-220,Yumthang Valley,Sikkim,2025-02,13942,305,68.0
+TOU-220,Yumthang Valley,Sikkim,2025-03,18695,346,75.9
+TOU-220,Yumthang Valley,Sikkim,2025-04,22678,472,83.0
+TOU-220,Yumthang Valley,Sikkim,2025-05,20212,447,81.2
+TOU-220,Yumthang Valley,Sikkim,2025-06,13148,242,67.4
+TOU-220,Yumthang Valley,Sikkim,2025-07,8720,168,58.8
+TOU-220,Yumthang Valley,Sikkim,2025-08,8843,206,61.1
+TOU-220,Yumthang Valley,Sikkim,2025-09,12670,294,69.4
+TOU-220,Yumthang Valley,Sikkim,2025-10,24654,424,86.1
+TOU-220,Yumthang Valley,Sikkim,2025-11,20932,450,85.0
+TOU-220,Yumthang Valley,Sikkim,2025-12,14951,334,75.1
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-01,656879,39659,82.0
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-02,546641,34373,70.4
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-03,621569,31515,70.7
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-04,793668,18840,87.9
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-05,624854,12757,71.7
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-06,445744,9603,57.4
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-07,494220,8750,56.7
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-08,499519,11192,64.6
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-09,627631,14266,69.5
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-10,605069,29053,72.6
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-11,679803,38549,79.5
+TOU-221,Meenakshi Amman Temple Madurai,Tamil Nadu,2025-12,838521,46421,88.3
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-01,319079,56083,78.8
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-02,288362,52047,75.0
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-03,225923,39283,69.3
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-04,161230,25359,57.8
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-05,146124,15106,52.9
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-06,134814,13110,51.5
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-07,169192,13394,55.6
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-08,150685,15412,59.1
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-09,179125,19408,62.0
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-10,265644,41411,72.1
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-11,327559,60492,76.8
+TOU-222,Mahabalipuram Shore Temple,Tamil Nadu,2025-12,348465,67297,82.3
+TOU-223,Ooty,Tamil Nadu,2025-01,317113,6673,69.0
+TOU-223,Ooty,Tamil Nadu,2025-02,319672,7279,73.8
+TOU-223,Ooty,Tamil Nadu,2025-03,344848,7803,76.2
+TOU-223,Ooty,Tamil Nadu,2025-04,414662,8051,82.2
+TOU-223,Ooty,Tamil Nadu,2025-05,494681,8454,84.1
+TOU-223,Ooty,Tamil Nadu,2025-06,319882,6164,71.5
+TOU-223,Ooty,Tamil Nadu,2025-07,219021,4734,58.6
+TOU-223,Ooty,Tamil Nadu,2025-08,217068,4320,58.8
+TOU-223,Ooty,Tamil Nadu,2025-09,283239,5406,65.1
+TOU-223,Ooty,Tamil Nadu,2025-10,326554,7268,73.8
+TOU-223,Ooty,Tamil Nadu,2025-11,283966,5177,68.3
+TOU-223,Ooty,Tamil Nadu,2025-12,406917,8998,78.8
+TOU-224,Kodaikanal,Tamil Nadu,2025-01,188660,3625,66.4
+TOU-224,Kodaikanal,Tamil Nadu,2025-02,217240,4600,70.4
+TOU-224,Kodaikanal,Tamil Nadu,2025-03,220799,4836,74.1
+TOU-224,Kodaikanal,Tamil Nadu,2025-04,304318,5722,81.1
+TOU-224,Kodaikanal,Tamil Nadu,2025-05,331529,5971,84.9
+TOU-224,Kodaikanal,Tamil Nadu,2025-06,180828,3666,67.1
+TOU-224,Kodaikanal,Tamil Nadu,2025-07,128372,2627,51.7
+TOU-224,Kodaikanal,Tamil Nadu,2025-08,128816,2922,51.8
+TOU-224,Kodaikanal,Tamil Nadu,2025-09,148170,3689,58.1
+TOU-224,Kodaikanal,Tamil Nadu,2025-10,215940,4651,67.9
+TOU-224,Kodaikanal,Tamil Nadu,2025-11,177025,3703,62.3
+TOU-224,Kodaikanal,Tamil Nadu,2025-12,277434,4923,78.1
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-01,501912,7267,72.4
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-02,459605,5885,68.7
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-03,376901,5190,62.3
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-04,438690,2848,67.9
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-05,491224,1825,73.3
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-06,388640,1638,63.2
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-07,307384,1566,50.9
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-08,353457,1891,57.3
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-09,340307,2408,55.9
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-10,404901,5087,60.2
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-11,453191,7390,67.3
+TOU-225,Rameswaram Ramanathaswamy Temple,Tamil Nadu,2025-12,615790,8054,80.2
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-01,275803,22319,83.7
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-02,268781,18339,78.5
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-03,201113,16357,69.9
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-04,127891,10304,52.6
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-05,108297,7239,50.4
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-06,111360,5218,51.3
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-07,136150,5145,54.1
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-08,126466,6705,58.3
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-09,152335,8831,59.7
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-10,234198,15034,73.1
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-11,263237,20197,79.2
+TOU-226,Brihadisvara Temple Thanjavur,Tamil Nadu,2025-12,280224,22626,88.3
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-01,545241,17143,73.2
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-02,494571,14520,71.4
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-03,435793,13537,66.4
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-04,349797,11766,57.0
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-05,312582,10333,55.6
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-06,289833,9660,53.9
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-07,299271,8351,50.5
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-08,291244,9865,50.4
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-09,337991,10568,55.6
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-10,469092,14713,66.5
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-11,523537,17483,71.1
+TOU-227,Kanyakumari Vivekananda Rock,Tamil Nadu,2025-12,678678,20399,79.6
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-01,828842,24359,77.5
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-02,719471,20815,72.7
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-03,714526,17317,69.2
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-04,665410,9212,63.3
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-05,679250,6261,62.8
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-06,652433,5586,55.9
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-07,556484,4779,53.0
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-08,569678,5560,58.3
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-09,709043,8394,64.9
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-10,743380,14912,81.9
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-11,784114,21507,78.9
+TOU-228,Marina Beach Chennai,Tamil Nadu,2025-12,784272,24618,84.1
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-01,262839,13342,78.1
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-02,257763,11866,70.6
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-03,255098,8213,71.3
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-04,249985,5939,69.5
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-05,241795,3417,64.5
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-06,211193,2901,48.3
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-07,230524,2766,58.7
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-08,235407,3548,62.9
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-09,272563,4745,68.7
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-10,282144,9001,84.7
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-11,290318,13625,88.9
+TOU-229,Kanchipuram Kamakshi Temple,Tamil Nadu,2025-12,288849,14741,82.4
+TOU-230,Charminar Hyderabad,Telangana,2025-01,492405,27476,82.2
+TOU-230,Charminar Hyderabad,Telangana,2025-02,519791,29321,76.1
+TOU-230,Charminar Hyderabad,Telangana,2025-03,444629,23696,73.6
+TOU-230,Charminar Hyderabad,Telangana,2025-04,444267,13910,67.8
+TOU-230,Charminar Hyderabad,Telangana,2025-05,408227,10116,61.8
+TOU-230,Charminar Hyderabad,Telangana,2025-06,378702,8106,61.7
+TOU-230,Charminar Hyderabad,Telangana,2025-07,347267,6761,54.2
+TOU-230,Charminar Hyderabad,Telangana,2025-08,394699,7702,60.2
+TOU-230,Charminar Hyderabad,Telangana,2025-09,455412,11367,66.4
+TOU-230,Charminar Hyderabad,Telangana,2025-10,597512,23541,84.3
+TOU-230,Charminar Hyderabad,Telangana,2025-11,588928,30353,84.2
+TOU-230,Charminar Hyderabad,Telangana,2025-12,545857,36485,87.2
+TOU-231,Golconda Fort,Telangana,2025-01,347854,17633,79.1
+TOU-231,Golconda Fort,Telangana,2025-02,329747,19546,79.3
+TOU-231,Golconda Fort,Telangana,2025-03,246626,13589,69.1
+TOU-231,Golconda Fort,Telangana,2025-04,179674,8699,60.5
+TOU-231,Golconda Fort,Telangana,2025-05,159864,7645,54.0
+TOU-231,Golconda Fort,Telangana,2025-06,159114,6061,54.5
+TOU-231,Golconda Fort,Telangana,2025-07,192983,5670,59.8
+TOU-231,Golconda Fort,Telangana,2025-08,173603,5972,61.8
+TOU-231,Golconda Fort,Telangana,2025-09,212991,8089,63.0
+TOU-231,Golconda Fort,Telangana,2025-10,301366,15460,72.5
+TOU-231,Golconda Fort,Telangana,2025-11,299862,18286,77.7
+TOU-231,Golconda Fort,Telangana,2025-12,379436,21130,85.3
+TOU-232,Ramoji Film City,Telangana,2025-01,258060,7497,81.0
+TOU-232,Ramoji Film City,Telangana,2025-02,245923,7480,74.9
+TOU-232,Ramoji Film City,Telangana,2025-03,222183,5599,71.0
+TOU-232,Ramoji Film City,Telangana,2025-04,213691,3216,64.4
+TOU-232,Ramoji Film City,Telangana,2025-05,216645,2347,66.8
+TOU-232,Ramoji Film City,Telangana,2025-06,199402,1996,60.4
+TOU-232,Ramoji Film City,Telangana,2025-07,195036,1875,55.1
+TOU-232,Ramoji Film City,Telangana,2025-08,181118,2376,62.7
+TOU-232,Ramoji Film City,Telangana,2025-09,219884,3138,70.6
+TOU-232,Ramoji Film City,Telangana,2025-10,285515,5514,84.5
+TOU-232,Ramoji Film City,Telangana,2025-11,257212,7278,82.6
+TOU-232,Ramoji Film City,Telangana,2025-12,296143,8260,87.1
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-01,95301,999,85.1
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-02,89904,948,81.7
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-03,71053,764,68.7
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-04,47506,509,54.9
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-05,43415,347,47.6
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-06,39650,310,49.1
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-07,51422,316,55.3
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-08,53225,344,56.4
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-09,61315,447,60.7
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-10,84985,884,73.6
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-11,92869,1106,81.1
+TOU-233,Thousand Pillar Temple Warangal,Telangana,2025-12,112991,1190,88.0
+TOU-234,Yadagirigutta Temple,Telangana,2025-01,452972,2050,73.5
+TOU-234,Yadagirigutta Temple,Telangana,2025-02,427263,1687,65.2
+TOU-234,Yadagirigutta Temple,Telangana,2025-03,411658,1582,62.9
+TOU-234,Yadagirigutta Temple,Telangana,2025-04,390541,885,63.5
+TOU-234,Yadagirigutta Temple,Telangana,2025-05,400358,659,59.2
+TOU-234,Yadagirigutta Temple,Telangana,2025-06,337122,525,49.3
+TOU-234,Yadagirigutta Temple,Telangana,2025-07,365503,514,55.7
+TOU-234,Yadagirigutta Temple,Telangana,2025-08,394789,631,62.1
+TOU-234,Yadagirigutta Temple,Telangana,2025-09,384183,849,65.2
+TOU-234,Yadagirigutta Temple,Telangana,2025-10,456892,1559,76.6
+TOU-234,Yadagirigutta Temple,Telangana,2025-11,465385,1819,81.0
+TOU-234,Yadagirigutta Temple,Telangana,2025-12,485456,2266,75.7
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-01,58954,618,77.4
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-02,67730,708,79.5
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-03,64396,643,77.9
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-04,52091,532,73.4
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-05,35376,351,58.4
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-06,22152,211,52.1
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-07,20459,202,50.8
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-08,23985,254,56.0
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-09,31776,317,60.6
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-10,64066,656,78.4
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-11,80801,797,84.2
+TOU-235,Ujjayanta Palace Agartala,Tripura,2025-12,82877,794,86.2
+TOU-236,Neermahal Palace,Tripura,2025-01,37443,329,72.5
+TOU-236,Neermahal Palace,Tripura,2025-02,42991,414,77.4
+TOU-236,Neermahal Palace,Tripura,2025-03,40879,388,73.3
+TOU-236,Neermahal Palace,Tripura,2025-04,28047,306,67.3
+TOU-236,Neermahal Palace,Tripura,2025-05,19948,192,58.7
+TOU-236,Neermahal Palace,Tripura,2025-06,13473,144,50.0
+TOU-236,Neermahal Palace,Tripura,2025-07,13214,129,51.8
+TOU-236,Neermahal Palace,Tripura,2025-08,14514,148,54.6
+TOU-236,Neermahal Palace,Tripura,2025-09,19515,201,57.6
+TOU-236,Neermahal Palace,Tripura,2025-10,43081,388,75.9
+TOU-236,Neermahal Palace,Tripura,2025-11,51088,429,79.8
+TOU-236,Neermahal Palace,Tripura,2025-12,48626,464,81.5
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-01,88954,284,83.3
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-02,88454,263,71.3
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-03,88883,198,70.6
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-04,88541,111,71.6
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-05,81165,83,65.5
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-06,75776,71,55.1
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-07,73831,64,62.9
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-08,85668,82,67.5
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-09,88625,97,73.1
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-10,88892,211,84.7
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-11,98874,275,86.0
+TOU-237,Tripura Sundari Temple Udaipur,Tripura,2025-12,98593,326,85.2
+TOU-238,Unakoti,Tripura,2025-01,27407,266,80.4
+TOU-238,Unakoti,Tripura,2025-02,33700,304,79.5
+TOU-238,Unakoti,Tripura,2025-03,30253,286,80.6
+TOU-238,Unakoti,Tripura,2025-04,25733,230,73.7
+TOU-238,Unakoti,Tripura,2025-05,17634,173,61.0
+TOU-238,Unakoti,Tripura,2025-06,11949,112,55.7
+TOU-238,Unakoti,Tripura,2025-07,10721,108,56.9
+TOU-238,Unakoti,Tripura,2025-08,12572,134,59.3
+TOU-238,Unakoti,Tripura,2025-09,15873,168,66.5
+TOU-238,Unakoti,Tripura,2025-10,30102,299,79.6
+TOU-238,Unakoti,Tripura,2025-11,35175,381,85.7
+TOU-238,Unakoti,Tripura,2025-12,36798,381,87.0
+TOU-239,Taj Mahal,Uttar Pradesh,2025-01,892018,149129,80.7
+TOU-239,Taj Mahal,Uttar Pradesh,2025-02,1011034,154720,79.3
+TOU-239,Taj Mahal,Uttar Pradesh,2025-03,775542,112314,75.5
+TOU-239,Taj Mahal,Uttar Pradesh,2025-04,493773,75535,65.3
+TOU-239,Taj Mahal,Uttar Pradesh,2025-05,369558,54360,59.6
+TOU-239,Taj Mahal,Uttar Pradesh,2025-06,324879,46447,54.6
+TOU-239,Taj Mahal,Uttar Pradesh,2025-07,366882,45002,57.3
+TOU-239,Taj Mahal,Uttar Pradesh,2025-08,431183,46558,58.9
+TOU-239,Taj Mahal,Uttar Pradesh,2025-09,556525,64340,67.3
+TOU-239,Taj Mahal,Uttar Pradesh,2025-10,995526,112042,80.6
+TOU-239,Taj Mahal,Uttar Pradesh,2025-11,1113587,154231,83.9
+TOU-239,Taj Mahal,Uttar Pradesh,2025-12,1052247,168496,82.2
+TOU-240,Agra Fort,Uttar Pradesh,2025-01,509760,106971,83.5
+TOU-240,Agra Fort,Uttar Pradesh,2025-02,532536,97162,83.3
+TOU-240,Agra Fort,Uttar Pradesh,2025-03,476498,65047,79.7
+TOU-240,Agra Fort,Uttar Pradesh,2025-04,324761,45503,70.5
+TOU-240,Agra Fort,Uttar Pradesh,2025-05,252819,28616,64.6
+TOU-240,Agra Fort,Uttar Pradesh,2025-06,221014,24484,59.2
+TOU-240,Agra Fort,Uttar Pradesh,2025-07,233233,24784,61.8
+TOU-240,Agra Fort,Uttar Pradesh,2025-08,276569,25037,60.6
+TOU-240,Agra Fort,Uttar Pradesh,2025-09,358937,38503,70.8
+TOU-240,Agra Fort,Uttar Pradesh,2025-10,570907,68106,84.0
+TOU-240,Agra Fort,Uttar Pradesh,2025-11,643290,104582,88.8
+TOU-240,Agra Fort,Uttar Pradesh,2025-12,637319,105784,87.5
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-01,1361585,34596,80.1
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-02,1359547,31704,79.3
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-03,1103026,27194,72.0
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-04,1023879,16503,68.2
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-05,777923,11564,59.2
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-06,722820,9827,51.3
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-07,760808,9257,61.0
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-08,816554,11950,59.1
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-09,919312,13412,69.1
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-10,1364890,25084,79.4
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-11,1642335,35629,87.6
+TOU-241,Kashi Vishwanath Temple Varanasi,Uttar Pradesh,2025-12,1512449,37477,83.0
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-01,1326221,5332,78.8
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-02,1070743,5745,62.5
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-03,1084279,3995,70.8
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-04,1514462,2505,82.2
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-05,967213,2003,64.8
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-06,969274,1510,59.0
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-07,861313,1516,58.5
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-08,1029879,1911,66.5
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-09,1173795,2429,68.8
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-10,1817093,4185,90.7
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-11,1367250,5341,79.7
+TOU-242,Ram Mandir Ayodhya,Uttar Pradesh,2025-12,1144410,5867,72.6
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-01,795447,13101,63.7
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-02,871908,13847,65.3
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-03,1400342,11335,84.0
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-04,766349,6133,61.3
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-05,541734,4484,55.4
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-06,473859,4042,51.2
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-07,661950,3803,57.1
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-08,1263976,4118,76.5
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-09,867302,6097,66.6
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-10,961496,10732,67.8
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-11,1052730,14887,70.1
+TOU-243,Mathura Vrindavan,Uttar Pradesh,2025-12,936992,14976,66.7
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-01,1708943,7525,85.6
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-02,1328450,6854,76.2
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-03,685956,6016,60.9
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-04,662085,3842,58.5
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-05,495686,2524,55.5
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-06,484066,2228,55.2
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-07,454117,2007,52.9
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-08,458707,2345,55.6
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-09,641297,2828,59.8
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-10,837763,5588,62.6
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-11,808710,8111,64.3
+TOU-244,Prayagraj Sangam,Uttar Pradesh,2025-12,823938,7862,64.6
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-01,249099,33501,82.1
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-02,241981,30994,82.6
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-03,200454,22334,76.6
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-04,150224,13150,64.0
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-05,90662,9382,55.7
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-06,89243,7269,53.2
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-07,101483,8324,55.3
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-08,104168,8461,57.9
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-09,146273,11225,67.9
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-10,260786,22336,83.2
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-11,289789,28307,88.4
+TOU-245,Fatehpur Sikri,Uttar Pradesh,2025-12,313913,35505,89.8
+TOU-246,Sarnath,Uttar Pradesh,2025-01,219190,45741,84.2
+TOU-246,Sarnath,Uttar Pradesh,2025-02,212607,44144,83.3
+TOU-246,Sarnath,Uttar Pradesh,2025-03,132823,32263,71.1
+TOU-246,Sarnath,Uttar Pradesh,2025-04,97418,20528,68.7
+TOU-246,Sarnath,Uttar Pradesh,2025-05,150391,15518,73.8
+TOU-246,Sarnath,Uttar Pradesh,2025-06,56146,11598,57.2
+TOU-246,Sarnath,Uttar Pradesh,2025-07,55317,11186,60.4
+TOU-246,Sarnath,Uttar Pradesh,2025-08,73235,13744,62.5
+TOU-246,Sarnath,Uttar Pradesh,2025-09,101421,16040,67.3
+TOU-246,Sarnath,Uttar Pradesh,2025-10,159030,32501,77.8
+TOU-246,Sarnath,Uttar Pradesh,2025-11,248946,49385,86.5
+TOU-246,Sarnath,Uttar Pradesh,2025-12,270780,62249,89.4
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-01,347900,11708,79.1
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-02,348614,13295,75.7
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-03,298379,8704,74.1
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-04,197880,6351,60.8
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-05,165348,4186,56.0
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-06,130574,3384,53.5
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-07,161819,3016,55.3
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-08,161707,3401,56.7
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-09,211718,4617,64.1
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-10,336171,9316,78.6
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-11,431183,11833,82.2
+TOU-247,Bara Imambara Lucknow,Uttar Pradesh,2025-12,392304,13902,79.1
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-01,473011,42565,72.1
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-02,627911,55251,80.6
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-03,691993,69214,84.8
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-04,673244,57954,87.4
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-05,646389,59824,83.9
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-06,380674,34730,67.6
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-07,262387,23432,51.0
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-08,232845,23612,50.5
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-09,369510,34561,61.1
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-10,591986,49724,83.7
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-11,633460,59464,83.7
+TOU-248,Rishikesh Laxman Jhula,Uttarakhand,2025-12,517632,53939,78.8
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-01,954151,19436,67.7
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-02,954431,17546,63.4
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-03,958734,11653,68.2
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-04,1343413,7920,81.6
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-05,1301268,5390,83.7
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-06,1361066,4132,79.7
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-07,1434302,3898,89.8
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-08,734195,4819,56.1
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-09,918948,6649,63.0
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-10,1024010,11950,70.1
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-11,1154419,18566,77.6
+TOU-249,Haridwar Har Ki Pauri,Uttarakhand,2025-12,981668,21073,67.9
+TOU-250,Nainital,Uttarakhand,2025-01,252496,1869,59.6
+TOU-250,Nainital,Uttarakhand,2025-02,216820,2668,49.9
+TOU-250,Nainital,Uttarakhand,2025-03,246491,5831,61.6
+TOU-250,Nainital,Uttarakhand,2025-04,381818,10973,75.7
+TOU-250,Nainital,Uttarakhand,2025-05,545109,10694,90.5
+TOU-250,Nainital,Uttarakhand,2025-06,505489,6753,83.9
+TOU-250,Nainital,Uttarakhand,2025-07,266496,3688,63.4
+TOU-250,Nainital,Uttarakhand,2025-08,213079,4322,53.8
+TOU-250,Nainital,Uttarakhand,2025-09,275442,10828,64.8
+TOU-250,Nainital,Uttarakhand,2025-10,364624,11743,72.2
+TOU-250,Nainital,Uttarakhand,2025-11,292530,7234,65.6
+TOU-250,Nainital,Uttarakhand,2025-12,422122,3624,77.6
+TOU-251,Mussoorie,Uttarakhand,2025-01,287840,1980,58.2
+TOU-251,Mussoorie,Uttarakhand,2025-02,230339,2406,53.2
+TOU-251,Mussoorie,Uttarakhand,2025-03,314018,6860,63.3
+TOU-251,Mussoorie,Uttarakhand,2025-04,394132,11722,73.1
+TOU-251,Mussoorie,Uttarakhand,2025-05,552512,11110,86.2
+TOU-251,Mussoorie,Uttarakhand,2025-06,469692,6618,83.1
+TOU-251,Mussoorie,Uttarakhand,2025-07,287705,4198,61.0
+TOU-251,Mussoorie,Uttarakhand,2025-08,282501,4579,54.8
+TOU-251,Mussoorie,Uttarakhand,2025-09,336602,13161,65.4
+TOU-251,Mussoorie,Uttarakhand,2025-10,369842,12647,72.3
+TOU-251,Mussoorie,Uttarakhand,2025-11,306844,6595,64.9
+TOU-251,Mussoorie,Uttarakhand,2025-12,407355,3627,79.8
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-01,123736,7223,80.2
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-02,133395,7372,84.3
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-03,145144,7783,84.5
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-04,129694,8236,84.4
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-05,106223,6644,79.2
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-06,36956,2234,66.6
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-07,12686,685,56.3
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-08,12253,796,60.5
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-09,26847,1681,63.1
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-10,99284,6129,77.8
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-11,135575,7805,86.0
+TOU-252,Jim Corbett National Park,Uttarakhand,2025-12,157802,8690,86.1
+TOU-253,Kedarnath Temple,Uttarakhand,2025-01,2294,21,41.4
+TOU-253,Kedarnath Temple,Uttarakhand,2025-02,2019,21,40.2
+TOU-253,Kedarnath Temple,Uttarakhand,2025-03,2293,22,42.3
+TOU-253,Kedarnath Temple,Uttarakhand,2025-04,2053,19,42.8
+TOU-253,Kedarnath Temple,Uttarakhand,2025-05,295525,1348,75.0
+TOU-253,Kedarnath Temple,Uttarakhand,2025-06,321430,1728,80.8
+TOU-253,Kedarnath Temple,Uttarakhand,2025-07,128393,632,60.5
+TOU-253,Kedarnath Temple,Uttarakhand,2025-08,97554,554,55.2
+TOU-253,Kedarnath Temple,Uttarakhand,2025-09,180993,911,66.3
+TOU-253,Kedarnath Temple,Uttarakhand,2025-10,235093,1115,67.1
+TOU-253,Kedarnath Temple,Uttarakhand,2025-11,33297,210,44.7
+TOU-253,Kedarnath Temple,Uttarakhand,2025-12,2328,20,41.9
+TOU-254,Badrinath Temple,Uttarakhand,2025-01,2683,14,43.9
+TOU-254,Badrinath Temple,Uttarakhand,2025-02,2532,15,45.7
+TOU-254,Badrinath Temple,Uttarakhand,2025-03,2737,15,43.2
+TOU-254,Badrinath Temple,Uttarakhand,2025-04,2547,16,44.2
+TOU-254,Badrinath Temple,Uttarakhand,2025-05,218147,1419,76.4
+TOU-254,Badrinath Temple,Uttarakhand,2025-06,255578,1562,79.1
+TOU-254,Badrinath Temple,Uttarakhand,2025-07,126392,744,64.0
+TOU-254,Badrinath Temple,Uttarakhand,2025-08,106685,603,60.2
+TOU-254,Badrinath Temple,Uttarakhand,2025-09,154475,922,67.9
+TOU-254,Badrinath Temple,Uttarakhand,2025-10,171317,1009,70.8
+TOU-254,Badrinath Temple,Uttarakhand,2025-11,26639,146,49.1
+TOU-254,Badrinath Temple,Uttarakhand,2025-12,2444,14,43.6
+TOU-255,Auli,Uttarakhand,2025-01,64082,2621,82.3
+TOU-255,Auli,Uttarakhand,2025-02,61069,2169,78.5
+TOU-255,Auli,Uttarakhand,2025-03,42815,1728,63.3
+TOU-255,Auli,Uttarakhand,2025-04,42524,1519,67.9
+TOU-255,Auli,Uttarakhand,2025-05,42874,1894,69.1
+TOU-255,Auli,Uttarakhand,2025-06,42690,1803,65.6
+TOU-255,Auli,Uttarakhand,2025-07,30364,1148,56.6
+TOU-255,Auli,Uttarakhand,2025-08,25930,976,52.4
+TOU-255,Auli,Uttarakhand,2025-09,35787,1406,60.3
+TOU-255,Auli,Uttarakhand,2025-10,39012,1678,67.0
+TOU-255,Auli,Uttarakhand,2025-11,40370,1610,67.1
+TOU-255,Auli,Uttarakhand,2025-12,72923,2666,84.8
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-01,364470,32246,77.5
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-02,358454,28358,75.2
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-03,329085,23799,68.7
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-04,309573,15869,61.3
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-05,269414,10863,59.8
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-06,270582,8031,57.1
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-07,245565,8420,48.1
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-08,265302,10684,57.7
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-09,306036,11520,68.2
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-10,361216,23832,83.2
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-11,349811,30578,82.9
+TOU-256,Victoria Memorial Kolkata,West Bengal,2025-12,364449,30190,85.7
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-01,554245,7946,78.1
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-02,453588,6873,71.8
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-03,473063,5853,70.2
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-04,440075,3351,71.4
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-05,427614,2926,67.2
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-06,382031,2290,57.3
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-07,403528,1969,63.6
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-08,411972,2310,68.0
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-09,475183,2858,70.7
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-10,511054,5877,82.1
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-11,596838,8077,85.2
+TOU-257,Dakshineswar Kali Temple,West Bengal,2025-12,519000,8452,83.9
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-01,148652,10549,58.5
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-02,197067,14828,63.9
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-03,251453,19462,71.6
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-04,342115,20655,79.6
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-05,330032,23006,78.8
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-06,187529,11414,59.3
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-07,123397,8269,49.9
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-08,129610,9670,52.7
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-09,193520,12262,63.5
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-10,331178,23866,80.4
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-11,347273,23741,79.8
+TOU-258,Darjeeling Tiger Hill,West Bengal,2025-12,224474,16366,68.7
+TOU-259,Sundarbans National Park,West Bengal,2025-01,68645,5630,86.8
+TOU-259,Sundarbans National Park,West Bengal,2025-02,72542,5639,85.3
+TOU-259,Sundarbans National Park,West Bengal,2025-03,73215,5985,86.4
+TOU-259,Sundarbans National Park,West Bengal,2025-04,55999,3834,80.1
+TOU-259,Sundarbans National Park,West Bengal,2025-05,17134,1384,63.7
+TOU-259,Sundarbans National Park,West Bengal,2025-06,7425,534,58.1
+TOU-259,Sundarbans National Park,West Bengal,2025-07,5236,352,56.5
+TOU-259,Sundarbans National Park,West Bengal,2025-08,5237,377,57.5
+TOU-259,Sundarbans National Park,West Bengal,2025-09,7679,540,59.8
+TOU-259,Sundarbans National Park,West Bengal,2025-10,26231,2086,67.2
+TOU-259,Sundarbans National Park,West Bengal,2025-11,65263,5352,83.6
+TOU-259,Sundarbans National Park,West Bengal,2025-12,81946,6129,88.4
+TOU-260,Digha Beach,West Bengal,2025-01,448689,1933,81.3
+TOU-260,Digha Beach,West Bengal,2025-02,398963,1962,79.6
+TOU-260,Digha Beach,West Bengal,2025-03,352794,1787,76.4
+TOU-260,Digha Beach,West Bengal,2025-04,278873,1491,64.2
+TOU-260,Digha Beach,West Bengal,2025-05,263482,1177,60.1
+TOU-260,Digha Beach,West Bengal,2025-06,255110,1109,59.3
+TOU-260,Digha Beach,West Bengal,2025-07,212776,1116,59.6
+TOU-260,Digha Beach,West Bengal,2025-08,236514,1155,61.5
+TOU-260,Digha Beach,West Bengal,2025-09,277645,1267,66.0
+TOU-260,Digha Beach,West Bengal,2025-10,373308,1839,72.7
+TOU-260,Digha Beach,West Bengal,2025-11,408712,2006,81.6
+TOU-260,Digha Beach,West Bengal,2025-12,510055,2750,87.9
+TOU-261,Shantiniketan,West Bengal,2025-01,128080,5688,83.5
+TOU-261,Shantiniketan,West Bengal,2025-02,122361,5022,80.3
+TOU-261,Shantiniketan,West Bengal,2025-03,92414,4418,72.2
+TOU-261,Shantiniketan,West Bengal,2025-04,65434,2441,63.7
+TOU-261,Shantiniketan,West Bengal,2025-05,54018,1874,52.0
+TOU-261,Shantiniketan,West Bengal,2025-06,44538,1456,47.2
+TOU-261,Shantiniketan,West Bengal,2025-07,54904,1535,53.3
+TOU-261,Shantiniketan,West Bengal,2025-08,54359,1856,54.6
+TOU-261,Shantiniketan,West Bengal,2025-09,75019,2543,66.6
+TOU-261,Shantiniketan,West Bengal,2025-10,111630,4175,75.9
+TOU-261,Shantiniketan,West Bengal,2025-11,118380,5072,82.3
+TOU-261,Shantiniketan,West Bengal,2025-12,137471,6889,86.7
+TOU-262,Kalimpong,West Bengal,2025-01,49194,1036,64.9
+TOU-262,Kalimpong,West Bengal,2025-02,63525,1173,69.3
+TOU-262,Kalimpong,West Bengal,2025-03,81622,1784,77.0
+TOU-262,Kalimpong,West Bengal,2025-04,104431,1892,84.3
+TOU-262,Kalimpong,West Bengal,2025-05,93425,1894,83.8
+TOU-262,Kalimpong,West Bengal,2025-06,56554,1148,66.3
+TOU-262,Kalimpong,West Bengal,2025-07,39756,862,58.3
+TOU-262,Kalimpong,West Bengal,2025-08,45538,881,60.6
+TOU-262,Kalimpong,West Bengal,2025-09,65313,1190,69.9
+TOU-262,Kalimpong,West Bengal,2025-10,103250,2212,88.0
+TOU-262,Kalimpong,West Bengal,2025-11,98777,2202,83.1
+TOU-262,Kalimpong,West Bengal,2025-12,75720,1393,76.0
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-01,96845,13188,84.2
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-02,91050,13841,83.2
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-03,83423,12638,82.7
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-04,69618,11368,78.2
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-05,58331,7276,71.0
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-06,37463,4475,57.5
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-07,31289,4156,56.1
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-08,27720,3766,53.0
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-09,39827,6207,61.2
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-10,59134,9791,70.7
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-11,85940,11805,80.1
+TOU-263,Radhanagar Beach Havelock,Andaman and Nicobar Islands,2025-12,91051,16398,86.8
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-01,111228,8001,84.4
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-02,103017,8950,87.0
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-03,108581,7343,83.6
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-04,81977,7551,76.8
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-05,58189,5188,67.0
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-06,35930,2962,57.6
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-07,30294,2722,51.9
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-08,28011,2412,51.0
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-09,43951,3944,61.9
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-10,70484,5217,71.7
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-11,92875,7578,79.7
+TOU-264,Cellular Jail Port Blair,Andaman and Nicobar Islands,2025-12,116864,9155,88.1
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-01,56404,4443,85.7
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-02,62884,4358,87.5
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-03,57203,3701,82.6
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-04,45309,3410,75.2
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-05,33274,2320,65.7
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-06,19934,1412,56.0
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-07,15642,1120,49.9
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-08,15767,995,51.7
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-09,22067,1598,60.2
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-10,38601,2433,71.5
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-11,51848,3240,77.8
+TOU-265,Ross Island,Andaman and Nicobar Islands,2025-12,62474,4686,86.9
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-01,48185,5296,81.4
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-02,52847,4896,81.7
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-03,46870,5028,79.1
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-04,39773,3709,74.3
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-05,27150,2867,66.5
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-06,18207,1701,58.6
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-07,14546,1404,53.4
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-08,14745,1384,53.9
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-09,21311,2019,62.3
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-10,32150,3312,69.7
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-11,46570,4101,76.5
+TOU-266,Neil Island,Andaman and Nicobar Islands,2025-12,57759,5630,83.3
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-01,31614,1339,85.7
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-02,33006,1279,84.1
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-03,31192,1243,81.3
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-04,26468,1074,79.2
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-05,19071,641,66.1
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-06,11200,407,54.9
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-07,10552,319,48.6
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-08,10010,299,46.0
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-09,14138,539,58.9
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-10,22050,876,70.6
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-11,26152,1172,81.5
+TOU-267,Baratang Limestone Caves,Andaman and Nicobar Islands,2025-12,31897,1318,87.8
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-01,245099,13178,74.5
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-02,264304,12669,73.9
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-03,224325,10772,67.4
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-04,196606,7216,63.4
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-05,213358,4942,62.3
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-06,180938,3902,57.9
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-07,172225,3730,47.3
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-08,194857,4842,56.9
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-09,211745,6142,65.7
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-10,259331,9959,77.1
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-11,289881,14324,78.5
+TOU-268,Rock Garden Chandigarh,Chandigarh,2025-12,272731,15751,83.2
+TOU-269,Sukhna Lake,Chandigarh,2025-01,293127,2681,78.3
+TOU-269,Sukhna Lake,Chandigarh,2025-02,284849,2890,82.5
+TOU-269,Sukhna Lake,Chandigarh,2025-03,295670,2783,81.3
+TOU-269,Sukhna Lake,Chandigarh,2025-04,255286,2637,74.3
+TOU-269,Sukhna Lake,Chandigarh,2025-05,213071,2467,68.3
+TOU-269,Sukhna Lake,Chandigarh,2025-06,181400,1950,63.2
+TOU-269,Sukhna Lake,Chandigarh,2025-07,204114,1915,65.9
+TOU-269,Sukhna Lake,Chandigarh,2025-08,187430,2118,66.3
+TOU-269,Sukhna Lake,Chandigarh,2025-09,238784,2111,69.9
+TOU-269,Sukhna Lake,Chandigarh,2025-10,320129,3018,81.9
+TOU-269,Sukhna Lake,Chandigarh,2025-11,307428,2785,82.8
+TOU-269,Sukhna Lake,Chandigarh,2025-12,326717,3245,83.0
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-01,88492,297,59.0
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-02,70869,365,52.0
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-03,94918,971,59.0
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-04,128958,1876,72.8
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-05,152636,1859,84.1
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-06,151475,1016,81.0
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-07,100008,645,62.8
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-08,79712,823,54.9
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-09,91283,1886,63.9
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-10,117877,2000,72.4
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-11,94341,1006,62.6
+TOU-270,Zakir Hussain Rose Garden,Chandigarh,2025-12,133629,511,77.4
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-01,40689,3976,81.2
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-02,39201,3590,82.0
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-03,32322,2914,76.9
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-04,22932,1936,66.0
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-05,17947,1354,54.4
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-06,16159,1135,49.3
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-07,18826,1131,56.4
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-08,20534,1323,59.3
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-09,24664,1584,68.5
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-10,40057,2978,81.9
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-11,42270,3515,86.8
+TOU-271,Capitol Complex Chandigarh,Chandigarh,2025-12,41530,3848,86.6
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-01,112313,4778,79.0
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-02,111855,4506,75.0
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-03,86510,3561,70.0
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-04,67743,2567,65.0
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-05,50088,1706,60.6
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-06,30926,969,53.9
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-07,26521,804,49.6
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-08,31663,980,51.0
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-09,47635,1541,57.9
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-10,87029,3576,69.3
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-11,100896,4300,75.7
+TOU-272,Diu Fort,Dadra and Nagar Haveli and Daman and Diu,2025-12,152945,6129,87.9
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-01,134874,4016,80.2
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-02,137853,3653,78.1
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-03,104808,3013,72.0
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-04,76989,2347,66.5
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-05,62098,1836,64.1
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-06,36015,1056,58.1
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-07,30724,906,54.1
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-08,34921,1117,55.3
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-09,56165,1561,59.5
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-10,108288,3052,73.1
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-11,131041,3800,81.3
+TOU-273,Nagoa Beach Diu,Dadra and Nagar Haveli and Daman and Diu,2025-12,176750,5521,89.9
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-01,96857,1054,82.4
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-02,83450,907,78.6
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-03,71258,661,71.4
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-04,49589,456,65.0
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-05,37994,360,60.8
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-06,21150,194,53.2
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-07,19522,191,50.7
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-08,21025,218,49.8
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-09,33262,314,59.2
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-10,66333,677,69.7
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-11,94369,915,80.0
+TOU-274,Jampore Beach Daman,Dadra and Nagar Haveli and Daman and Diu,2025-12,129504,1344,89.5
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-01,37079,107,78.0
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-02,37961,126,82.2
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-03,37641,121,77.0
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-04,37051,111,73.2
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-05,32044,91,67.6
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-06,25731,80,57.6
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-07,28837,86,64.9
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-08,26002,80,63.5
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-09,28917,97,68.0
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-10,41950,133,81.6
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-11,44071,133,81.4
+TOU-275,Vanganga Lake Garden Silvassa,Dadra and Nagar Haveli and Daman and Diu,2025-12,40295,131,83.9
+TOU-276,Red Fort,Delhi,2025-01,699714,97684,86.5
+TOU-276,Red Fort,Delhi,2025-02,688295,104105,89.4
+TOU-276,Red Fort,Delhi,2025-03,595131,74313,79.4
+TOU-276,Red Fort,Delhi,2025-04,387278,42564,70.7
+TOU-276,Red Fort,Delhi,2025-05,321917,33029,63.5
+TOU-276,Red Fort,Delhi,2025-06,265728,21901,57.4
+TOU-276,Red Fort,Delhi,2025-07,280380,24750,63.6
+TOU-276,Red Fort,Delhi,2025-08,310388,26413,61.9
+TOU-276,Red Fort,Delhi,2025-09,462547,36743,70.8
+TOU-276,Red Fort,Delhi,2025-10,628441,75990,86.9
+TOU-276,Red Fort,Delhi,2025-11,738523,98777,93.2
+TOU-276,Red Fort,Delhi,2025-12,754192,113243,89.1
+TOU-277,India Gate,Delhi,2025-01,921524,101882,84.8
+TOU-277,India Gate,Delhi,2025-02,809657,99129,78.4
+TOU-277,India Gate,Delhi,2025-03,840631,74294,72.5
+TOU-277,India Gate,Delhi,2025-04,767533,42840,65.5
+TOU-277,India Gate,Delhi,2025-05,673136,32538,67.9
+TOU-277,India Gate,Delhi,2025-06,636650,27779,59.0
+TOU-277,India Gate,Delhi,2025-07,594156,24587,52.1
+TOU-277,India Gate,Delhi,2025-08,633254,27209,61.9
+TOU-277,India Gate,Delhi,2025-09,696320,37373,69.5
+TOU-277,India Gate,Delhi,2025-10,841151,75181,87.6
+TOU-277,India Gate,Delhi,2025-11,858681,97013,88.8
+TOU-277,India Gate,Delhi,2025-12,956991,108101,91.5
+TOU-278,Qutub Minar,Delhi,2025-01,410949,71160,76.8
+TOU-278,Qutub Minar,Delhi,2025-02,423598,66360,77.0
+TOU-278,Qutub Minar,Delhi,2025-03,383616,55770,72.9
+TOU-278,Qutub Minar,Delhi,2025-04,253133,35948,64.0
+TOU-278,Qutub Minar,Delhi,2025-05,203553,24780,53.4
+TOU-278,Qutub Minar,Delhi,2025-06,172721,20105,53.2
+TOU-278,Qutub Minar,Delhi,2025-07,186579,18294,55.5
+TOU-278,Qutub Minar,Delhi,2025-08,200295,20896,55.5
+TOU-278,Qutub Minar,Delhi,2025-09,276248,25800,64.7
+TOU-278,Qutub Minar,Delhi,2025-10,453558,50581,75.8
+TOU-278,Qutub Minar,Delhi,2025-11,529033,76315,82.9
+TOU-278,Qutub Minar,Delhi,2025-12,449556,84467,78.7
+TOU-279,Humayuns Tomb,Delhi,2025-01,256569,74654,79.7
+TOU-279,Humayuns Tomb,Delhi,2025-02,286272,59700,80.4
+TOU-279,Humayuns Tomb,Delhi,2025-03,223090,48978,74.9
+TOU-279,Humayuns Tomb,Delhi,2025-04,156638,30909,63.2
+TOU-279,Humayuns Tomb,Delhi,2025-05,123041,22060,55.7
+TOU-279,Humayuns Tomb,Delhi,2025-06,105370,16339,53.8
+TOU-279,Humayuns Tomb,Delhi,2025-07,119731,17092,57.0
+TOU-279,Humayuns Tomb,Delhi,2025-08,139119,16712,59.5
+TOU-279,Humayuns Tomb,Delhi,2025-09,179830,27424,65.3
+TOU-279,Humayuns Tomb,Delhi,2025-10,295922,51924,80.7
+TOU-279,Humayuns Tomb,Delhi,2025-11,305008,73013,85.7
+TOU-279,Humayuns Tomb,Delhi,2025-12,321200,76937,84.5
+TOU-280,Lotus Temple,Delhi,2025-01,313087,46272,80.4
+TOU-280,Lotus Temple,Delhi,2025-02,321710,42677,74.8
+TOU-280,Lotus Temple,Delhi,2025-03,281081,34229,72.3
+TOU-280,Lotus Temple,Delhi,2025-04,253158,23087,60.7
+TOU-280,Lotus Temple,Delhi,2025-05,264971,14438,59.9
+TOU-280,Lotus Temple,Delhi,2025-06,244202,11276,56.7
+TOU-280,Lotus Temple,Delhi,2025-07,236395,12413,51.2
+TOU-280,Lotus Temple,Delhi,2025-08,243104,14002,56.8
+TOU-280,Lotus Temple,Delhi,2025-09,264165,18923,65.6
+TOU-280,Lotus Temple,Delhi,2025-10,347313,33590,83.6
+TOU-280,Lotus Temple,Delhi,2025-11,324528,50967,82.4
+TOU-280,Lotus Temple,Delhi,2025-12,376130,52087,87.8
+TOU-281,Akshardham Temple Delhi,Delhi,2025-01,475482,50626,80.2
+TOU-281,Akshardham Temple Delhi,Delhi,2025-02,426342,41667,70.7
+TOU-281,Akshardham Temple Delhi,Delhi,2025-03,442690,34436,70.3
+TOU-281,Akshardham Temple Delhi,Delhi,2025-04,425512,20120,68.6
+TOU-281,Akshardham Temple Delhi,Delhi,2025-05,380882,14491,66.8
+TOU-281,Akshardham Temple Delhi,Delhi,2025-06,371834,11305,52.2
+TOU-281,Akshardham Temple Delhi,Delhi,2025-07,369053,12266,61.1
+TOU-281,Akshardham Temple Delhi,Delhi,2025-08,384434,14527,68.7
+TOU-281,Akshardham Temple Delhi,Delhi,2025-09,451278,20164,73.3
+TOU-281,Akshardham Temple Delhi,Delhi,2025-10,481670,37290,84.2
+TOU-281,Akshardham Temple Delhi,Delhi,2025-11,551468,50150,87.2
+TOU-281,Akshardham Temple Delhi,Delhi,2025-12,468978,59664,83.0
+TOU-282,Jama Masjid Delhi,Delhi,2025-01,334807,42260,79.6
+TOU-282,Jama Masjid Delhi,Delhi,2025-02,357878,40784,80.6
+TOU-282,Jama Masjid Delhi,Delhi,2025-03,303410,30154,78.1
+TOU-282,Jama Masjid Delhi,Delhi,2025-04,204881,17548,68.6
+TOU-282,Jama Masjid Delhi,Delhi,2025-05,148601,12184,60.5
+TOU-282,Jama Masjid Delhi,Delhi,2025-06,136113,10740,58.5
+TOU-282,Jama Masjid Delhi,Delhi,2025-07,154873,9198,60.2
+TOU-282,Jama Masjid Delhi,Delhi,2025-08,173833,10383,63.3
+TOU-282,Jama Masjid Delhi,Delhi,2025-09,227079,16666,68.5
+TOU-282,Jama Masjid Delhi,Delhi,2025-10,340952,31976,81.2
+TOU-282,Jama Masjid Delhi,Delhi,2025-11,403652,47798,87.0
+TOU-282,Jama Masjid Delhi,Delhi,2025-12,373623,54377,84.3
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-01,359126,9733,82.1
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-02,374891,12101,83.8
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-03,335110,11386,78.7
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-04,307722,10202,75.7
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-05,303955,8255,67.5
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-06,206982,6873,53.9
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-07,257746,6757,61.2
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-08,236408,6821,63.2
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-09,286375,7771,70.1
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-10,406949,12352,87.5
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-11,394001,11333,86.1
+TOU-283,Dal Lake Srinagar,Jammu and Kashmir,2025-12,360956,11026,86.3
+TOU-284,Gulmarg,Jammu and Kashmir,2025-01,288218,12590,80.2
+TOU-284,Gulmarg,Jammu and Kashmir,2025-02,264500,10540,78.8
+TOU-284,Gulmarg,Jammu and Kashmir,2025-03,179691,7361,67.5
+TOU-284,Gulmarg,Jammu and Kashmir,2025-04,167729,6861,68.2
+TOU-284,Gulmarg,Jammu and Kashmir,2025-05,188865,7924,69.1
+TOU-284,Gulmarg,Jammu and Kashmir,2025-06,184060,7032,66.6
+TOU-284,Gulmarg,Jammu and Kashmir,2025-07,118404,4912,61.1
+TOU-284,Gulmarg,Jammu and Kashmir,2025-08,115148,3905,55.7
+TOU-284,Gulmarg,Jammu and Kashmir,2025-09,143249,5191,63.4
+TOU-284,Gulmarg,Jammu and Kashmir,2025-10,173319,6445,69.7
+TOU-284,Gulmarg,Jammu and Kashmir,2025-11,167772,7297,66.4
+TOU-284,Gulmarg,Jammu and Kashmir,2025-12,303645,12214,81.7
+TOU-285,Pahalgam,Jammu and Kashmir,2025-01,117815,942,61.8
+TOU-285,Pahalgam,Jammu and Kashmir,2025-02,96951,1286,57.2
+TOU-285,Pahalgam,Jammu and Kashmir,2025-03,125080,2902,62.9
+TOU-285,Pahalgam,Jammu and Kashmir,2025-04,183314,4734,74.9
+TOU-285,Pahalgam,Jammu and Kashmir,2025-05,231732,4409,82.9
+TOU-285,Pahalgam,Jammu and Kashmir,2025-06,217486,2980,82.9
+TOU-285,Pahalgam,Jammu and Kashmir,2025-07,131866,1751,65.7
+TOU-285,Pahalgam,Jammu and Kashmir,2025-08,101143,2005,61.4
+TOU-285,Pahalgam,Jammu and Kashmir,2025-09,131784,4419,66.0
+TOU-285,Pahalgam,Jammu and Kashmir,2025-10,173787,4849,74.2
+TOU-285,Pahalgam,Jammu and Kashmir,2025-11,125831,3120,67.6
+TOU-285,Pahalgam,Jammu and Kashmir,2025-12,188551,1573,77.4
+TOU-286,Sonamarg,Jammu and Kashmir,2025-01,90213,790,55.3
+TOU-286,Sonamarg,Jammu and Kashmir,2025-02,72733,877,46.1
+TOU-286,Sonamarg,Jammu and Kashmir,2025-03,90281,2046,55.9
+TOU-286,Sonamarg,Jammu and Kashmir,2025-04,127224,3535,74.2
+TOU-286,Sonamarg,Jammu and Kashmir,2025-05,176168,3189,91.1
+TOU-286,Sonamarg,Jammu and Kashmir,2025-06,167949,2110,86.4
+TOU-286,Sonamarg,Jammu and Kashmir,2025-07,98509,1358,62.6
+TOU-286,Sonamarg,Jammu and Kashmir,2025-08,80154,1615,51.5
+TOU-286,Sonamarg,Jammu and Kashmir,2025-09,93220,3585,61.7
+TOU-286,Sonamarg,Jammu and Kashmir,2025-10,119886,3877,73.8
+TOU-286,Sonamarg,Jammu and Kashmir,2025-11,93676,2395,60.7
+TOU-286,Sonamarg,Jammu and Kashmir,2025-12,129030,1264,79.9
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-01,533731,2721,60.3
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-02,496244,2215,52.3
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-03,811793,1702,77.0
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-04,1026136,1059,82.3
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-05,1119138,837,84.7
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-06,1119621,609,87.1
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-07,731576,585,67.7
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-08,548057,652,61.7
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-09,861389,964,77.1
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-10,1016622,1749,84.8
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-11,642001,2585,66.2
+TOU-287,Vaishno Devi Shrine Katra,Jammu and Kashmir,2025-12,573834,2884,63.3
+TOU-288,Patnitop,Jammu and Kashmir,2025-01,141094,384,84.5
+TOU-288,Patnitop,Jammu and Kashmir,2025-02,110600,330,77.7
+TOU-288,Patnitop,Jammu and Kashmir,2025-03,77933,244,63.0
+TOU-288,Patnitop,Jammu and Kashmir,2025-04,82131,211,64.8
+TOU-288,Patnitop,Jammu and Kashmir,2025-05,94214,249,66.7
+TOU-288,Patnitop,Jammu and Kashmir,2025-06,75704,216,65.8
+TOU-288,Patnitop,Jammu and Kashmir,2025-07,47187,160,52.6
+TOU-288,Patnitop,Jammu and Kashmir,2025-08,44395,133,49.3
+TOU-288,Patnitop,Jammu and Kashmir,2025-09,61485,166,58.4
+TOU-288,Patnitop,Jammu and Kashmir,2025-10,79928,234,66.2
+TOU-288,Patnitop,Jammu and Kashmir,2025-11,81416,236,65.2
+TOU-288,Patnitop,Jammu and Kashmir,2025-12,141707,411,84.3
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-01,999,2,40.9
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-02,991,2,42.0
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-03,1028,2,42.1
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-04,950,2,40.8
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-05,1453,3,41.4
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-06,5081,12,43.3
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-07,404720,834,83.4
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-08,314426,572,75.8
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-09,5715,10,43.8
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-10,1551,3,40.8
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-11,924,2,40.4
+TOU-289,Amarnath Cave Temple,Jammu and Kashmir,2025-12,993,2,42.0
+TOU-290,Leh Palace,Ladakh,2025-01,5556,1546,40.3
+TOU-290,Leh Palace,Ladakh,2025-02,4797,1423,41.6
+TOU-290,Leh Palace,Ladakh,2025-03,9081,2361,42.5
+TOU-290,Leh Palace,Ladakh,2025-04,31863,8072,55.6
+TOU-290,Leh Palace,Ladakh,2025-05,81210,20705,74.8
+TOU-290,Leh Palace,Ladakh,2025-06,112290,23211,85.8
+TOU-290,Leh Palace,Ladakh,2025-07,124338,24674,86.4
+TOU-290,Leh Palace,Ladakh,2025-08,129740,28842,85.3
+TOU-290,Leh Palace,Ladakh,2025-09,96929,19955,74.6
+TOU-290,Leh Palace,Ladakh,2025-10,34948,8292,57.1
+TOU-290,Leh Palace,Ladakh,2025-11,9314,2630,43.2
+TOU-290,Leh Palace,Ladakh,2025-12,5322,1610,40.0
+TOU-291,Pangong Tso,Ladakh,2025-01,3789,589,44.7
+TOU-291,Pangong Tso,Ladakh,2025-02,3415,586,43.2
+TOU-291,Pangong Tso,Ladakh,2025-03,6257,992,51.4
+TOU-291,Pangong Tso,Ladakh,2025-04,24152,2782,56.9
+TOU-291,Pangong Tso,Ladakh,2025-05,62298,8622,76.5
+TOU-291,Pangong Tso,Ladakh,2025-06,94595,11140,89.1
+TOU-291,Pangong Tso,Ladakh,2025-07,97494,12489,89.5
+TOU-291,Pangong Tso,Ladakh,2025-08,106178,10412,89.1
+TOU-291,Pangong Tso,Ladakh,2025-09,76050,7935,79.6
+TOU-291,Pangong Tso,Ladakh,2025-10,29360,3823,61.4
+TOU-291,Pangong Tso,Ladakh,2025-11,6733,885,49.7
+TOU-291,Pangong Tso,Ladakh,2025-12,3808,576,45.0
+TOU-292,Nubra Valley,Ladakh,2025-01,4272,953,55.1
+TOU-292,Nubra Valley,Ladakh,2025-02,4240,889,59.2
+TOU-292,Nubra Valley,Ladakh,2025-03,7429,1546,59.3
+TOU-292,Nubra Valley,Ladakh,2025-04,23221,3856,67.6
+TOU-292,Nubra Valley,Ladakh,2025-05,59637,8120,78.6
+TOU-292,Nubra Valley,Ladakh,2025-06,75971,10501,87.0
+TOU-292,Nubra Valley,Ladakh,2025-07,79674,12496,86.7
+TOU-292,Nubra Valley,Ladakh,2025-08,74142,11302,84.3
+TOU-292,Nubra Valley,Ladakh,2025-09,58065,9790,79.9
+TOU-292,Nubra Valley,Ladakh,2025-10,24425,4193,67.9
+TOU-292,Nubra Valley,Ladakh,2025-11,6863,1341,58.6
+TOU-292,Nubra Valley,Ladakh,2025-12,4270,826,57.3
+TOU-293,Hemis Monastery,Ladakh,2025-01,2670,597,50.4
+TOU-293,Hemis Monastery,Ladakh,2025-02,2866,630,48.2
+TOU-293,Hemis Monastery,Ladakh,2025-03,4239,1155,53.1
+TOU-293,Hemis Monastery,Ladakh,2025-04,14496,3605,61.0
+TOU-293,Hemis Monastery,Ladakh,2025-05,32259,9167,74.6
+TOU-293,Hemis Monastery,Ladakh,2025-06,44533,12726,82.7
+TOU-293,Hemis Monastery,Ladakh,2025-07,49898,13360,85.8
+TOU-293,Hemis Monastery,Ladakh,2025-08,48616,12489,85.7
+TOU-293,Hemis Monastery,Ladakh,2025-09,37358,10079,76.5
+TOU-293,Hemis Monastery,Ladakh,2025-10,16669,4319,62.9
+TOU-293,Hemis Monastery,Ladakh,2025-11,4361,1132,50.2
+TOU-293,Hemis Monastery,Ladakh,2025-12,2671,639,49.7
+TOU-294,Tso Moriri,Ladakh,2025-01,1715,284,48.5
+TOU-294,Tso Moriri,Ladakh,2025-02,1768,269,48.1
+TOU-294,Tso Moriri,Ladakh,2025-03,2896,400,51.3
+TOU-294,Tso Moriri,Ladakh,2025-04,7320,1147,63.2
+TOU-294,Tso Moriri,Ladakh,2025-05,18672,2756,79.1
+TOU-294,Tso Moriri,Ladakh,2025-06,24067,3238,87.6
+TOU-294,Tso Moriri,Ladakh,2025-07,26476,3650,87.6
+TOU-294,Tso Moriri,Ladakh,2025-08,26034,3599,86.5
+TOU-294,Tso Moriri,Ladakh,2025-09,19332,3043,78.9
+TOU-294,Tso Moriri,Ladakh,2025-10,9613,1207,63.8
+TOU-294,Tso Moriri,Ladakh,2025-11,2760,411,52.6
+TOU-294,Tso Moriri,Ladakh,2025-12,1579,267,50.3
+TOU-295,Agatti Island,Lakshadweep,2025-01,9736,375,84.2
+TOU-295,Agatti Island,Lakshadweep,2025-02,9046,361,85.6
+TOU-295,Agatti Island,Lakshadweep,2025-03,8834,330,82.6
+TOU-295,Agatti Island,Lakshadweep,2025-04,7299,265,80.8
+TOU-295,Agatti Island,Lakshadweep,2025-05,4966,177,72.1
+TOU-295,Agatti Island,Lakshadweep,2025-06,1403,48,60.0
+TOU-295,Agatti Island,Lakshadweep,2025-07,1084,39,56.8
+TOU-295,Agatti Island,Lakshadweep,2025-08,1101,39,55.6
+TOU-295,Agatti Island,Lakshadweep,2025-09,2695,108,61.7
+TOU-295,Agatti Island,Lakshadweep,2025-10,6712,236,77.2
+TOU-295,Agatti Island,Lakshadweep,2025-11,8946,350,80.6
+TOU-295,Agatti Island,Lakshadweep,2025-12,9815,459,86.9
+TOU-296,Bangaram Island,Lakshadweep,2025-01,3964,517,85.5
+TOU-296,Bangaram Island,Lakshadweep,2025-02,4304,505,85.1
+TOU-296,Bangaram Island,Lakshadweep,2025-03,3721,453,82.0
+TOU-296,Bangaram Island,Lakshadweep,2025-04,2848,354,76.2
+TOU-296,Bangaram Island,Lakshadweep,2025-05,1859,207,68.8
+TOU-296,Bangaram Island,Lakshadweep,2025-06,569,63,51.3
+TOU-296,Bangaram Island,Lakshadweep,2025-07,437,45,45.8
+TOU-296,Bangaram Island,Lakshadweep,2025-08,468,51,49.4
+TOU-296,Bangaram Island,Lakshadweep,2025-09,1071,134,58.0
+TOU-296,Bangaram Island,Lakshadweep,2025-10,2914,327,75.1
+TOU-296,Bangaram Island,Lakshadweep,2025-11,3578,490,85.7
+TOU-296,Bangaram Island,Lakshadweep,2025-12,3925,549,87.9
+TOU-297,Kavaratti Island,Lakshadweep,2025-01,8212,176,81.2
+TOU-297,Kavaratti Island,Lakshadweep,2025-02,8492,157,79.8
+TOU-297,Kavaratti Island,Lakshadweep,2025-03,7800,143,80.6
+TOU-297,Kavaratti Island,Lakshadweep,2025-04,5658,118,73.6
+TOU-297,Kavaratti Island,Lakshadweep,2025-05,3733,76,68.9
+TOU-297,Kavaratti Island,Lakshadweep,2025-06,1215,19,55.5
+TOU-297,Kavaratti Island,Lakshadweep,2025-07,965,14,52.2
+TOU-297,Kavaratti Island,Lakshadweep,2025-08,883,12,51.8
+TOU-297,Kavaratti Island,Lakshadweep,2025-09,2366,39,62.3
+TOU-297,Kavaratti Island,Lakshadweep,2025-10,5447,103,70.3
+TOU-297,Kavaratti Island,Lakshadweep,2025-11,6971,167,77.5
+TOU-297,Kavaratti Island,Lakshadweep,2025-12,7980,167,82.3
+TOU-298,Minicoy Island,Lakshadweep,2025-01,6850,182,84.3
+TOU-298,Minicoy Island,Lakshadweep,2025-02,6780,205,86.3
+TOU-298,Minicoy Island,Lakshadweep,2025-03,5623,179,85.3
+TOU-298,Minicoy Island,Lakshadweep,2025-04,4557,143,78.6
+TOU-298,Minicoy Island,Lakshadweep,2025-05,3005,92,70.9
+TOU-298,Minicoy Island,Lakshadweep,2025-06,869,26,60.1
+TOU-298,Minicoy Island,Lakshadweep,2025-07,627,19,57.0
+TOU-298,Minicoy Island,Lakshadweep,2025-08,653,18,56.2
+TOU-298,Minicoy Island,Lakshadweep,2025-09,1784,51,63.5
+TOU-298,Minicoy Island,Lakshadweep,2025-10,4392,118,77.6
+TOU-298,Minicoy Island,Lakshadweep,2025-11,5851,171,82.2
+TOU-298,Minicoy Island,Lakshadweep,2025-12,7398,221,85.7
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-01,324218,24232,77.3
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-02,272307,21950,73.2
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-03,227442,18007,69.8
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-04,206144,15747,58.6
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-05,173016,14125,55.6
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-06,179186,13851,54.6
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-07,169137,12469,49.9
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-08,175360,12918,55.2
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-09,193956,14918,58.4
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-10,257956,19166,68.3
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-11,296496,25358,74.6
+TOU-299,Promenade Beach Puducherry,Puducherry,2025-12,369866,31219,85.2
+TOU-300,Auroville Matrimandir,Puducherry,2025-01,141403,64725,75.9
+TOU-300,Auroville Matrimandir,Puducherry,2025-02,125477,55891,70.9
+TOU-300,Auroville Matrimandir,Puducherry,2025-03,131988,43039,72.8
+TOU-300,Auroville Matrimandir,Puducherry,2025-04,124133,25722,71.3
+TOU-300,Auroville Matrimandir,Puducherry,2025-05,121283,19001,67.6
+TOU-300,Auroville Matrimandir,Puducherry,2025-06,107826,13901,58.2
+TOU-300,Auroville Matrimandir,Puducherry,2025-07,110363,14428,67.3
+TOU-300,Auroville Matrimandir,Puducherry,2025-08,116780,17531,66.0
+TOU-300,Auroville Matrimandir,Puducherry,2025-09,121903,21789,67.0
+TOU-300,Auroville Matrimandir,Puducherry,2025-10,138429,43869,78.7
+TOU-300,Auroville Matrimandir,Puducherry,2025-11,142197,66542,82.0
+TOU-300,Auroville Matrimandir,Puducherry,2025-12,157212,73707,78.7
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-01,115120,8402,75.6
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-02,112751,7104,72.6
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-03,95847,5409,68.2
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-04,76766,4941,64.4
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-05,71566,4208,61.2
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-06,66447,3851,63.7
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-07,68948,3361,58.8
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-08,69007,3980,62.4
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-09,78532,4887,63.9
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-10,93907,6484,70.0
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-11,116613,7125,75.3
+TOU-301,Paradise Beach Puducherry,Puducherry,2025-12,156136,9390,81.8
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-01,140501,37162,78.7
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-02,129107,32202,69.3
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-03,127457,23338,70.4
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-04,142108,14045,70.1
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-05,126215,9530,66.6
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-06,119180,9012,55.7
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-07,115328,8021,63.0
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-08,131522,9805,66.4
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-09,132718,11799,71.2
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-10,149795,23060,80.3
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-11,161446,33178,85.0
+TOU-302,Sri Aurobindo Ashram,Puducherry,2025-12,153652,38374,81.9
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-01,65195,4532,73.7
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-02,61830,4544,66.4
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-03,58996,3535,67.1
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-04,57801,2296,67.7
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-05,58150,1644,60.7
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-06,46990,1296,50.8
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-07,56373,1228,54.5
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-08,57604,1364,62.2
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-09,57926,1793,70.0
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-10,63535,3827,80.5
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-11,73325,4258,82.7
+TOU-303,Basilica of the Sacred Heart Puducherry,Puducherry,2025-12,71203,5464,79.1
